@@ -1,0 +1,6227 @@
+x = 576,  y= 148, delta = 0
+x = 571,  y= 150, delta = 0
+x = 512,  y= 167, delta = 0
+x = 464,  y= 176, delta = 0
+x = 238,  y= 245, delta = 0
+x = 210,  y= 256, delta = 0
+x = 190,  y= 265, delta = 0
+x = 158,  y= 277, delta = 0
+x = 151,  y= 281, delta = 0
+x = 138,  y= 287, delta = 0
+x = 133,  y= 291, delta = 0
+x = 128,  y= 292, delta = 0
+x = 125,  y= 295, delta = 0
+x = 121,  y= 297, delta = 0
+x = 119,  y= 297, delta = 0
+x = 117,  y= 299, delta = 0
+x = 116,  y= 299, delta = 0
+x = 114,  y= 299, delta = 0
+x = 113,  y= 301, delta = 0
+x = 109,  y= 304, delta = 0
+x = 97,  y= 311, delta = 0
+x = 51,  y= 330, delta = 0
+x = 29,  y= 336, delta = 0
+x = 15,  y= 341, delta = 0
+x = 4,  y= 344, delta = 0
+x = -4,  y= 347, delta = 0
+x = -7,  y= 349, delta = 0
+x = -4,  y= 350, delta = 0
+x = -5,  y= 351, delta = 0
+x = -3,  y= 352, delta = 0
+x = -2,  y= 353, delta = 0
+x = -1,  y= 353, delta = 0
+x = -1,  y= 353, delta = 0
+x = 0,  y= 354, delta = 0
+x = 0,  y= 354, delta = 0
+x = -1,  y= 354, delta = 0
+x = -1,  y= 355, delta = 0
+x = 0,  y= 356, delta = 0
+x = 0,  y= 357, delta = 0
+x = -1,  y= 358, delta = 0
+x = 0,  y= 361, delta = 0
+x = 0,  y= 362, delta = 0
+x = 0,  y= 366, delta = 0
+x = 0,  y= 371, delta = 0
+x = 0,  y= 373, delta = 0
+x = 2,  y= 377, delta = 0
+x = 128,  y= 456, delta = 0
+x = 148,  y= 465, delta = 0
+x = 166,  y= 474, delta = 0
+x = 180,  y= 483, delta = 0
+x = 191,  y= 490, delta = 0
+x = 201,  y= 494, delta = 0
+x = 207,  y= 497, delta = 0
+x = 211,  y= 499, delta = 0
+x = 214,  y= 500, delta = 0
+x = 215,  y= 500, delta = 0
+x = 216,  y= 500, delta = 0
+x = 219,  y= 500, delta = 0
+x = 223,  y= 500, delta = 0
+x = 227,  y= 500, delta = 0
+x = 243,  y= 500, delta = 0
+x = 253,  y= 501, delta = 0
+x = 263,  y= 502, delta = 0
+x = 294,  y= 514, delta = 0
+x = 308,  y= 519, delta = 0
+x = 326,  y= 525, delta = 0
+x = 338,  y= 531, delta = 0
+x = 350,  y= 534, delta = 0
+x = 362,  y= 539, delta = 0
+x = 376,  y= 542, delta = 0
+x = 386,  y= 547, delta = 0
+x = 397,  y= 552, delta = 0
+x = 404,  y= 554, delta = 0
+x = 410,  y= 557, delta = 0
+x = 415,  y= 561, delta = 0
+x = 421,  y= 563, delta = 0
+x = 424,  y= 565, delta = 0
+x = 424,  y= 565, delta = 0
+x = 425,  y= 565, delta = 0
+x = 425,  y= 565, delta = 0
+x = 426,  y= 565, delta = 0
+x = 426,  y= 565, delta = 0
+x = 427,  y= 565, delta = 0
+x = 428,  y= 565, delta = 0
+x = 429,  y= 565, delta = 0
+x = 429,  y= 565, delta = 0
+x = 430,  y= 565, delta = 0
+x = 430,  y= 565, delta = 0
+x = 431,  y= 565, delta = 0
+x = 431,  y= 565, delta = 0
+x = 431,  y= 562, delta = 0
+x = 432,  y= 524, delta = 0
+x = 439,  y= 481, delta = 0
+x = 466,  y= 400, delta = 0
+x = 505,  y= 306, delta = 0
+x = 520,  y= 277, delta = 0
+x = 535,  y= 253, delta = 0
+x = 556,  y= 220, delta = 0
+x = 571,  y= 200, delta = 0
+x = 584,  y= 188, delta = 0
+x = 595,  y= 175, delta = 0
+x = 605,  y= 168, delta = 0
+x = 614,  y= 161, delta = 0
+x = 614,  y= 160, delta = 0
+x = 614,  y= 157, delta = 0
+x = 615,  y= 144, delta = 0
+x = 616,  y= 135, delta = 0
+x = 620,  y= 115, delta = 0
+x = 631,  y= 83, delta = 0
+x = 640,  y= 67, delta = 0
+x = 643,  y= 61, delta = 0
+x = 646,  y= 57, delta = 0
+x = 646,  y= 54, delta = 0
+x = 647,  y= 53, delta = 0
+x = 648,  y= 52, delta = 0
+x = 648,  y= 52, delta = 0
+x = 648,  y= 51, delta = 0
+x = 647,  y= 51, delta = 0
+x = 647,  y= 52, delta = 0
+x = 644,  y= 55, delta = 0
+x = 643,  y= 57, delta = 0
+x = 641,  y= 58, delta = 0
+x = 641,  y= 59, delta = 0
+x = 641,  y= 59, delta = 0
+x = 640,  y= 60, delta = 0
+x = 640,  y= 61, delta = 0
+x = 639,  y= 61, delta = 0
+x = 639,  y= 62, delta = 0
+x = 638,  y= 62, delta = 0
+x = 637,  y= 64, delta = 0
+x = 636,  y= 64, delta = 0
+x = 636,  y= 64, delta = 0
+x = 874,  y= 323, delta = 0
+x = 871,  y= 311, delta = 0
+x = 863,  y= 293, delta = 0
+x = 852,  y= 267, delta = 0
+x = 819,  y= 201, delta = 0
+x = 803,  y= 170, delta = 0
+x = 789,  y= 148, delta = 0
+x = 777,  y= 131, delta = 0
+x = 754,  y= 94, delta = 0
+x = 738,  y= 69, delta = 0
+x = 727,  y= 53, delta = 0
+x = 710,  y= 28, delta = 0
+x = 704,  y= 17, delta = 0
+x = 698,  y= 9, delta = 0
+x = 693,  y= 0, delta = 0
+x = 690,  y= -5, delta = 0
+x = 687,  y= -4, delta = 0
+x = 687,  y= -2, delta = 0
+x = 686,  y= -1, delta = 0
+x = 685,  y= -1, delta = 0
+x = 685,  y= -1, delta = 0
+x = 685,  y= 0, delta = 0
+x = 685,  y= -1, delta = 0
+x = 684,  y= 0, delta = 0
+x = 684,  y= -1, delta = 0
+x = 683,  y= 1, delta = 0
+x = 682,  y= 2, delta = 0
+x = 679,  y= 4, delta = 0
+x = 676,  y= 7, delta = 0
+x = 672,  y= 12, delta = 0
+x = 668,  y= 17, delta = 0
+x = 665,  y= 20, delta = 0
+x = 661,  y= 26, delta = 0
+x = 657,  y= 30, delta = 0
+x = 654,  y= 33, delta = 0
+x = 652,  y= 37, delta = 0
+x = 650,  y= 39, delta = 0
+x = 650,  y= 40, delta = 0
+x = 648,  y= 42, delta = 0
+x = 647,  y= 43, delta = 0
+x = 645,  y= 45, delta = 0
+x = 644,  y= 47, delta = 0
+x = 641,  y= 49, delta = 0
+x = 640,  y= 49, delta = 0
+x = 639,  y= 51, delta = 0
+x = 638,  y= 51, delta = 0
+x = 636,  y= 52, delta = 0
+x = 636,  y= 52, delta = 0
+x = 636,  y= 52, delta = 0
+x = 636,  y= 53, delta = 0
+x = 635,  y= 53, delta = 0
+x = 634,  y= 53, delta = 0
+x = 634,  y= 54, delta = 0
+x = 634,  y= 54, delta = 0
+x = 635,  y= 55, delta = 0
+x = 635,  y= 55, delta = 0
+x = 636,  y= 56, delta = 0
+x = 636,  y= 56, delta = 0
+x = 637,  y= 58, delta = 0
+x = 638,  y= 58, delta = 0
+x = 639,  y= 60, delta = 0
+x = 640,  y= 60, delta = 0
+x = 640,  y= 62, delta = 0
+x = 641,  y= 63, delta = 0
+x = 641,  y= 64, delta = 0
+x = 641,  y= 64, delta = 0
+x = 641,  y= 65, delta = 0
+x = 642,  y= 65, delta = 0
+x = 642,  y= 65, delta = 0
+x = 642,  y= 66, delta = 0
+x = 642,  y= 66, delta = 0
+x = 642,  y= 66, delta = 0
+x = 641,  y= 66, delta = 0
+x = 641,  y= 66, delta = 0
+x = 640,  y= 66, delta = 0
+x = 640,  y= 66, delta = 0
+x = 639,  y= 66, delta = 0
+x = 638,  y= 66, delta = 0
+x = 638,  y= 66, delta = 0
+x = 637,  y= 66, delta = 0
+x = 637,  y= 66, delta = 0
+x = 637,  y= 67, delta = 0
+x = 636,  y= 67, delta = 0
+x = 636,  y= 68, delta = 0
+x = 636,  y= 68, delta = 0
+x = 635,  y= 70, delta = 0
+x = 634,  y= 71, delta = 0
+x = 633,  y= 76, delta = 0
+x = 633,  y= 79, delta = 0
+x = 633,  y= 83, delta = 0
+x = 632,  y= 91, delta = 0
+x = 632,  y= 96, delta = 0
+x = 632,  y= 110, delta = 0
+x = 632,  y= 124, delta = 0
+x = 633,  y= 149, delta = 0
+x = 636,  y= 167, delta = 0
+x = 641,  y= 181, delta = 0
+x = 645,  y= 195, delta = 0
+x = 648,  y= 201, delta = 0
+x = 651,  y= 207, delta = 0
+x = 652,  y= 206, delta = 0
+x = 653,  y= 203, delta = 0
+x = 653,  y= 201, delta = 0
+x = 655,  y= 197, delta = 0
+x = 658,  y= 192, delta = 0
+x = 661,  y= 184, delta = 0
+x = 669,  y= 166, delta = 0
+x = 676,  y= 148, delta = 0
+x = 682,  y= 134, delta = 0
+x = 686,  y= 121, delta = 0
+x = 692,  y= 109, delta = 0
+x = 697,  y= 97, delta = 0
+x = 702,  y= 84, delta = 0
+x = 705,  y= 77, delta = 0
+x = 708,  y= 69, delta = 0
+x = 710,  y= 62, delta = 0
+x = 711,  y= 57, delta = 0
+x = 711,  y= 55, delta = 0
+x = 711,  y= 52, delta = 0
+x = 710,  y= 50, delta = 0
+x = 704,  y= 47, delta = 0
+x = 698,  y= 45, delta = 0
+x = 691,  y= 44, delta = 0
+x = 683,  y= 42, delta = 0
+x = 665,  y= 42, delta = 0
+x = 650,  y= 42, delta = 0
+x = 640,  y= 42, delta = 0
+x = 627,  y= 42, delta = 0
+x = 617,  y= 46, delta = 0
+x = 604,  y= 49, delta = 0
+x = 596,  y= 51, delta = 0
+x = 589,  y= 54, delta = 0
+x = 583,  y= 58, delta = 0
+x = 578,  y= 62, delta = 0
+x = 562,  y= 80, delta = 0
+x = 559,  y= 87, delta = 0
+x = 556,  y= 93, delta = 0
+x = 554,  y= 102, delta = 0
+x = 552,  y= 105, delta = 0
+x = 551,  y= 108, delta = 0
+x = 551,  y= 111, delta = 0
+x = 551,  y= 113, delta = 0
+x = 551,  y= 115, delta = 0
+x = 551,  y= 116, delta = 0
+x = 551,  y= 116, delta = 0
+x = 551,  y= 117, delta = 0
+x = 551,  y= 117, delta = 0
+x = 551,  y= 118, delta = 0
+x = 553,  y= 118, delta = 0
+x = 555,  y= 119, delta = 0
+x = 559,  y= 119, delta = 0
+x = 561,  y= 120, delta = 0
+x = 565,  y= 120, delta = 0
+x = 568,  y= 120, delta = 0
+x = 570,  y= 120, delta = 0
+x = 572,  y= 121, delta = 0
+x = 573,  y= 121, delta = 0
+x = 574,  y= 121, delta = 0
+x = 574,  y= 122, delta = 0
+x = 575,  y= 122, delta = 0
+x = 575,  y= 122, delta = 0
+x = 576,  y= 122, delta = 0
+x = 576,  y= 122, delta = 0
+x = 577,  y= 122, delta = 0
+x = 577,  y= 122, delta = 0
+x = 578,  y= 122, delta = 0
+x = 579,  y= 122, delta = 0
+x = 580,  y= 122, delta = 0
+x = 582,  y= 122, delta = 0
+x = 585,  y= 120, delta = 0
+x = 587,  y= 117, delta = 0
+x = 589,  y= 116, delta = 0
+x = 592,  y= 112, delta = 0
+x = 594,  y= 110, delta = 0
+x = 597,  y= 105, delta = 0
+x = 602,  y= 98, delta = 0
+x = 607,  y= 92, delta = 0
+x = 612,  y= 82, delta = 0
+x = 614,  y= 79, delta = 0
+x = 616,  y= 75, delta = 0
+x = 617,  y= 72, delta = 0
+x = 619,  y= 70, delta = 0
+x = 620,  y= 69, delta = 0
+x = 620,  y= 68, delta = 0
+x = 620,  y= 67, delta = 0
+x = 621,  y= 67, delta = 0
+x = 623,  y= 67, delta = 0
+x = 625,  y= 67, delta = 0
+x = 628,  y= 68, delta = 0
+x = 632,  y= 69, delta = 0
+x = 635,  y= 70, delta = 0
+x = 639,  y= 70, delta = 0
+x = 640,  y= 71, delta = 0
+x = 641,  y= 71, delta = 0
+x = 642,  y= 71, delta = 0
+x = 642,  y= 72, delta = 0
+x = 643,  y= 72, delta = 0
+x = 643,  y= 72, delta = 0
+x = 996,  y= 176, delta = 0
+x = 998,  y= 182, delta = 0
+x = 998,  y= 190, delta = 0
+x = 995,  y= 206, delta = 0
+x = 986,  y= 223, delta = 0
+x = 969,  y= 246, delta = 0
+x = 947,  y= 269, delta = 0
+x = 899,  y= 295, delta = 0
+x = 829,  y= 312, delta = 0
+x = 751,  y= 312, delta = 0
+x = 684,  y= 312, delta = 0
+x = 631,  y= 309, delta = 0
+x = 579,  y= 303, delta = 0
+x = 548,  y= 300, delta = 0
+x = 522,  y= 295, delta = 0
+x = 512,  y= 290, delta = 0
+x = 506,  y= 284, delta = 0
+x = 497,  y= 271, delta = 0
+x = 488,  y= 233, delta = 0
+x = 486,  y= 178, delta = 0
+x = 495,  y= 131, delta = 0
+x = 510,  y= 84, delta = 0
+x = 532,  y= 42, delta = 0
+x = 550,  y= 17, delta = 0
+x = 568,  y= 1, delta = 0
+x = 589,  y= -13, delta = 0
+x = 635,  y= -14, delta = 0
+x = 678,  y= -7, delta = 0
+x = 743,  y= 5, delta = 0
+x = 790,  y= 21, delta = 0
+x = 855,  y= 46, delta = 0
+x = 904,  y= 79, delta = 0
+x = 951,  y= 115, delta = 0
+x = 971,  y= 134, delta = 0
+x = 996,  y= 172, delta = 0
+x = 1008,  y= 195, delta = 0
+x = 1013,  y= 209, delta = 0
+x = 1015,  y= 225, delta = 0
+x = 1015,  y= 239, delta = 0
+x = 1009,  y= 263, delta = 0
+x = 1000,  y= 279, delta = 0
+x = 981,  y= 299, delta = 0
+x = 941,  y= 326, delta = 0
+x = 883,  y= 351, delta = 0
+x = 685,  y= 392, delta = 0
+x = 616,  y= 400, delta = 0
+x = 517,  y= 408, delta = 0
+x = 493,  y= 408, delta = 0
+x = 464,  y= 407, delta = 0
+x = 454,  y= 404, delta = 0
+x = 435,  y= 389, delta = 0
+x = 429,  y= 380, delta = 0
+x = 422,  y= 296, delta = 0
+x = 459,  y= 150, delta = 0
+x = 487,  y= 100, delta = 0
+x = 559,  y= 32, delta = 0
+x = 607,  y= 8, delta = 0
+x = 731,  y= -8, delta = 0
+x = 794,  y= 3, delta = 0
+x = 901,  y= 46, delta = 0
+x = 942,  y= 80, delta = 0
+x = 980,  y= 124, delta = 0
+x = 1012,  y= 183, delta = 0
+x = 1042,  y= 301, delta = 0
+x = 1042,  y= 334, delta = 0
+x = 1037,  y= 368, delta = 0
+x = 1024,  y= 392, delta = 0
+x = 1010,  y= 407, delta = 0
+x = 972,  y= 436, delta = 0
+x = 912,  y= 458, delta = 0
+x = 821,  y= 474, delta = 0
+x = 731,  y= 483, delta = 0
+x = 668,  y= 489, delta = 0
+x = 605,  y= 491, delta = 0
+x = 575,  y= 492, delta = 0
+x = 547,  y= 494, delta = 0
+x = 528,  y= 494, delta = 0
+x = 513,  y= 494, delta = 0
+x = 499,  y= 494, delta = 0
+x = 485,  y= 493, delta = 0
+x = 471,  y= 487, delta = 0
+x = 460,  y= 482, delta = 0
+x = 450,  y= 475, delta = 0
+x = 441,  y= 463, delta = 0
+x = 434,  y= 450, delta = 0
+x = 426,  y= 423, delta = 0
+x = 424,  y= 379, delta = 0
+x = 432,  y= 334, delta = 0
+x = 455,  y= 279, delta = 0
+x = 486,  y= 225, delta = 0
+x = 506,  y= 198, delta = 0
+x = 538,  y= 168, delta = 0
+x = 575,  y= 146, delta = 0
+x = 616,  y= 131, delta = 0
+x = 660,  y= 119, delta = 0
+x = 717,  y= 122, delta = 0
+x = 765,  y= 134, delta = 0
+x = 810,  y= 155, delta = 0
+x = 858,  y= 183, delta = 0
+x = 892,  y= 216, delta = 0
+x = 916,  y= 239, delta = 0
+x = 936,  y= 264, delta = 0
+x = 954,  y= 301, delta = 0
+x = 965,  y= 334, delta = 0
+x = 968,  y= 360, delta = 0
+x = 968,  y= 373, delta = 0
+x = 962,  y= 395, delta = 0
+x = 953,  y= 406, delta = 0
+x = 915,  y= 433, delta = 0
+x = 836,  y= 462, delta = 0
+x = 737,  y= 475, delta = 0
+x = 655,  y= 482, delta = 0
+x = 585,  y= 482, delta = 0
+x = 537,  y= 482, delta = 0
+x = 492,  y= 475, delta = 0
+x = 447,  y= 468, delta = 0
+x = 410,  y= 453, delta = 0
+x = 375,  y= 429, delta = 0
+x = 355,  y= 412, delta = 0
+x = 344,  y= 400, delta = 0
+x = 330,  y= 369, delta = 0
+x = 323,  y= 334, delta = 0
+x = 323,  y= 307, delta = 0
+x = 339,  y= 247, delta = 0
+x = 368,  y= 189, delta = 0
+x = 397,  y= 148, delta = 0
+x = 437,  y= 106, delta = 0
+x = 490,  y= 60, delta = 0
+x = 548,  y= 26, delta = 0
+x = 597,  y= 13, delta = 0
+x = 657,  y= 7, delta = 0
+x = 699,  y= 9, delta = 0
+x = 751,  y= 25, delta = 0
+x = 799,  y= 53, delta = 0
+x = 848,  y= 88, delta = 0
+x = 886,  y= 119, delta = 0
+x = 918,  y= 162, delta = 0
+x = 941,  y= 205, delta = 0
+x = 952,  y= 243, delta = 0
+x = 954,  y= 295, delta = 0
+x = 948,  y= 324, delta = 0
+x = 935,  y= 343, delta = 0
+x = 887,  y= 371, delta = 0
+x = 818,  y= 404, delta = 0
+x = 719,  y= 422, delta = 0
+x = 641,  y= 422, delta = 0
+x = 568,  y= 422, delta = 0
+x = 513,  y= 419, delta = 0
+x = 474,  y= 413, delta = 0
+x = 440,  y= 408, delta = 0
+x = 419,  y= 404, delta = 0
+x = 401,  y= 396, delta = 0
+x = 387,  y= 387, delta = 0
+x = 377,  y= 378, delta = 0
+x = 365,  y= 359, delta = 0
+x = 356,  y= 334, delta = 0
+x = 352,  y= 298, delta = 0
+x = 352,  y= 262, delta = 0
+x = 369,  y= 216, delta = 0
+x = 399,  y= 165, delta = 0
+x = 430,  y= 126, delta = 0
+x = 483,  y= 78, delta = 0
+x = 537,  y= 40, delta = 0
+x = 598,  y= 8, delta = 0
+x = 649,  y= -3, delta = 0
+x = 695,  y= 0, delta = 0
+x = 746,  y= 10, delta = 0
+x = 798,  y= 33, delta = 0
+x = 844,  y= 56, delta = 0
+x = 888,  y= 92, delta = 0
+x = 919,  y= 133, delta = 0
+x = 946,  y= 197, delta = 0
+x = 956,  y= 245, delta = 0
+x = 956,  y= 301, delta = 0
+x = 943,  y= 355, delta = 0
+x = 922,  y= 383, delta = 0
+x = 867,  y= 427, delta = 0
+x = 782,  y= 470, delta = 0
+x = 699,  y= 494, delta = 0
+x = 614,  y= 505, delta = 0
+x = 543,  y= 509, delta = 0
+x = 473,  y= 509, delta = 0
+x = 407,  y= 506, delta = 0
+x = 354,  y= 494, delta = 0
+x = 304,  y= 476, delta = 0
+x = 272,  y= 466, delta = 0
+x = 251,  y= 456, delta = 0
+x = 238,  y= 448, delta = 0
+x = 226,  y= 439, delta = 0
+x = 219,  y= 429, delta = 0
+x = 212,  y= 413, delta = 0
+x = 209,  y= 390, delta = 0
+x = 214,  y= 345, delta = 0
+x = 224,  y= 312, delta = 0
+x = 239,  y= 274, delta = 0
+x = 255,  y= 240, delta = 0
+x = 269,  y= 215, delta = 0
+x = 286,  y= 189, delta = 0
+x = 292,  y= 180, delta = 0
+x = 299,  y= 172, delta = 0
+x = 303,  y= 165, delta = 0
+x = 305,  y= 162, delta = 0
+x = 306,  y= 160, delta = 0
+x = 307,  y= 159, delta = 0
+x = 307,  y= 159, delta = 0
+x = 307,  y= 158, delta = 0
+x = 307,  y= 157, delta = 0
+x = 304,  y= 157, delta = 0
+x = 295,  y= 157, delta = 0
+x = 283,  y= 160, delta = 0
+x = 264,  y= 164, delta = 0
+x = 250,  y= 166, delta = 0
+x = 238,  y= 170, delta = 0
+x = 227,  y= 176, delta = 0
+x = 217,  y= 179, delta = 0
+x = 207,  y= 183, delta = 0
+x = 199,  y= 187, delta = 0
+x = 193,  y= 191, delta = 0
+x = 186,  y= 194, delta = 0
+x = 178,  y= 198, delta = 0
+x = 170,  y= 204, delta = 0
+x = 154,  y= 216, delta = 0
+x = 137,  y= 238, delta = 0
+x = 116,  y= 268, delta = 0
+x = 96,  y= 298, delta = 0
+x = 86,  y= 316, delta = 0
+x = 74,  y= 340, delta = 0
+x = 68,  y= 352, delta = 0
+x = 65,  y= 365, delta = 0
+x = 63,  y= 375, delta = 0
+x = 62,  y= 386, delta = 0
+x = 62,  y= 398, delta = 0
+x = 62,  y= 410, delta = 0
+x = 64,  y= 421, delta = 0
+x = 68,  y= 431, delta = 0
+x = 75,  y= 439, delta = 0
+x = 92,  y= 451, delta = 0
+x = 110,  y= 459, delta = 0
+x = 142,  y= 466, delta = 0
+x = 185,  y= 466, delta = 0
+x = 226,  y= 466, delta = 0
+x = 276,  y= 459, delta = 0
+x = 325,  y= 444, delta = 0
+x = 375,  y= 418, delta = 0
+x = 423,  y= 396, delta = 0
+x = 468,  y= 372, delta = 0
+x = 505,  y= 354, delta = 0
+x = 530,  y= 334, delta = 0
+x = 544,  y= 316, delta = 0
+x = 562,  y= 285, delta = 0
+x = 568,  y= 260, delta = 0
+x = 568,  y= 236, delta = 0
+x = 559,  y= 215, delta = 0
+x = 544,  y= 198, delta = 0
+x = 493,  y= 165, delta = 0
+x = 429,  y= 153, delta = 0
+x = 367,  y= 153, delta = 0
+x = 315,  y= 155, delta = 0
+x = 260,  y= 172, delta = 0
+x = 216,  y= 189, delta = 0
+x = 182,  y= 209, delta = 0
+x = 154,  y= 232, delta = 0
+x = 123,  y= 259, delta = 0
+x = 95,  y= 290, delta = 0
+x = 74,  y= 323, delta = 0
+x = 60,  y= 351, delta = 0
+x = 46,  y= 382, delta = 0
+x = 41,  y= 404, delta = 0
+x = 38,  y= 422, delta = 0
+x = 37,  y= 430, delta = 0
+x = 37,  y= 437, delta = 0
+x = 38,  y= 442, delta = 0
+x = 41,  y= 447, delta = 0
+x = 47,  y= 452, delta = 0
+x = 67,  y= 459, delta = 0
+x = 106,  y= 462, delta = 0
+x = 157,  y= 462, delta = 0
+x = 207,  y= 460, delta = 0
+x = 271,  y= 441, delta = 0
+x = 336,  y= 422, delta = 0
+x = 392,  y= 389, delta = 0
+x = 440,  y= 367, delta = 0
+x = 483,  y= 339, delta = 0
+x = 511,  y= 313, delta = 0
+x = 528,  y= 286, delta = 0
+x = 546,  y= 236, delta = 0
+x = 552,  y= 192, delta = 0
+x = 549,  y= 156, delta = 0
+x = 540,  y= 135, delta = 0
+x = 529,  y= 121, delta = 0
+x = 496,  y= 97, delta = 0
+x = 453,  y= 88, delta = 0
+x = 399,  y= 88, delta = 0
+x = 348,  y= 101, delta = 0
+x = 300,  y= 126, delta = 0
+x = 264,  y= 157, delta = 0
+x = 232,  y= 189, delta = 0
+x = 205,  y= 217, delta = 0
+x = 181,  y= 250, delta = 0
+x = 163,  y= 284, delta = 0
+x = 157,  y= 302, delta = 0
+x = 155,  y= 311, delta = 0
+x = 154,  y= 319, delta = 0
+x = 154,  y= 326, delta = 0
+x = 154,  y= 329, delta = 0
+x = 159,  y= 333, delta = 0
+x = 171,  y= 338, delta = 0
+x = 189,  y= 338, delta = 0
+x = 227,  y= 332, delta = 0
+x = 265,  y= 319, delta = 0
+x = 307,  y= 300, delta = 0
+x = 350,  y= 270, delta = 0
+x = 383,  y= 244, delta = 0
+x = 409,  y= 222, delta = 0
+x = 433,  y= 196, delta = 0
+x = 451,  y= 178, delta = 0
+x = 469,  y= 156, delta = 0
+x = 480,  y= 143, delta = 0
+x = 489,  y= 135, delta = 0
+x = 499,  y= 126, delta = 0
+x = 510,  y= 118, delta = 0
+x = 517,  y= 113, delta = 0
+x = 526,  y= 108, delta = 0
+x = 533,  y= 104, delta = 0
+x = 540,  y= 102, delta = 0
+x = 546,  y= 99, delta = 0
+x = 552,  y= 98, delta = 0
+x = 556,  y= 98, delta = 0
+x = 561,  y= 98, delta = 0
+x = 565,  y= 98, delta = 0
+x = 568,  y= 98, delta = 0
+x = 571,  y= 97, delta = 0
+x = 573,  y= 97, delta = 0
+x = 573,  y= 97, delta = 0
+x = 574,  y= 97, delta = 0
+x = 574,  y= 96, delta = 0
+x = 574,  y= 94, delta = 0
+x = 575,  y= 91, delta = 0
+x = 575,  y= 84, delta = 0
+x = 575,  y= 76, delta = 0
+x = 575,  y= 68, delta = 0
+x = 575,  y= 60, delta = 0
+x = 575,  y= 54, delta = 0
+x = 575,  y= 52, delta = 0
+x = 575,  y= 52, delta = 0
+x = 575,  y= 51, delta = 0
+x = 575,  y= 50, delta = 0
+x = 575,  y= 49, delta = 0
+x = 576,  y= 49, delta = 0
+x = 577,  y= 49, delta = 0
+x = 580,  y= 50, delta = 0
+x = 585,  y= 51, delta = 0
+x = 590,  y= 52, delta = 0
+x = 595,  y= 54, delta = 0
+x = 599,  y= 55, delta = 0
+x = 604,  y= 56, delta = 0
+x = 610,  y= 57, delta = 0
+x = 616,  y= 59, delta = 0
+x = 621,  y= 61, delta = 0
+x = 624,  y= 61, delta = 0
+x = 626,  y= 62, delta = 0
+x = 627,  y= 62, delta = 0
+x = 628,  y= 62, delta = 0
+x = 628,  y= 63, delta = 0
+x = 629,  y= 63, delta = 0
+x = 630,  y= 63, delta = 0
+x = 630,  y= 63, delta = 0
+x = 631,  y= 63, delta = 0
+x = 631,  y= 63, delta = 0
+x = 632,  y= 63, delta = 0
+x = 633,  y= 63, delta = 0
+x = 634,  y= 63, delta = 0
+x = 636,  y= 63, delta = 0
+x = 637,  y= 63, delta = 0
+x = 638,  y= 63, delta = 0
+x = 638,  y= 63, delta = 0
+x = 639,  y= 63, delta = 0
+x = 639,  y= 63, delta = 0
+x = 639,  y= 63, delta = 0
+x = 640,  y= 63, delta = 0
+x = 640,  y= 63, delta = 0
+x = 8,  y= 393, delta = 0
+x = 16,  y= 393, delta = 0
+x = 32,  y= 393, delta = 0
+x = 76,  y= 391, delta = 0
+x = 130,  y= 379, delta = 0
+x = 186,  y= 367, delta = 0
+x = 234,  y= 353, delta = 0
+x = 280,  y= 339, delta = 0
+x = 282,  y= 337, delta = 0
+x = 283,  y= 336, delta = 0
+x = 283,  y= 333, delta = 0
+x = 281,  y= 329, delta = 0
+x = 270,  y= 323, delta = 0
+x = 242,  y= 313, delta = 0
+x = 210,  y= 308, delta = 0
+x = 178,  y= 308, delta = 0
+x = 151,  y= 313, delta = 0
+x = 131,  y= 320, delta = 0
+x = 114,  y= 329, delta = 0
+x = 104,  y= 335, delta = 0
+x = 84,  y= 406, delta = 0
+x = 405,  y= 389, delta = 0
+x = 418,  y= 371, delta = 0
+x = 420,  y= 366, delta = 0
+x = 419,  y= 351, delta = 0
+x = 405,  y= 326, delta = 0
+x = 387,  y= 310, delta = 0
+x = 350,  y= 292, delta = 0
+x = 305,  y= 284, delta = 0
+x = 259,  y= 284, delta = 0
+x = 216,  y= 295, delta = 0
+x = 178,  y= 305, delta = 0
+x = 154,  y= 318, delta = 0
+x = 138,  y= 327, delta = 0
+x = 127,  y= 337, delta = 0
+x = 118,  y= 344, delta = 0
+x = 113,  y= 349, delta = 0
+x = 108,  y= 354, delta = 0
+x = 104,  y= 359, delta = 0
+x = 102,  y= 361, delta = 0
+x = 100,  y= 364, delta = 0
+x = 100,  y= 365, delta = 0
+x = 99,  y= 366, delta = 0
+x = 99,  y= 369, delta = 0
+x = 99,  y= 372, delta = 0
+x = 99,  y= 375, delta = 0
+x = 103,  y= 378, delta = 0
+x = 107,  y= 383, delta = 0
+x = 112,  y= 387, delta = 0
+x = 115,  y= 389, delta = 0
+x = 117,  y= 391, delta = 0
+x = 118,  y= 391, delta = 0
+x = 120,  y= 393, delta = 0
+x = 120,  y= 393, delta = 0
+x = 121,  y= 393, delta = 0
+x = 123,  y= 394, delta = 0
+x = 132,  y= 394, delta = 0
+x = 137,  y= 393, delta = 0
+x = 154,  y= 388, delta = 0
+x = 171,  y= 381, delta = 0
+x = 190,  y= 375, delta = 0
+x = 202,  y= 371, delta = 0
+x = 249,  y= 362, delta = 0
+x = 309,  y= 359, delta = 0
+x = 361,  y= 359, delta = 0
+x = 397,  y= 359, delta = 0
+x = 412,  y= 360, delta = 0
+x = 437,  y= 366, delta = 0
+x = 446,  y= 368, delta = 0
+x = 447,  y= 368, delta = 0
+x = 452,  y= 368, delta = 0
+x = 457,  y= 367, delta = 0
+x = 471,  y= 364, delta = 0
+x = 495,  y= 362, delta = 0
+x = 531,  y= 360, delta = 0
+x = 575,  y= 357, delta = 0
+x = 610,  y= 357, delta = 0
+x = 647,  y= 361, delta = 0
+x = 683,  y= 363, delta = 0
+x = 706,  y= 366, delta = 0
+x = 728,  y= 371, delta = 0
+x = 747,  y= 377, delta = 0
+x = 759,  y= 379, delta = 0
+x = 770,  y= 383, delta = 0
+x = 778,  y= 386, delta = 0
+x = 788,  y= 387, delta = 0
+x = 793,  y= 388, delta = 0
+x = 804,  y= 391, delta = 0
+x = 807,  y= 391, delta = 0
+x = 810,  y= 393, delta = 0
+x = 811,  y= 393, delta = 0
+x = 811,  y= 393, delta = 0
+x = 811,  y= 393, delta = 0
+x = 809,  y= 393, delta = 0
+x = 798,  y= 393, delta = 0
+x = 784,  y= 390, delta = 0
+x = 754,  y= 382, delta = 0
+x = 730,  y= 367, delta = 0
+x = 663,  y= 331, delta = 0
+x = 660,  y= 327, delta = 0
+x = 658,  y= 326, delta = 0
+x = 654,  y= 319, delta = 0
+x = 653,  y= 316, delta = 0
+x = 647,  y= 239, delta = 0
+x = 874,  y= 279, delta = 0
+x = 862,  y= 433, delta = 0
+x = 817,  y= 442, delta = 0
+x = 718,  y= 460, delta = 0
+x = 674,  y= 467, delta = 0
+x = 637,  y= 465, delta = 0
+x = 606,  y= 460, delta = 0
+x = 585,  y= 456, delta = 0
+x = 566,  y= 446, delta = 0
+x = 556,  y= 437, delta = 0
+x = 548,  y= 424, delta = 0
+x = 538,  y= 403, delta = 0
+x = 531,  y= 371, delta = 0
+x = 531,  y= 357, delta = 0
+x = 531,  y= 343, delta = 0
+x = 533,  y= 334, delta = 0
+x = 537,  y= 329, delta = 0
+x = 544,  y= 322, delta = 0
+x = 559,  y= 314, delta = 0
+x = 582,  y= 305, delta = 0
+x = 619,  y= 298, delta = 0
+x = 655,  y= 294, delta = 0
+x = 701,  y= 294, delta = 0
+x = 755,  y= 303, delta = 0
+x = 811,  y= 317, delta = 0
+x = 859,  y= 329, delta = 0
+x = 910,  y= 353, delta = 0
+x = 949,  y= 372, delta = 0
+x = 986,  y= 390, delta = 0
+x = 1022,  y= 406, delta = 0
+x = 1035,  y= 413, delta = 0
+x = 1046,  y= 419, delta = 0
+x = 1052,  y= 423, delta = 0
+x = 1058,  y= 427, delta = 0
+x = 1061,  y= 429, delta = 0
+x = 1063,  y= 434, delta = 0
+x = 1064,  y= 435, delta = 0
+x = 1065,  y= 435, delta = 0
+x = 1068,  y= 433, delta = 0
+x = 1075,  y= 428, delta = 0
+x = 1092,  y= 418, delta = 0
+x = 1122,  y= 410, delta = 0
+x = 1156,  y= 405, delta = 0
+x = 1234,  y= 399, delta = 0
+x = 1258,  y= 399, delta = 0
+x = 1280,  y= 399, delta = 0
+x = 1301,  y= 401, delta = 0
+x = 1309,  y= 404, delta = 0
+x = 1319,  y= 408, delta = 0
+x = 1326,  y= 411, delta = 0
+x = 1330,  y= 412, delta = 0
+x = 1332,  y= 415, delta = 0
+x = 1333,  y= 416, delta = 0
+x = 1333,  y= 417, delta = 0
+x = 1333,  y= 418, delta = 0
+x = 1324,  y= 425, delta = 0
+x = 1277,  y= 447, delta = 0
+x = 1219,  y= 470, delta = 0
+x = 1168,  y= 483, delta = 0
+x = 1099,  y= 492, delta = 0
+x = 1047,  y= 498, delta = 0
+x = 1001,  y= 498, delta = 0
+x = 963,  y= 498, delta = 0
+x = 940,  y= 496, delta = 0
+x = 926,  y= 492, delta = 0
+x = 916,  y= 488, delta = 0
+x = 908,  y= 485, delta = 0
+x = 899,  y= 473, delta = 0
+x = 897,  y= 464, delta = 0
+x = 897,  y= 448, delta = 0
+x = 897,  y= 432, delta = 0
+x = 899,  y= 422, delta = 0
+x = 911,  y= 401, delta = 0
+x = 919,  y= 394, delta = 0
+x = 936,  y= 382, delta = 0
+x = 958,  y= 374, delta = 0
+x = 990,  y= 369, delta = 0
+x = 1026,  y= 368, delta = 0
+x = 1065,  y= 372, delta = 0
+x = 1111,  y= 388, delta = 0
+x = 1144,  y= 398, delta = 0
+x = 1183,  y= 415, delta = 0
+x = 1209,  y= 426, delta = 0
+x = 1229,  y= 443, delta = 0
+x = 1124,  y= 576, delta = 0
+x = 892,  y= 517, delta = 0
+x = 867,  y= 499, delta = 0
+x = 850,  y= 479, delta = 0
+x = 834,  y= 457, delta = 0
+x = 824,  y= 424, delta = 0
+x = 821,  y= 401, delta = 0
+x = 821,  y= 388, delta = 0
+x = 821,  y= 378, delta = 0
+x = 822,  y= 370, delta = 0
+x = 826,  y= 360, delta = 0
+x = 832,  y= 353, delta = 0
+x = 844,  y= 341, delta = 0
+x = 840,  y= 338, delta = 0
+x = 828,  y= 329, delta = 0
+x = 795,  y= 299, delta = 0
+x = 759,  y= 260, delta = 0
+x = 722,  y= 218, delta = 0
+x = 678,  y= 166, delta = 0
+x = 650,  y= 132, delta = 0
+x = 620,  y= 101, delta = 0
+x = 602,  y= 83, delta = 0
+x = 582,  y= 64, delta = 0
+x = 576,  y= 57, delta = 0
+x = 572,  y= 55, delta = 0
+x = 570,  y= 52, delta = 0
+x = 569,  y= 51, delta = 0
+x = 568,  y= 50, delta = 0
+x = 568,  y= 49, delta = 0
+x = 568,  y= 48, delta = 0
+x = 568,  y= 47, delta = 0
+x = 569,  y= 46, delta = 0
+x = 569,  y= 45, delta = 0
+x = 571,  y= 44, delta = 0
+x = 572,  y= 44, delta = 0
+x = 573,  y= 43, delta = 0
+x = 576,  y= 42, delta = 0
+x = 579,  y= 42, delta = 0
+x = 583,  y= 42, delta = 0
+x = 591,  y= 42, delta = 0
+x = 596,  y= 44, delta = 0
+x = 601,  y= 46, delta = 0
+x = 606,  y= 47, delta = 0
+x = 609,  y= 49, delta = 0
+x = 612,  y= 51, delta = 0
+x = 615,  y= 53, delta = 0
+x = 618,  y= 55, delta = 0
+x = 620,  y= 56, delta = 0
+x = 623,  y= 58, delta = 0
+x = 625,  y= 58, delta = 0
+x = 625,  y= 59, delta = 0
+x = 627,  y= 60, delta = 0
+x = 628,  y= 61, delta = 0
+x = 630,  y= 61, delta = 0
+x = 630,  y= 61, delta = 0
+x = 633,  y= 62, delta = 0
+x = 634,  y= 63, delta = 0
+x = 636,  y= 64, delta = 0
+x = 640,  y= 66, delta = 0
+x = 641,  y= 66, delta = 0
+x = 643,  y= 66, delta = 0
+x = 646,  y= 67, delta = 0
+x = 648,  y= 67, delta = 0
+x = 649,  y= 68, delta = 0
+x = 651,  y= 68, delta = 0
+x = 653,  y= 68, delta = 0
+x = 657,  y= 68, delta = 0
+x = 662,  y= 68, delta = 0
+x = 669,  y= 68, delta = 0
+x = 679,  y= 68, delta = 0
+x = 690,  y= 65, delta = 0
+x = 712,  y= 65, delta = 0
+x = 726,  y= 65, delta = 0
+x = 746,  y= 65, delta = 0
+x = 754,  y= 65, delta = 0
+x = 766,  y= 65, delta = 0
+x = 771,  y= 65, delta = 0
+x = 774,  y= 65, delta = 0
+x = 776,  y= 65, delta = 0
+x = 774,  y= 65, delta = 0
+x = 769,  y= 65, delta = 0
+x = 755,  y= 65, delta = 0
+x = 738,  y= 65, delta = 0
+x = 731,  y= 65, delta = 0
+x = 725,  y= 66, delta = 0
+x = 720,  y= 66, delta = 0
+x = 713,  y= 67, delta = 0
+x = 707,  y= 68, delta = 0
+x = 701,  y= 68, delta = 0
+x = 693,  y= 68, delta = 0
+x = 687,  y= 68, delta = 0
+x = 682,  y= 68, delta = 0
+x = 678,  y= 68, delta = 0
+x = 675,  y= 68, delta = 0
+x = 672,  y= 68, delta = 0
+x = 670,  y= 68, delta = 0
+x = 668,  y= 68, delta = 0
+x = 666,  y= 68, delta = 0
+x = 664,  y= 68, delta = 0
+x = 663,  y= 68, delta = 0
+x = 661,  y= 68, delta = 0
+x = 655,  y= 68, delta = 0
+x = 652,  y= 68, delta = 0
+x = 646,  y= 66, delta = 0
+x = 645,  y= 65, delta = 0
+x = 642,  y= 65, delta = 0
+x = 640,  y= 65, delta = 0
+x = 637,  y= 64, delta = 0
+x = 634,  y= 63, delta = 0
+x = 628,  y= 61, delta = 0
+x = 627,  y= 61, delta = 0
+x = 625,  y= 61, delta = 0
+x = 625,  y= 61, delta = 0
+x = 624,  y= 61, delta = 0
+x = 624,  y= 61, delta = 0
+x = 623,  y= 61, delta = 0
+x = 623,  y= 61, delta = 0
+x = 624,  y= 61, delta = 0
+x = 625,  y= 62, delta = 0
+x = 628,  y= 63, delta = 0
+x = 629,  y= 63, delta = 0
+x = 632,  y= 64, delta = 0
+x = 632,  y= 64, delta = 0
+x = 633,  y= 64, delta = 0
+x = 633,  y= 64, delta = 0
+x = 633,  y= 64, delta = 0
+x = 634,  y= 64, delta = 0
+x = 634,  y= 64, delta = 0
+x = 635,  y= 64, delta = 0
+x = 636,  y= 64, delta = 0
+x = 636,  y= 64, delta = 0
+x = 487,  y= 69, delta = 0
+MouseButton - None
+x = 487,  y= 69, delta = 0
+MouseButton - None
+x = 488,  y= 69, delta = 0
+MouseButton - None
+x = 488,  y= 69, delta = 0
+MouseButton - None
+x = 489,  y= 69, delta = 0
+MouseButton - None
+x = 489,  y= 69, delta = 0
+MouseButton - None
+x = 490,  y= 69, delta = 0
+MouseButton - None
+x = 491,  y= 70, delta = 0
+MouseButton - None
+x = 492,  y= 70, delta = 0
+MouseButton - None
+x = 493,  y= 70, delta = 0
+MouseButton - None
+x = 495,  y= 70, delta = 0
+MouseButton - None
+x = 495,  y= 70, delta = 0
+MouseButton - None
+x = 496,  y= 70, delta = 0
+MouseButton - None
+x = 497,  y= 70, delta = 0
+MouseButton - None
+x = 497,  y= 70, delta = 0
+MouseButton - None
+x = 498,  y= 70, delta = 0
+MouseButton - None
+x = 499,  y= 70, delta = 0
+MouseButton - None
+x = 499,  y= 70, delta = 0
+MouseButton - None
+x = 500,  y= 70, delta = 0
+MouseButton - None
+x = 501,  y= 70, delta = 0
+MouseButton - None
+x = 502,  y= 70, delta = 0
+MouseButton - None
+x = 503,  y= 70, delta = 0
+MouseButton - None
+x = 506,  y= 70, delta = 0
+MouseButton - None
+x = 509,  y= 71, delta = 0
+MouseButton - None
+x = 512,  y= 71, delta = 0
+MouseButton - None
+x = 518,  y= 72, delta = 0
+MouseButton - None
+x = 536,  y= 74, delta = 0
+MouseButton - None
+x = 543,  y= 76, delta = 0
+MouseButton - None
+x = 551,  y= 78, delta = 0
+MouseButton - None
+x = 555,  y= 79, delta = 0
+MouseButton - None
+x = 567,  y= 82, delta = 0
+MouseButton - None
+x = 576,  y= 85, delta = 0
+MouseButton - None
+x = 584,  y= 87, delta = 0
+MouseButton - None
+x = 594,  y= 90, delta = 0
+MouseButton - None
+x = 600,  y= 92, delta = 0
+MouseButton - None
+x = 611,  y= 94, delta = 0
+MouseButton - None
+x = 622,  y= 99, delta = 0
+MouseButton - None
+x = 635,  y= 103, delta = 0
+MouseButton - None
+x = 645,  y= 107, delta = 0
+MouseButton - None
+x = 651,  y= 108, delta = 0
+MouseButton - None
+x = 658,  y= 111, delta = 0
+MouseButton - None
+x = 661,  y= 112, delta = 0
+MouseButton - None
+x = 661,  y= 112, delta = 0
+MouseButton - None
+x = 662,  y= 113, delta = 0
+MouseButton - None
+x = 660,  y= 112, delta = 0
+MouseButton - None
+x = 654,  y= 111, delta = 0
+MouseButton - None
+x = 641,  y= 107, delta = 0
+MouseButton - None
+x = 629,  y= 103, delta = 0
+MouseButton - None
+x = 618,  y= 100, delta = 0
+MouseButton - None
+x = 607,  y= 96, delta = 0
+MouseButton - None
+x = 601,  y= 96, delta = 0
+MouseButton - None
+x = 595,  y= 96, delta = 0
+MouseButton - None
+x = 590,  y= 96, delta = 0
+MouseButton - None
+x = 588,  y= 96, delta = 0
+MouseButton - None
+x = 586,  y= 96, delta = 0
+MouseButton - None
+x = 586,  y= 96, delta = 0
+MouseButton - None
+x = 585,  y= 96, delta = 0
+MouseButton - None
+x = 585,  y= 96, delta = 0
+MouseButton - None
+x = 585,  y= 97, delta = 0
+MouseButton - None
+x = 602,  y= 106, delta = 0
+MouseButton - None
+x = 683,  y= 138, delta = 0
+MouseButton - None
+x = 754,  y= 163, delta = 0
+MouseButton - None
+x = 847,  y= 213, delta = 0
+MouseButton - None
+x = 908,  y= 256, delta = 0
+MouseButton - None
+x = 919,  y= 266, delta = 0
+MouseButton - None
+x = 923,  y= 268, delta = 0
+MouseButton - None
+x = 925,  y= 271, delta = 0
+MouseButton - None
+x = 926,  y= 270, delta = 0
+MouseButton - None
+x = 927,  y= 268, delta = 0
+MouseButton - None
+x = 941,  y= 253, delta = 0
+MouseButton - None
+x = 969,  y= 233, delta = 0
+MouseButton - None
+x = 985,  y= 224, delta = 0
+MouseButton - None
+x = 1013,  y= 209, delta = 0
+MouseButton - None
+x = 1035,  y= 199, delta = 0
+MouseButton - None
+x = 1051,  y= 192, delta = 0
+MouseButton - None
+x = 1060,  y= 190, delta = 0
+MouseButton - None
+x = 1060,  y= 190, delta = 0
+MouseButton - None
+x = 1063,  y= 187, delta = 0
+MouseButton - None
+x = 1069,  y= 183, delta = 0
+MouseButton - None
+x = 1075,  y= 180, delta = 0
+MouseButton - None
+x = 1082,  y= 176, delta = 0
+MouseButton - None
+x = 1085,  y= 175, delta = 0
+MouseButton - None
+x = 1087,  y= 174, delta = 0
+MouseButton - None
+x = 1088,  y= 174, delta = 0
+MouseButton - None
+x = 1088,  y= 174, delta = 0
+MouseButton - None
+x = 1089,  y= 174, delta = 0
+MouseButton - None
+x = 1089,  y= 174, delta = 0
+MouseButton - None
+x = 1089,  y= 174, delta = 0
+MouseButton - None
+x = 1088,  y= 174, delta = 0
+MouseButton - None
+x = 1088,  y= 174, delta = 0
+MouseButton - None
+x = 1087,  y= 174, delta = 0
+MouseButton - None
+x = 1085,  y= 174, delta = 0
+MouseButton - None
+x = 1084,  y= 174, delta = 0
+MouseButton - None
+x = 1083,  y= 174, delta = 0
+MouseButton - None
+x = 1083,  y= 174, delta = 0
+MouseButton - None
+x = 1083,  y= 174, delta = 0
+MouseButton - None
+x = 1082,  y= 174, delta = 0
+MouseButton - None
+x = 1081,  y= 174, delta = 0
+MouseButton - None
+x = 1081,  y= 174, delta = 0
+MouseButton - Left
+x = 1081,  y= 174, delta = 0
+MouseButton - None
+x = 1079,  y= 138, delta = 0
+MouseButton - None
+x = 1079,  y= 137, delta = 0
+MouseButton - None
+x = 1079,  y= 135, delta = 0
+MouseButton - None
+x = 1079,  y= 134, delta = 0
+MouseButton - None
+x = 1079,  y= 133, delta = 0
+MouseButton - None
+x = 1079,  y= 133, delta = 0
+MouseButton - None
+x = 1079,  y= 133, delta = 0
+MouseButton - None
+x = 1079,  y= 134, delta = 0
+MouseButton - None
+x = 1079,  y= 136, delta = 0
+MouseButton - None
+x = 1079,  y= 136, delta = 0
+MouseButton - None
+x = 1079,  y= 137, delta = 0
+MouseButton - None
+x = 1079,  y= 139, delta = 0
+MouseButton - None
+x = 1079,  y= 140, delta = 0
+MouseButton - None
+x = 1079,  y= 141, delta = 0
+MouseButton - None
+x = 1079,  y= 141, delta = 0
+MouseButton - None
+x = 1079,  y= 143, delta = 0
+MouseButton - None
+x = 1079,  y= 144, delta = 0
+MouseButton - None
+x = 1079,  y= 144, delta = 0
+MouseButton - None
+x = 1079,  y= 145, delta = 0
+MouseButton - None
+x = 1079,  y= 145, delta = 0
+MouseButton - None
+x = 1079,  y= 146, delta = 0
+MouseButton - None
+x = 1079,  y= 147, delta = 0
+MouseButton - None
+x = 1079,  y= 147, delta = 0
+MouseButton - None
+x = 1079,  y= 147, delta = 0
+MouseButton - Left
+x = 1079,  y= 147, delta = 0
+MouseButton - None
+x = 1079,  y= 147, delta = 0
+MouseButton - Left
+x = 1079,  y= 147, delta = 0
+MouseButton - None
+x = 1079,  y= 148, delta = 0
+MouseButton - None
+x = 1073,  y= 158, delta = 0
+MouseButton - None
+x = 1065,  y= 176, delta = 0
+MouseButton - None
+x = 1046,  y= 216, delta = 0
+MouseButton - None
+x = 1038,  y= 236, delta = 0
+MouseButton - None
+x = 1012,  y= 293, delta = 0
+MouseButton - None
+KeyDown - Right
+x = 1012,  y= 293, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}101729339
+KeyUp - Right
+KeyDown - Left
+x={0}, y={1}, Key = {2}101229337
+x = 1017,  y= 293, delta = 0
+MouseButton - None
+KeyUp - Left
+KeyDown - Down
+x={0}, y={1}, Key = {2}101729840
+x = 1017,  y= 293, delta = 0
+MouseButton - None
+KeyUp - Down
+KeyDown - Down
+x={0}, y={1}, Key = {2}101729840
+x = 1017,  y= 293, delta = 0
+MouseButton - None
+KeyUp - Down
+KeyDown - Up
+x = 1017,  y= 293, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}101728838
+KeyUp - Up
+KeyDown - Up
+x = 1017,  y= 288, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}101728338
+KeyUp - Up
+x = 1013,  y= 286, delta = 0
+MouseButton - None
+x = 978,  y= 264, delta = 0
+MouseButton - None
+x = 961,  y= 247, delta = 0
+MouseButton - None
+x = 948,  y= 236, delta = 0
+MouseButton - None
+x = 940,  y= 228, delta = 0
+MouseButton - None
+x = 936,  y= 222, delta = 0
+MouseButton - None
+x = 922,  y= 212, delta = 0
+MouseButton - None
+x = 908,  y= 201, delta = 0
+MouseButton - None
+x = 899,  y= 197, delta = 0
+MouseButton - None
+x = 885,  y= 188, delta = 0
+MouseButton - None
+x = 868,  y= 179, delta = 0
+MouseButton - None
+x = 842,  y= 170, delta = 0
+MouseButton - None
+x = 822,  y= 164, delta = 0
+MouseButton - None
+x = 800,  y= 155, delta = 0
+MouseButton - None
+x = 782,  y= 146, delta = 0
+MouseButton - None
+x = 766,  y= 137, delta = 0
+MouseButton - None
+x = 749,  y= 129, delta = 0
+MouseButton - None
+x = 741,  y= 124, delta = 0
+MouseButton - None
+x = 728,  y= 118, delta = 0
+MouseButton - None
+x = 713,  y= 108, delta = 0
+MouseButton - None
+x = 696,  y= 100, delta = 0
+MouseButton - None
+x = 688,  y= 95, delta = 0
+MouseButton - None
+x = 671,  y= 89, delta = 0
+MouseButton - None
+x = 657,  y= 82, delta = 0
+MouseButton - None
+x = 645,  y= 77, delta = 0
+MouseButton - None
+x = 633,  y= 72, delta = 0
+MouseButton - None
+x = 622,  y= 66, delta = 0
+MouseButton - None
+x = 613,  y= 63, delta = 0
+MouseButton - None
+x = 610,  y= 61, delta = 0
+MouseButton - None
+x = 601,  y= 58, delta = 0
+MouseButton - None
+x = 593,  y= 54, delta = 0
+MouseButton - None
+x = 586,  y= 52, delta = 0
+MouseButton - None
+x = 583,  y= 50, delta = 0
+MouseButton - None
+x = 581,  y= 49, delta = 0
+MouseButton - None
+x = 580,  y= 48, delta = 0
+MouseButton - None
+x = 580,  y= 47, delta = 0
+MouseButton - None
+x = 579,  y= 47, delta = 0
+MouseButton - None
+x = 579,  y= 47, delta = 0
+MouseButton - None
+x = 580,  y= 47, delta = 0
+MouseButton - None
+x = 582,  y= 47, delta = 0
+MouseButton - None
+x = 584,  y= 49, delta = 0
+MouseButton - None
+x = 586,  y= 50, delta = 0
+MouseButton - None
+x = 588,  y= 52, delta = 0
+MouseButton - None
+x = 592,  y= 54, delta = 0
+MouseButton - None
+x = 595,  y= 55, delta = 0
+MouseButton - None
+x = 600,  y= 57, delta = 0
+MouseButton - None
+x = 602,  y= 57, delta = 0
+MouseButton - None
+x = 605,  y= 57, delta = 0
+MouseButton - None
+x = 609,  y= 58, delta = 0
+MouseButton - None
+x = 611,  y= 59, delta = 0
+MouseButton - None
+x = 613,  y= 59, delta = 0
+MouseButton - None
+x = 615,  y= 60, delta = 0
+MouseButton - None
+x = 616,  y= 60, delta = 0
+MouseButton - None
+x = 618,  y= 60, delta = 0
+MouseButton - None
+x = 620,  y= 61, delta = 0
+MouseButton - None
+x = 622,  y= 62, delta = 0
+MouseButton - None
+x = 624,  y= 62, delta = 0
+MouseButton - None
+x = 625,  y= 62, delta = 0
+MouseButton - None
+x = 626,  y= 62, delta = 0
+MouseButton - None
+x = 627,  y= 62, delta = 0
+MouseButton - None
+x = 628,  y= 62, delta = 0
+MouseButton - None
+x = 629,  y= 62, delta = 0
+MouseButton - None
+x = 630,  y= 62, delta = 0
+MouseButton - None
+x = 632,  y= 62, delta = 0
+MouseButton - None
+x = 633,  y= 62, delta = 0
+MouseButton - None
+x = 636,  y= 62, delta = 0
+MouseButton - None
+x = 637,  y= 63, delta = 0
+MouseButton - None
+x = 637,  y= 63, delta = 0
+MouseButton - Left
+Active Window - file:///C:/Users/alefr/Documents/Alessandra/MSICU/3Semestre/Fundamentos de Seguridad/Lab5 - RemoteManager/Lab5 - RemoteManager/Pruebas/bin/Debug/Pruebas.EXE
+
+Active Window - file:///C:/Users/alefr/Documents/Alessandra/MSICU/3Semestre/Fundamentos de Seguridad/Lab5 - RemoteManager/Lab5 - RemoteManager/Pruebas/bin/Debug/Pruebas.EXE
+
+x = 524,  y= 249, delta = 0
+MouseButton - None
+x = 467,  y= 260, delta = 0
+MouseButton - None
+x = 396,  y= 278, delta = 0
+MouseButton - None
+x = 383,  y= 283, delta = 0
+MouseButton - None
+x = 381,  y= 284, delta = 0
+MouseButton - None
+x = 372,  y= 299, delta = 0
+MouseButton - None
+x = 362,  y= 322, delta = 0
+MouseButton - None
+x = 360,  y= 332, delta = 0
+MouseButton - None
+x = 360,  y= 338, delta = 0
+MouseButton - None
+x = 363,  y= 343, delta = 0
+MouseButton - None
+x = 370,  y= 350, delta = 0
+MouseButton - None
+x = 371,  y= 351, delta = 0
+MouseButton - None
+x = 372,  y= 352, delta = 0
+MouseButton - None
+x = 372,  y= 353, delta = 0
+MouseButton - None
+x = 374,  y= 356, delta = 0
+MouseButton - None
+x = 377,  y= 361, delta = 0
+MouseButton - None
+x = 383,  y= 365, delta = 0
+MouseButton - None
+x = 384,  y= 366, delta = 0
+MouseButton - None
+x = 382,  y= 365, delta = 0
+MouseButton - None
+x = 207,  y= 283, delta = 0
+MouseButton - None
+x = 169,  y= 278, delta = 0
+MouseButton - None
+x = 165,  y= 277, delta = 0
+MouseButton - None
+x = 172,  y= 251, delta = 0
+MouseButton - None
+x = 207,  y= 223, delta = 0
+MouseButton - None
+x = 230,  y= 222, delta = 0
+MouseButton - None
+x = 240,  y= 236, delta = 0
+MouseButton - None
+x = 240,  y= 239, delta = 0
+MouseButton - None
+x = 233,  y= 240, delta = 0
+MouseButton - None
+x = 231,  y= 235, delta = 0
+MouseButton - None
+x = 235,  y= 232, delta = 0
+MouseButton - None
+x = 253,  y= 248, delta = 0
+MouseButton - None
+x = 257,  y= 285, delta = 0
+MouseButton - None
+x = 238,  y= 301, delta = 0
+MouseButton - None
+x = 180,  y= 251, delta = 0
+MouseButton - None
+x = 178,  y= 192, delta = 0
+MouseButton - None
+x = 253,  y= 179, delta = 0
+MouseButton - None
+x = 296,  y= 227, delta = 0
+MouseButton - None
+x = 291,  y= 252, delta = 0
+MouseButton - None
+x = 241,  y= 259, delta = 0
+MouseButton - None
+x = 202,  y= 203, delta = 0
+MouseButton - None
+x = 220,  y= 179, delta = 0
+MouseButton - None
+x = 300,  y= 199, delta = 0
+MouseButton - None
+x = 318,  y= 241, delta = 0
+MouseButton - None
+x = 296,  y= 261, delta = 0
+MouseButton - None
+x = 237,  y= 225, delta = 0
+MouseButton - None
+x = 267,  y= 202, delta = 0
+MouseButton - None
+x = 322,  y= 218, delta = 0
+MouseButton - None
+x = 332,  y= 227, delta = 0
+MouseButton - None
+x = 324,  y= 231, delta = 0
+MouseButton - None
+x = 257,  y= 186, delta = 0
+MouseButton - None
+x = 253,  y= 174, delta = 0
+MouseButton - None
+x = 351,  y= 212, delta = 0
+MouseButton - None
+x = 370,  y= 237, delta = 0
+MouseButton - None
+x = 327,  y= 191, delta = 0
+MouseButton - None
+x = 323,  y= 169, delta = 0
+MouseButton - None
+x = 509,  y= 264, delta = 0
+MouseButton - None
+x = 275,  y= 247, delta = 0
+MouseButton - None
+x = 209,  y= 195, delta = 0
+MouseButton - None
+x = 371,  y= 233, delta = 0
+MouseButton - None
+x = 300,  y= 305, delta = 0
+MouseButton - None
+x = 178,  y= 235, delta = 0
+MouseButton - None
+x = 260,  y= 253, delta = 0
+MouseButton - None
+x = 390,  y= 307, delta = 0
+MouseButton - None
+x = 285,  y= 214, delta = 0
+MouseButton - None
+x = 200,  y= 132, delta = 0
+MouseButton - None
+x = 302,  y= 248, delta = 0
+MouseButton - None
+x = 371,  y= 321, delta = 0
+MouseButton - None
+x = 253,  y= 207, delta = 0
+MouseButton - None
+x = 195,  y= 151, delta = 0
+MouseButton - None
+x = 367,  y= 277, delta = 0
+MouseButton - None
+x = 433,  y= 319, delta = 0
+MouseButton - None
+x = 306,  y= 216, delta = 0
+MouseButton - None
+x = 238,  y= 171, delta = 0
+MouseButton - None
+x = 311,  y= 254, delta = 0
+MouseButton - None
+x = 351,  y= 289, delta = 0
+MouseButton - None
+x = 238,  y= 212, delta = 0
+MouseButton - None
+x = 221,  y= 203, delta = 0
+MouseButton - None
+KeyDown - Down
+x = 221,  y= 203, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}22120840
+KeyUp - Down
+x = 222,  y= 202, delta = 0
+MouseButton - None
+x = 268,  y= 181, delta = 0
+MouseButton - None
+x = 471,  y= 95, delta = 0
+MouseButton - None
+x = 656,  y= 37, delta = 0
+MouseButton - None
+x = 659,  y= 36, delta = 0
+MouseButton - None
+x = 665,  y= 34, delta = 0
+MouseButton - None
+x = 806,  y= 13, delta = 0
+MouseButton - None
+x = 881,  y= 1, delta = 0
+MouseButton - None
+x = 881,  y= 1, delta = 0
+MouseButton - None
+x = 833,  y= 21, delta = 0
+MouseButton - None
+x = 766,  y= 46, delta = 0
+MouseButton - None
+x = 729,  y= 58, delta = 0
+MouseButton - None
+x = 694,  y= 70, delta = 0
+MouseButton - None
+x = 671,  y= 76, delta = 0
+MouseButton - None
+x = 660,  y= 77, delta = 0
+MouseButton - None
+x = 648,  y= 77, delta = 0
+MouseButton - None
+x = 644,  y= 77, delta = 0
+MouseButton - None
+x = 643,  y= 77, delta = 0
+MouseButton - None
+x = 642,  y= 77, delta = 0
+MouseButton - None
+x = 639,  y= 76, delta = 0
+MouseButton - None
+x = 634,  y= 74, delta = 0
+MouseButton - None
+x = 622,  y= 73, delta = 0
+MouseButton - None
+x = 590,  y= 82, delta = 0
+MouseButton - None
+x = 587,  y= 82, delta = 0
+MouseButton - None
+x = 587,  y= 82, delta = 0
+MouseButton - None
+x = 597,  y= 82, delta = 0
+MouseButton - None
+x = 603,  y= 79, delta = 0
+MouseButton - None
+x = 608,  y= 78, delta = 0
+MouseButton - None
+x = 612,  y= 76, delta = 0
+MouseButton - None
+x = 615,  y= 74, delta = 0
+MouseButton - None
+x = 624,  y= 66, delta = 0
+MouseButton - None
+x = 629,  y= 63, delta = 0
+MouseButton - None
+x = 630,  y= 63, delta = 0
+MouseButton - None
+x = 630,  y= 63, delta = 0
+MouseButton - None
+x = 631,  y= 63, delta = 0
+MouseButton - None
+KeyDown - Down
+x = 631,  y= 63, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}6316840
+KeyUp - Down
+x = 631,  y= 63, delta = 0
+MouseButton - Left
+x = 930,  y= 190, delta = 0
+MouseButton - None
+x = 957,  y= 187, delta = 0
+MouseButton - None
+Active Window - file:///C:/Users/alefr/Documents/Alessandra/MSICU/3Semestre/Fundamentos de Seguridad/Lab5 - RemoteManager/Lab5 - RemoteManager/Pruebas/bin/Debug/Pruebas.EXE
+
+x = 961,  y= 186, delta = 0
+MouseButton - None
+x = 1020,  y= 178, delta = 0
+MouseButton - None
+x = 982,  y= 196, delta = 0
+MouseButton - None
+x = 867,  y= 237, delta = 0
+MouseButton - None
+x = 861,  y= 238, delta = 0
+MouseButton - None
+x = 860,  y= 240, delta = 0
+MouseButton - None
+x = 785,  y= 314, delta = 0
+MouseButton - None
+x = 623,  y= 420, delta = 0
+MouseButton - None
+x = 563,  y= 446, delta = 0
+MouseButton - None
+x = 560,  y= 446, delta = 0
+MouseButton - None
+x = 556,  y= 448, delta = 0
+MouseButton - None
+x = 499,  y= 466, delta = 0
+MouseButton - None
+x = 453,  y= 467, delta = 0
+MouseButton - None
+x = 433,  y= 457, delta = 0
+MouseButton - None
+x = 430,  y= 453, delta = 0
+MouseButton - None
+x = 428,  y= 453, delta = 0
+MouseButton - None
+x = 298,  y= 425, delta = 0
+MouseButton - None
+x = 200,  y= 414, delta = 0
+MouseButton - None
+x = 170,  y= 413, delta = 0
+MouseButton - None
+x = 166,  y= 413, delta = 0
+MouseButton - None
+x = 164,  y= 413, delta = 0
+MouseButton - None
+x = 139,  y= 413, delta = 0
+MouseButton - None
+x = 123,  y= 413, delta = 0
+MouseButton - None
+x = 115,  y= 414, delta = 0
+MouseButton - None
+x = 111,  y= 414, delta = 0
+MouseButton - None
+x = 109,  y= 414, delta = 0
+MouseButton - None
+x = 108,  y= 413, delta = 0
+MouseButton - None
+x = 108,  y= 413, delta = 0
+MouseButton - None
+x = 108,  y= 412, delta = 0
+MouseButton - None
+x = 108,  y= 410, delta = 0
+MouseButton - None
+x = 108,  y= 404, delta = 0
+MouseButton - None
+x = 108,  y= 398, delta = 0
+MouseButton - None
+x = 110,  y= 387, delta = 0
+MouseButton - None
+x = 113,  y= 378, delta = 0
+MouseButton - None
+x = 116,  y= 370, delta = 0
+MouseButton - None
+x = 118,  y= 365, delta = 0
+MouseButton - None
+x = 120,  y= 361, delta = 0
+MouseButton - None
+x = 122,  y= 358, delta = 0
+MouseButton - None
+x = 123,  y= 355, delta = 0
+MouseButton - None
+x = 125,  y= 352, delta = 0
+MouseButton - None
+x = 126,  y= 351, delta = 0
+MouseButton - None
+x = 131,  y= 344, delta = 0
+MouseButton - None
+x = 135,  y= 340, delta = 0
+MouseButton - None
+x = 137,  y= 338, delta = 0
+MouseButton - None
+x = 139,  y= 337, delta = 0
+MouseButton - None
+x = 141,  y= 335, delta = 0
+MouseButton - None
+x = 156,  y= 322, delta = 0
+MouseButton - None
+x = 183,  y= 302, delta = 0
+MouseButton - None
+x = 207,  y= 288, delta = 0
+MouseButton - None
+x = 234,  y= 281, delta = 0
+MouseButton - None
+x = 246,  y= 278, delta = 0
+MouseButton - None
+x = 264,  y= 277, delta = 0
+MouseButton - None
+x = 276,  y= 277, delta = 0
+MouseButton - None
+x = 283,  y= 277, delta = 0
+MouseButton - None
+x = 298,  y= 279, delta = 0
+MouseButton - None
+x = 313,  y= 283, delta = 0
+MouseButton - None
+x = 321,  y= 286, delta = 0
+MouseButton - None
+x = 333,  y= 291, delta = 0
+MouseButton - None
+x = 341,  y= 295, delta = 0
+MouseButton - None
+x = 352,  y= 301, delta = 0
+MouseButton - None
+x = 360,  y= 309, delta = 0
+MouseButton - None
+x = 367,  y= 313, delta = 0
+MouseButton - None
+x = 372,  y= 316, delta = 0
+MouseButton - None
+x = 375,  y= 319, delta = 0
+MouseButton - None
+x = 376,  y= 320, delta = 0
+MouseButton - None
+x = 377,  y= 321, delta = 0
+MouseButton - None
+x = 377,  y= 321, delta = 0
+MouseButton - None
+x = 377,  y= 322, delta = 0
+MouseButton - None
+x = 377,  y= 322, delta = 0
+MouseButton - None
+x = 377,  y= 324, delta = 0
+MouseButton - None
+x = 373,  y= 325, delta = 0
+MouseButton - None
+x = 368,  y= 326, delta = 0
+MouseButton - None
+x = 364,  y= 326, delta = 0
+MouseButton - None
+x = 360,  y= 326, delta = 0
+MouseButton - None
+x = 359,  y= 326, delta = 0
+MouseButton - None
+x = 356,  y= 324, delta = 0
+MouseButton - None
+x = 354,  y= 323, delta = 0
+MouseButton - None
+x = 353,  y= 321, delta = 0
+MouseButton - None
+x = 351,  y= 320, delta = 0
+MouseButton - None
+x = 350,  y= 319, delta = 0
+MouseButton - None
+x = 348,  y= 317, delta = 0
+MouseButton - None
+x = 347,  y= 317, delta = 0
+MouseButton - None
+x = 344,  y= 315, delta = 0
+MouseButton - None
+x = 342,  y= 313, delta = 0
+MouseButton - None
+x = 336,  y= 310, delta = 0
+MouseButton - None
+x = 334,  y= 309, delta = 0
+MouseButton - None
+x = 330,  y= 307, delta = 0
+MouseButton - None
+x = 326,  y= 305, delta = 0
+MouseButton - None
+x = 320,  y= 304, delta = 0
+MouseButton - None
+x = 317,  y= 302, delta = 0
+MouseButton - None
+x = 311,  y= 300, delta = 0
+MouseButton - None
+x = 307,  y= 299, delta = 0
+MouseButton - None
+x = 306,  y= 298, delta = 0
+MouseButton - None
+x = 304,  y= 297, delta = 0
+MouseButton - None
+x = 303,  y= 297, delta = 0
+MouseButton - None
+x = 302,  y= 296, delta = 0
+MouseButton - None
+x = 302,  y= 295, delta = 0
+MouseButton - None
+x = 301,  y= 294, delta = 0
+MouseButton - None
+x = 300,  y= 293, delta = 0
+MouseButton - None
+x = 300,  y= 292, delta = 0
+MouseButton - None
+x = 299,  y= 290, delta = 0
+MouseButton - None
+x = 299,  y= 286, delta = 0
+MouseButton - None
+x = 299,  y= 286, delta = 0
+MouseButton - None
+x = 299,  y= 285, delta = 0
+MouseButton - None
+x = 299,  y= 284, delta = 0
+MouseButton - None
+x = 299,  y= 283, delta = 0
+MouseButton - None
+x = 299,  y= 283, delta = 0
+MouseButton - None
+x = 299,  y= 282, delta = 0
+MouseButton - None
+x = 299,  y= 282, delta = 0
+MouseButton - None
+x = 300,  y= 282, delta = 0
+MouseButton - None
+x = 304,  y= 281, delta = 0
+MouseButton - None
+x = 306,  y= 281, delta = 0
+MouseButton - None
+x = 314,  y= 281, delta = 0
+MouseButton - None
+x = 326,  y= 281, delta = 0
+MouseButton - None
+x = 343,  y= 285, delta = 0
+MouseButton - None
+x = 351,  y= 285, delta = 0
+MouseButton - None
+x = 367,  y= 288, delta = 0
+MouseButton - None
+x = 382,  y= 290, delta = 0
+MouseButton - None
+x = 397,  y= 292, delta = 0
+MouseButton - None
+x = 411,  y= 294, delta = 0
+MouseButton - None
+x = 419,  y= 294, delta = 0
+MouseButton - None
+x = 430,  y= 295, delta = 0
+MouseButton - None
+x = 436,  y= 295, delta = 0
+MouseButton - None
+x = 446,  y= 296, delta = 0
+MouseButton - None
+x = 456,  y= 296, delta = 0
+MouseButton - None
+x = 469,  y= 296, delta = 0
+MouseButton - None
+x = 474,  y= 296, delta = 0
+MouseButton - None
+x = 481,  y= 295, delta = 0
+MouseButton - None
+x = 486,  y= 294, delta = 0
+MouseButton - None
+x = 489,  y= 292, delta = 0
+MouseButton - None
+x = 489,  y= 290, delta = 0
+MouseButton - None
+x = 490,  y= 290, delta = 0
+MouseButton - None
+x = 490,  y= 289, delta = 0
+MouseButton - None
+x = 490,  y= 288, delta = 0
+MouseButton - None
+x = 488,  y= 287, delta = 0
+MouseButton - None
+x = 484,  y= 284, delta = 0
+MouseButton - None
+x = 479,  y= 280, delta = 0
+MouseButton - None
+x = 477,  y= 278, delta = 0
+MouseButton - None
+x = 471,  y= 273, delta = 0
+MouseButton - None
+x = 466,  y= 270, delta = 0
+MouseButton - None
+x = 462,  y= 269, delta = 0
+MouseButton - None
+x = 455,  y= 266, delta = 0
+MouseButton - None
+x = 447,  y= 265, delta = 0
+MouseButton - None
+x = 442,  y= 264, delta = 0
+MouseButton - None
+x = 440,  y= 264, delta = 0
+MouseButton - None
+x = 434,  y= 264, delta = 0
+MouseButton - None
+x = 428,  y= 264, delta = 0
+MouseButton - None
+x = 423,  y= 264, delta = 0
+MouseButton - None
+x = 418,  y= 265, delta = 0
+MouseButton - None
+x = 412,  y= 267, delta = 0
+MouseButton - None
+x = 408,  y= 270, delta = 0
+MouseButton - None
+x = 404,  y= 273, delta = 0
+MouseButton - None
+x = 400,  y= 277, delta = 0
+MouseButton - None
+x = 396,  y= 283, delta = 0
+MouseButton - None
+x = 391,  y= 291, delta = 0
+MouseButton - None
+x = 388,  y= 299, delta = 0
+MouseButton - None
+x = 386,  y= 303, delta = 0
+MouseButton - None
+x = 386,  y= 304, delta = 0
+MouseButton - None
+x = 385,  y= 308, delta = 0
+MouseButton - None
+x = 385,  y= 310, delta = 0
+MouseButton - None
+x = 385,  y= 313, delta = 0
+MouseButton - None
+x = 385,  y= 315, delta = 0
+MouseButton - None
+x = 385,  y= 318, delta = 0
+MouseButton - None
+x = 387,  y= 321, delta = 0
+MouseButton - None
+x = 391,  y= 324, delta = 0
+MouseButton - None
+x = 397,  y= 328, delta = 0
+MouseButton - None
+x = 402,  y= 331, delta = 0
+MouseButton - None
+x = 407,  y= 332, delta = 0
+MouseButton - None
+x = 408,  y= 332, delta = 0
+MouseButton - None
+x = 408,  y= 332, delta = 0
+MouseButton - None
+x = 410,  y= 328, delta = 0
+MouseButton - None
+x = 444,  y= 284, delta = 0
+MouseButton - None
+x = 508,  y= 216, delta = 0
+MouseButton - None
+x = 573,  y= 160, delta = 0
+MouseButton - None
+x = 622,  y= 126, delta = 0
+MouseButton - None
+x = 648,  y= 105, delta = 0
+MouseButton - None
+x = 648,  y= 104, delta = 0
+MouseButton - None
+x = 648,  y= 100, delta = 0
+MouseButton - None
+x = 646,  y= 96, delta = 0
+MouseButton - None
+x = 641,  y= 86, delta = 0
+MouseButton - None
+x = 638,  y= 80, delta = 0
+MouseButton - None
+x = 636,  y= 75, delta = 0
+MouseButton - None
+x = 636,  y= 73, delta = 0
+MouseButton - None
+x = 635,  y= 71, delta = 0
+MouseButton - None
+x = 635,  y= 68, delta = 0
+MouseButton - None
+x = 635,  y= 66, delta = 0
+MouseButton - None
+x = 635,  y= 64, delta = 0
+MouseButton - None
+x = 635,  y= 64, delta = 0
+MouseButton - None
+x = 635,  y= 62, delta = 0
+MouseButton - None
+x = 635,  y= 62, delta = 0
+MouseButton - None
+x = 635,  y= 61, delta = 0
+MouseButton - None
+x = 635,  y= 61, delta = 0
+MouseButton - None
+x = 635,  y= 60, delta = 0
+MouseButton - None
+x = 635,  y= 60, delta = 0
+MouseButton - Left
+x = 399,  y= 247, delta = 0
+MouseButton - None
+x = 402,  y= 247, delta = 0
+MouseButton - None
+x = 402,  y= 247, delta = 0
+MouseButton - None
+x = 403,  y= 247, delta = 0
+MouseButton - None
+x = 403,  y= 247, delta = 0
+MouseButton - None
+x = 404,  y= 247, delta = 0
+MouseButton - None
+Active Window - file:///C:/Users/alefr/Documents/Alessandra/MSICU/3Semestre/Fundamentos de Seguridad/Lab5 - RemoteManager/Lab5 - RemoteManager/Pruebas/bin/Debug/Pruebas.EXE
+
+x = 405,  y= 247, delta = 0
+MouseButton - None
+x = 406,  y= 247, delta = 0
+MouseButton - None
+x = 406,  y= 247, delta = 0
+MouseButton - None
+x = 356,  y= 252, delta = 0
+MouseButton - None
+x = 322,  y= 253, delta = 0
+MouseButton - None
+Active Window - file:///C:/Users/alefr/Documents/Alessandra/MSICU/3Semestre/Fundamentos de Seguridad/Lab5 - RemoteManager/Lab5 - RemoteManager/Pruebas/bin/Debug/Pruebas.EXE
+
+x = 321,  y= 253, delta = 0
+MouseButton - None
+x = 320,  y= 253, delta = 0
+MouseButton - None
+x = 319,  y= 253, delta = 0
+MouseButton - None
+x = 316,  y= 253, delta = 0
+MouseButton - None
+x = 314,  y= 253, delta = 0
+MouseButton - None
+Active Window - file:///C:/Users/alefr/Documents/Alessandra/MSICU/3Semestre/Fundamentos de Seguridad/Lab5 - RemoteManager/Lab5 - RemoteManager/Pruebas/bin/Debug/Pruebas.EXE
+
+x = 310,  y= 253, delta = 0
+MouseButton - None
+x = 306,  y= 252, delta = 0
+MouseButton - None
+x = 305,  y= 252, delta = 0
+MouseButton - None
+x = 304,  y= 251, delta = 0
+MouseButton - None
+x = 303,  y= 250, delta = 0
+MouseButton - None
+x = 302,  y= 249, delta = 0
+MouseButton - None
+x = 302,  y= 248, delta = 0
+MouseButton - None
+x = 302,  y= 247, delta = 0
+MouseButton - None
+x = 302,  y= 246, delta = 0
+MouseButton - None
+x = 302,  y= 246, delta = 0
+MouseButton - None
+x = 302,  y= 245, delta = 0
+MouseButton - None
+x = 302,  y= 244, delta = 0
+MouseButton - None
+x = 302,  y= 242, delta = 0
+MouseButton - None
+x = 302,  y= 242, delta = 0
+MouseButton - None
+x = 303,  y= 240, delta = 0
+MouseButton - None
+x = 306,  y= 239, delta = 0
+MouseButton - None
+x = 306,  y= 238, delta = 0
+MouseButton - None
+x = 307,  y= 238, delta = 0
+MouseButton - None
+x = 307,  y= 238, delta = 0
+MouseButton - None
+x = 308,  y= 237, delta = 0
+MouseButton - None
+Active Window - file:///C:/Users/alefr/Documents/Alessandra/MSICU/3Semestre/Fundamentos de Seguridad/Lab5 - RemoteManager/Lab5 - RemoteManager/Pruebas/bin/Debug/Pruebas.EXE
+
+Active Window - file:///C:/Users/alefr/Documents/Alessandra/MSICU/3Semestre/Fundamentos de Seguridad/Lab5 - RemoteManager/Lab5 - RemoteManager/Pruebas/bin/Debug/Pruebas.EXE
+
+x = 534,  y= 151, delta = 0
+MouseButton - None
+x = 534,  y= 153, delta = 0
+MouseButton - None
+x = 535,  y= 157, delta = 0
+MouseButton - None
+x = 541,  y= 178, delta = 0
+MouseButton - None
+x = 543,  y= 188, delta = 0
+MouseButton - None
+x = 549,  y= 205, delta = 0
+MouseButton - None
+x = 554,  y= 218, delta = 0
+MouseButton - None
+x = 559,  y= 229, delta = 0
+MouseButton - None
+x = 563,  y= 237, delta = 0
+MouseButton - None
+x = 565,  y= 240, delta = 0
+MouseButton - None
+x = 565,  y= 241, delta = 0
+MouseButton - None
+x = 565,  y= 241, delta = 0
+MouseButton - None
+x = 566,  y= 241, delta = 0
+MouseButton - None
+x = 566,  y= 243, delta = 0
+MouseButton - None
+x = 566,  y= 243, delta = 0
+MouseButton - None
+x = 567,  y= 246, delta = 0
+MouseButton - None
+x = 568,  y= 248, delta = 0
+MouseButton - None
+x = 574,  y= 261, delta = 0
+MouseButton - None
+x = 581,  y= 273, delta = 0
+MouseButton - None
+x = 590,  y= 296, delta = 0
+MouseButton - None
+x = 608,  y= 328, delta = 0
+MouseButton - None
+x = 615,  y= 339, delta = 0
+MouseButton - None
+x = 627,  y= 356, delta = 0
+MouseButton - None
+x = 636,  y= 370, delta = 0
+MouseButton - None
+x = 640,  y= 374, delta = 0
+MouseButton - None
+x = 645,  y= 382, delta = 0
+MouseButton - None
+x = 646,  y= 384, delta = 0
+MouseButton - None
+x = 647,  y= 387, delta = 0
+MouseButton - None
+x = 647,  y= 387, delta = 0
+MouseButton - None
+x = 648,  y= 389, delta = 0
+MouseButton - None
+x = 650,  y= 392, delta = 0
+MouseButton - None
+x = 651,  y= 398, delta = 0
+MouseButton - None
+x = 659,  y= 414, delta = 0
+MouseButton - None
+x = 667,  y= 424, delta = 0
+MouseButton - None
+x = 671,  y= 431, delta = 0
+MouseButton - None
+x = 674,  y= 434, delta = 0
+MouseButton - None
+x = 674,  y= 435, delta = 0
+MouseButton - None
+x = 675,  y= 436, delta = 0
+MouseButton - None
+x = 675,  y= 437, delta = 0
+MouseButton - None
+x = 676,  y= 437, delta = 0
+MouseButton - None
+x = 676,  y= 438, delta = 0
+MouseButton - None
+x = 676,  y= 438, delta = 0
+MouseButton - None
+x = 677,  y= 438, delta = 0
+MouseButton - None
+x = 677,  y= 439, delta = 0
+MouseButton - None
+x = 677,  y= 439, delta = 0
+MouseButton - None
+x = 678,  y= 440, delta = 0
+MouseButton - None
+x = 679,  y= 441, delta = 0
+MouseButton - None
+x = 680,  y= 442, delta = 0
+MouseButton - None
+x = 681,  y= 442, delta = 0
+MouseButton - None
+x = 681,  y= 443, delta = 0
+MouseButton - None
+x = 681,  y= 443, delta = 0
+MouseButton - Left
+x = 681,  y= 443, delta = 0
+MouseButton - None
+x = 682,  y= 443, delta = 0
+MouseButton - None
+x = 682,  y= 444, delta = 0
+MouseButton - None
+x = 682,  y= 444, delta = 0
+MouseButton - None
+Active Window - file:///C:/Users/alefr/Documents/Alessandra/MSICU/3Semestre/Fundamentos de Seguridad/Lab5 - RemoteManager/Lab5 - RemoteManager/Pruebas/bin/Debug/Pruebas.EXE
+
+x = 480,  y= 133, delta = 0
+MouseButton - None
+x = 479,  y= 142, delta = 0
+MouseButton - None
+x = 479,  y= 152, delta = 0
+MouseButton - None
+x = 479,  y= 186, delta = 0
+MouseButton - None
+x = 479,  y= 208, delta = 0
+MouseButton - None
+x = 485,  y= 233, delta = 0
+MouseButton - None
+x = 496,  y= 267, delta = 0
+MouseButton - None
+x = 508,  y= 297, delta = 0
+MouseButton - None
+x = 517,  y= 310, delta = 0
+MouseButton - None
+x = 521,  y= 315, delta = 0
+MouseButton - None
+x = 525,  y= 320, delta = 0
+MouseButton - None
+x = 528,  y= 322, delta = 0
+MouseButton - None
+Active Window - file:///C:/Users/alefr/Documents/Alessandra/MSICU/3Semestre/Fundamentos de Seguridad/Lab5 - RemoteManager/Lab5 - RemoteManager/Pruebas/bin/Debug/Pruebas.EXE
+
+x = 528,  y= 322, delta = 0
+MouseButton - None
+x = 511,  y= 331, delta = 0
+MouseButton - None
+x = 491,  y= 345, delta = 0
+MouseButton - None
+x = 474,  y= 357, delta = 0
+MouseButton - None
+x = 460,  y= 368, delta = 0
+MouseButton - None
+x = 449,  y= 376, delta = 0
+MouseButton - None
+x = 441,  y= 381, delta = 0
+MouseButton - None
+x = 436,  y= 386, delta = 0
+MouseButton - None
+x = 431,  y= 395, delta = 0
+MouseButton - None
+x = 428,  y= 401, delta = 0
+MouseButton - None
+x = 426,  y= 404, delta = 0
+MouseButton - None
+x = 426,  y= 407, delta = 0
+MouseButton - None
+x = 425,  y= 408, delta = 0
+MouseButton - None
+x = 424,  y= 409, delta = 0
+MouseButton - None
+x = 424,  y= 411, delta = 0
+MouseButton - None
+x = 423,  y= 412, delta = 0
+MouseButton - None
+x = 423,  y= 413, delta = 0
+MouseButton - None
+x = 423,  y= 414, delta = 0
+MouseButton - None
+x = 423,  y= 415, delta = 0
+MouseButton - None
+x = 423,  y= 415, delta = 0
+MouseButton - None
+x = 423,  y= 416, delta = 0
+MouseButton - None
+x = 423,  y= 416, delta = 0
+MouseButton - None
+x = 423,  y= 417, delta = 0
+MouseButton - None
+x = 423,  y= 418, delta = 0
+MouseButton - None
+x = 423,  y= 418, delta = 0
+MouseButton - None
+x = 423,  y= 419, delta = 0
+MouseButton - None
+x = 424,  y= 419, delta = 0
+MouseButton - None
+x = 425,  y= 419, delta = 0
+MouseButton - None
+x = 426,  y= 420, delta = 0
+MouseButton - None
+x = 428,  y= 420, delta = 0
+MouseButton - None
+x = 429,  y= 420, delta = 0
+MouseButton - None
+x = 431,  y= 420, delta = 0
+MouseButton - None
+x = 434,  y= 420, delta = 0
+MouseButton - None
+x = 436,  y= 419, delta = 0
+MouseButton - None
+x = 437,  y= 417, delta = 0
+MouseButton - None
+x = 441,  y= 413, delta = 0
+MouseButton - None
+x = 446,  y= 405, delta = 0
+MouseButton - None
+x = 448,  y= 403, delta = 0
+MouseButton - None
+x = 452,  y= 394, delta = 0
+MouseButton - None
+x = 456,  y= 388, delta = 0
+MouseButton - None
+x = 458,  y= 381, delta = 0
+MouseButton - None
+x = 460,  y= 379, delta = 0
+MouseButton - None
+x = 461,  y= 375, delta = 0
+MouseButton - None
+x = 461,  y= 368, delta = 0
+MouseButton - None
+x = 462,  y= 363, delta = 0
+MouseButton - None
+x = 462,  y= 359, delta = 0
+MouseButton - None
+x = 462,  y= 355, delta = 0
+MouseButton - None
+x = 462,  y= 351, delta = 0
+MouseButton - None
+x = 462,  y= 349, delta = 0
+MouseButton - None
+x = 462,  y= 346, delta = 0
+MouseButton - None
+x = 462,  y= 344, delta = 0
+MouseButton - None
+x = 462,  y= 342, delta = 0
+MouseButton - None
+x = 462,  y= 341, delta = 0
+MouseButton - None
+Active Window - file:///C:/Users/alefr/Documents/Alessandra/MSICU/3Semestre/Fundamentos de Seguridad/Lab5 - RemoteManager/Lab5 - RemoteManager/Pruebas/bin/Debug/Pruebas.EXE
+
+x = 482,  y= 70, delta = 0
+MouseButton - None
+x = 482,  y= 70, delta = 0
+MouseButton - None
+x = 482,  y= 70, delta = 0
+MouseButton - None
+x = 480,  y= 72, delta = 0
+MouseButton - None
+x = 477,  y= 73, delta = 0
+MouseButton - None
+x = 469,  y= 79, delta = 0
+MouseButton - None
+x = 449,  y= 95, delta = 0
+MouseButton - None
+x = 420,  y= 126, delta = 0
+MouseButton - None
+x = 408,  y= 137, delta = 0
+MouseButton - None
+x = 392,  y= 153, delta = 0
+MouseButton - None
+x = 380,  y= 166, delta = 0
+MouseButton - None
+x = 374,  y= 172, delta = 0
+MouseButton - None
+x = 370,  y= 175, delta = 0
+MouseButton - None
+x = 370,  y= 176, delta = 0
+MouseButton - None
+x = 369,  y= 178, delta = 0
+MouseButton - None
+x = 367,  y= 192, delta = 0
+MouseButton - None
+x = 366,  y= 199, delta = 0
+MouseButton - None
+x = 366,  y= 208, delta = 0
+MouseButton - None
+x = 365,  y= 215, delta = 0
+MouseButton - None
+x = 365,  y= 221, delta = 0
+MouseButton - None
+x = 365,  y= 224, delta = 0
+MouseButton - None
+x = 365,  y= 226, delta = 0
+MouseButton - None
+x = 365,  y= 227, delta = 0
+MouseButton - None
+x = 365,  y= 228, delta = 0
+MouseButton - None
+x = 365,  y= 228, delta = 0
+MouseButton - None
+x = 365,  y= 229, delta = 0
+MouseButton - None
+x = 365,  y= 230, delta = 0
+MouseButton - None
+x = 365,  y= 232, delta = 0
+MouseButton - None
+x = 365,  y= 235, delta = 0
+MouseButton - None
+x = 365,  y= 237, delta = 0
+MouseButton - None
+x = 365,  y= 242, delta = 0
+MouseButton - None
+x = 365,  y= 246, delta = 0
+MouseButton - None
+x = 365,  y= 248, delta = 0
+MouseButton - None
+x = 365,  y= 250, delta = 0
+MouseButton - None
+x = 365,  y= 251, delta = 0
+MouseButton - None
+x = 365,  y= 251, delta = 0
+MouseButton - Left
+x = 365,  y= 251, delta = 0
+MouseButton - None
+Active Window - file:///C:/Users/alefr/Documents/Alessandra/MSICU/3Semestre/Fundamentos de Seguridad/Lab5 - RemoteManager/Lab5 - RemoteManager/Pruebas/bin/Debug/Pruebas.EXE
+
+x = 514,  y= 246, delta = 0
+MouseButton - None
+x = 471,  y= 225, delta = 0
+MouseButton - None
+x = 468,  y= 222, delta = 0
+MouseButton - None
+x = 463,  y= 219, delta = 0
+MouseButton - None
+x = 450,  y= 214, delta = 0
+MouseButton - None
+x = 438,  y= 211, delta = 0
+MouseButton - None
+x = 428,  y= 208, delta = 0
+MouseButton - None
+x = 415,  y= 202, delta = 0
+MouseButton - None
+x = 398,  y= 195, delta = 0
+MouseButton - None
+x = 386,  y= 189, delta = 0
+MouseButton - None
+x = 379,  y= 185, delta = 0
+MouseButton - None
+x = 372,  y= 182, delta = 0
+MouseButton - None
+x = 366,  y= 179, delta = 0
+MouseButton - None
+x = 357,  y= 175, delta = 0
+MouseButton - None
+x = 348,  y= 172, delta = 0
+MouseButton - None
+x = 342,  y= 167, delta = 0
+MouseButton - None
+x = 336,  y= 162, delta = 0
+MouseButton - None
+x = 323,  y= 156, delta = 0
+MouseButton - None
+x = 316,  y= 155, delta = 0
+MouseButton - None
+x = 315,  y= 155, delta = 0
+MouseButton - None
+x = 314,  y= 155, delta = 0
+MouseButton - None
+x = 314,  y= 155, delta = 0
+MouseButton - None
+x = 314,  y= 157, delta = 0
+MouseButton - None
+x = 314,  y= 158, delta = 0
+MouseButton - None
+x = 314,  y= 160, delta = 0
+MouseButton - None
+x = 314,  y= 161, delta = 0
+MouseButton - None
+x = 313,  y= 164, delta = 0
+MouseButton - None
+x = 313,  y= 164, delta = 0
+MouseButton - None
+x = 313,  y= 165, delta = 0
+MouseButton - None
+x = 313,  y= 167, delta = 0
+MouseButton - None
+x = 314,  y= 167, delta = 0
+MouseButton - None
+x = 314,  y= 167, delta = 0
+MouseButton - Left
+x = 315,  y= 169, delta = 0
+MouseButton - None
+x = 315,  y= 169, delta = 0
+MouseButton - None
+x = 315,  y= 168, delta = 0
+MouseButton - None
+x = 315,  y= 168, delta = 0
+MouseButton - None
+x = 315,  y= 168, delta = 0
+MouseButton - None
+x = 316,  y= 168, delta = 0
+MouseButton - None
+x = 317,  y= 168, delta = 0
+MouseButton - None
+x = 319,  y= 168, delta = 0
+MouseButton - None
+x = 321,  y= 168, delta = 0
+MouseButton - None
+x = 323,  y= 168, delta = 0
+MouseButton - None
+x = 324,  y= 168, delta = 0
+MouseButton - None
+x = 375,  y= 161, delta = 0
+MouseButton - None
+x = 531,  y= 138, delta = 0
+MouseButton - None
+x = 604,  y= 147, delta = 0
+MouseButton - None
+x = 613,  y= 151, delta = 0
+MouseButton - None
+x = 618,  y= 152, delta = 0
+MouseButton - None
+x = 621,  y= 153, delta = 0
+MouseButton - None
+x = 637,  y= 63, delta = 0
+MouseButton - None
+x = 604,  y= 81, delta = 0
+MouseButton - None
+x = 590,  y= 88, delta = 0
+MouseButton - None
+x = 563,  y= 101, delta = 0
+MouseButton - None
+x = 541,  y= 111, delta = 0
+MouseButton - None
+x = 506,  y= 128, delta = 0
+MouseButton - None
+Active Window - file:///C:/Users/alefr/Documents/Alessandra/MSICU/3Semestre/Fundamentos de Seguridad/Lab5 - RemoteManager/Lab5 - RemoteManager/Pruebas/bin/Debug/Pruebas.EXE
+
+x = 490,  y= 140, delta = 0
+MouseButton - None
+x = 472,  y= 152, delta = 0
+MouseButton - None
+x = 460,  y= 162, delta = 0
+MouseButton - None
+x = 446,  y= 176, delta = 0
+MouseButton - None
+x = 436,  y= 188, delta = 0
+MouseButton - None
+x = 432,  y= 193, delta = 0
+MouseButton - None
+x = 428,  y= 199, delta = 0
+MouseButton - None
+x = 426,  y= 201, delta = 0
+MouseButton - None
+x = 418,  y= 207, delta = 0
+MouseButton - None
+x = 406,  y= 210, delta = 0
+MouseButton - None
+x = 378,  y= 211, delta = 0
+MouseButton - None
+x = 357,  y= 211, delta = 0
+MouseButton - None
+x = 333,  y= 211, delta = 0
+MouseButton - None
+x = 286,  y= 211, delta = 0
+MouseButton - None
+x = 245,  y= 217, delta = 0
+MouseButton - None
+x = 227,  y= 219, delta = 0
+MouseButton - None
+x = 217,  y= 220, delta = 0
+MouseButton - None
+x = 212,  y= 221, delta = 0
+MouseButton - None
+x = 211,  y= 221, delta = 0
+MouseButton - None
+x = 211,  y= 222, delta = 0
+MouseButton - None
+x = 212,  y= 223, delta = 0
+MouseButton - None
+x = 214,  y= 224, delta = 0
+MouseButton - None
+x = 217,  y= 225, delta = 0
+MouseButton - None
+x = 227,  y= 228, delta = 0
+MouseButton - None
+x = 236,  y= 230, delta = 0
+MouseButton - None
+x = 254,  y= 235, delta = 0
+MouseButton - None
+x = 274,  y= 238, delta = 0
+MouseButton - None
+x = 298,  y= 242, delta = 0
+MouseButton - None
+x = 310,  y= 242, delta = 0
+MouseButton - None
+x = 319,  y= 242, delta = 0
+MouseButton - None
+x = 325,  y= 242, delta = 0
+MouseButton - None
+x = 334,  y= 241, delta = 0
+MouseButton - None
+x = 336,  y= 240, delta = 0
+MouseButton - None
+x = 336,  y= 240, delta = 0
+MouseButton - None
+x = 337,  y= 240, delta = 0
+MouseButton - None
+x = 338,  y= 240, delta = 0
+MouseButton - None
+x = 341,  y= 238, delta = 0
+MouseButton - None
+x = 347,  y= 237, delta = 0
+MouseButton - None
+x = 354,  y= 236, delta = 0
+MouseButton - None
+x = 363,  y= 235, delta = 0
+MouseButton - None
+x = 373,  y= 234, delta = 0
+MouseButton - None
+x = 381,  y= 232, delta = 0
+MouseButton - None
+x = 394,  y= 231, delta = 0
+MouseButton - None
+x = 397,  y= 231, delta = 0
+MouseButton - None
+x = 399,  y= 229, delta = 0
+MouseButton - None
+x = 400,  y= 229, delta = 0
+MouseButton - None
+x = 401,  y= 229, delta = 0
+MouseButton - None
+x = 401,  y= 231, delta = 0
+MouseButton - None
+x = 401,  y= 233, delta = 0
+MouseButton - None
+x = 401,  y= 234, delta = 0
+MouseButton - None
+x = 401,  y= 235, delta = 0
+MouseButton - None
+x = 401,  y= 236, delta = 0
+MouseButton - None
+x = 401,  y= 236, delta = 0
+MouseButton - None
+x = 401,  y= 238, delta = 0
+MouseButton - None
+x = 402,  y= 240, delta = 0
+MouseButton - None
+x = 403,  y= 241, delta = 0
+MouseButton - None
+x = 403,  y= 242, delta = 0
+MouseButton - None
+x = 403,  y= 243, delta = 0
+MouseButton - None
+x = 404,  y= 243, delta = 0
+MouseButton - None
+x = 404,  y= 243, delta = 0
+MouseButton - Left
+x = 404,  y= 243, delta = 0
+MouseButton - None
+x = 405,  y= 243, delta = 0
+MouseButton - None
+x = 406,  y= 245, delta = 0
+MouseButton - None
+x = 408,  y= 246, delta = 0
+MouseButton - None
+x = 409,  y= 248, delta = 0
+MouseButton - None
+x = 413,  y= 251, delta = 0
+MouseButton - None
+x = 422,  y= 260, delta = 0
+MouseButton - None
+x = 428,  y= 266, delta = 0
+MouseButton - None
+x = 436,  y= 271, delta = 0
+MouseButton - None
+x = 444,  y= 277, delta = 0
+MouseButton - None
+x = 452,  y= 284, delta = 0
+MouseButton - None
+x = 459,  y= 289, delta = 0
+MouseButton - None
+x = 470,  y= 296, delta = 0
+MouseButton - None
+x = 478,  y= 303, delta = 0
+MouseButton - None
+x = 486,  y= 306, delta = 0
+MouseButton - None
+x = 490,  y= 308, delta = 0
+MouseButton - None
+x = 492,  y= 309, delta = 0
+MouseButton - None
+x = 493,  y= 309, delta = 0
+MouseButton - None
+x = 499,  y= 311, delta = 0
+MouseButton - None
+x = 510,  y= 311, delta = 0
+MouseButton - None
+x = 527,  y= 314, delta = 0
+MouseButton - None
+x = 553,  y= 316, delta = 0
+MouseButton - None
+x = 588,  y= 321, delta = 0
+MouseButton - None
+x = 609,  y= 323, delta = 0
+MouseButton - None
+x = 628,  y= 327, delta = 0
+MouseButton - None
+x = 646,  y= 329, delta = 0
+MouseButton - None
+x = 656,  y= 329, delta = 0
+MouseButton - None
+x = 670,  y= 326, delta = 0
+MouseButton - None
+x = 684,  y= 317, delta = 0
+MouseButton - None
+x = 699,  y= 308, delta = 0
+MouseButton - None
+x = 707,  y= 300, delta = 0
+MouseButton - None
+x = 713,  y= 296, delta = 0
+MouseButton - None
+x = 716,  y= 293, delta = 0
+MouseButton - None
+x = 717,  y= 291, delta = 0
+MouseButton - None
+x = 717,  y= 289, delta = 0
+MouseButton - None
+x = 717,  y= 287, delta = 0
+MouseButton - None
+x = 717,  y= 284, delta = 0
+MouseButton - None
+x = 717,  y= 279, delta = 0
+MouseButton - None
+x = 716,  y= 278, delta = 0
+MouseButton - None
+x = 714,  y= 277, delta = 0
+MouseButton - None
+x = 713,  y= 277, delta = 0
+MouseButton - None
+x = 712,  y= 276, delta = 0
+MouseButton - None
+x = 711,  y= 276, delta = 0
+MouseButton - None
+x = 710,  y= 275, delta = 0
+MouseButton - None
+x = 709,  y= 275, delta = 0
+MouseButton - None
+x = 708,  y= 274, delta = 0
+MouseButton - None
+x = 705,  y= 272, delta = 0
+MouseButton - None
+x = 700,  y= 267, delta = 0
+MouseButton - None
+x = 698,  y= 266, delta = 0
+MouseButton - None
+x = 698,  y= 265, delta = 0
+MouseButton - None
+x = 698,  y= 265, delta = 0
+MouseButton - None
+x = 707,  y= 275, delta = 0
+MouseButton - None
+x = 736,  y= 306, delta = 0
+MouseButton - None
+x = 748,  y= 323, delta = 0
+MouseButton - None
+x = 752,  y= 345, delta = 0
+MouseButton - None
+x = 753,  y= 361, delta = 0
+MouseButton - None
+x = 753,  y= 373, delta = 0
+MouseButton - None
+x = 755,  y= 390, delta = 0
+MouseButton - None
+x = 755,  y= 396, delta = 0
+MouseButton - None
+x = 755,  y= 401, delta = 0
+MouseButton - None
+x = 755,  y= 402, delta = 0
+MouseButton - None
+x = 755,  y= 403, delta = 0
+MouseButton - None
+x = 755,  y= 404, delta = 0
+MouseButton - None
+x = 755,  y= 404, delta = 0
+MouseButton - None
+x = 750,  y= 404, delta = 0
+MouseButton - None
+x = 745,  y= 403, delta = 0
+MouseButton - None
+x = 743,  y= 402, delta = 0
+MouseButton - None
+x = 743,  y= 401, delta = 0
+MouseButton - None
+x = 743,  y= 400, delta = 0
+MouseButton - None
+x = 743,  y= 398, delta = 0
+MouseButton - None
+x = 743,  y= 396, delta = 0
+MouseButton - None
+x = 743,  y= 394, delta = 0
+MouseButton - None
+x = 743,  y= 392, delta = 0
+MouseButton - None
+x = 743,  y= 391, delta = 0
+MouseButton - None
+x = 743,  y= 389, delta = 0
+MouseButton - None
+x = 743,  y= 385, delta = 0
+MouseButton - None
+x = 743,  y= 382, delta = 0
+MouseButton - None
+x = 743,  y= 379, delta = 0
+MouseButton - None
+x = 742,  y= 373, delta = 0
+MouseButton - None
+x = 742,  y= 366, delta = 0
+MouseButton - None
+x = 740,  y= 356, delta = 0
+MouseButton - None
+x = 740,  y= 348, delta = 0
+MouseButton - None
+x = 740,  y= 342, delta = 0
+MouseButton - None
+x = 740,  y= 337, delta = 0
+MouseButton - None
+x = 740,  y= 336, delta = 0
+MouseButton - None
+x = 740,  y= 332, delta = 0
+MouseButton - None
+x = 740,  y= 329, delta = 0
+MouseButton - None
+x = 739,  y= 326, delta = 0
+MouseButton - None
+x = 738,  y= 324, delta = 0
+MouseButton - None
+x = 738,  y= 321, delta = 0
+MouseButton - None
+x = 738,  y= 320, delta = 0
+MouseButton - None
+x = 738,  y= 318, delta = 0
+MouseButton - None
+x = 738,  y= 317, delta = 0
+MouseButton - None
+x = 738,  y= 314, delta = 0
+MouseButton - None
+x = 738,  y= 312, delta = 0
+MouseButton - None
+x = 738,  y= 310, delta = 0
+MouseButton - None
+x = 739,  y= 307, delta = 0
+MouseButton - None
+x = 741,  y= 304, delta = 0
+MouseButton - None
+x = 742,  y= 300, delta = 0
+MouseButton - None
+x = 746,  y= 296, delta = 0
+MouseButton - None
+x = 750,  y= 293, delta = 0
+MouseButton - None
+x = 756,  y= 290, delta = 0
+MouseButton - None
+x = 762,  y= 289, delta = 0
+MouseButton - None
+x = 768,  y= 289, delta = 0
+MouseButton - None
+x = 773,  y= 288, delta = 0
+MouseButton - None
+x = 779,  y= 287, delta = 0
+MouseButton - None
+x = 785,  y= 287, delta = 0
+MouseButton - None
+x = 795,  y= 289, delta = 0
+MouseButton - None
+x = 809,  y= 296, delta = 0
+MouseButton - None
+x = 823,  y= 301, delta = 0
+MouseButton - None
+x = 833,  y= 306, delta = 0
+MouseButton - None
+x = 844,  y= 316, delta = 0
+MouseButton - None
+x = 851,  y= 324, delta = 0
+MouseButton - None
+x = 857,  y= 332, delta = 0
+MouseButton - None
+x = 861,  y= 337, delta = 0
+MouseButton - None
+x = 863,  y= 345, delta = 0
+MouseButton - None
+x = 865,  y= 351, delta = 0
+MouseButton - None
+x = 868,  y= 356, delta = 0
+MouseButton - None
+x = 869,  y= 361, delta = 0
+MouseButton - None
+x = 870,  y= 364, delta = 0
+MouseButton - None
+x = 871,  y= 368, delta = 0
+MouseButton - None
+x = 872,  y= 372, delta = 0
+MouseButton - None
+x = 873,  y= 376, delta = 0
+MouseButton - None
+x = 874,  y= 376, delta = 0
+MouseButton - None
+x = 874,  y= 377, delta = 0
+MouseButton - None
+x = 874,  y= 378, delta = 0
+MouseButton - None
+x = 830,  y= 388, delta = 0
+MouseButton - None
+x = 734,  y= 417, delta = 0
+MouseButton - None
+x = 680,  y= 417, delta = 0
+MouseButton - None
+x = 652,  y= 417, delta = 0
+MouseButton - None
+x = 637,  y= 415, delta = 0
+MouseButton - None
+x = 629,  y= 412, delta = 0
+MouseButton - None
+x = 623,  y= 408, delta = 0
+MouseButton - None
+x = 620,  y= 404, delta = 0
+MouseButton - None
+x = 619,  y= 402, delta = 0
+MouseButton - None
+x = 619,  y= 399, delta = 0
+MouseButton - None
+x = 619,  y= 393, delta = 0
+MouseButton - None
+x = 619,  y= 388, delta = 0
+MouseButton - None
+x = 617,  y= 382, delta = 0
+MouseButton - None
+x = 617,  y= 376, delta = 0
+MouseButton - None
+x = 620,  y= 365, delta = 0
+MouseButton - None
+x = 622,  y= 361, delta = 0
+MouseButton - None
+x = 625,  y= 356, delta = 0
+MouseButton - None
+x = 631,  y= 348, delta = 0
+MouseButton - None
+x = 636,  y= 343, delta = 0
+MouseButton - None
+x = 644,  y= 337, delta = 0
+MouseButton - None
+x = 651,  y= 331, delta = 0
+MouseButton - None
+x = 658,  y= 328, delta = 0
+MouseButton - None
+x = 661,  y= 327, delta = 0
+MouseButton - None
+x = 669,  y= 326, delta = 0
+MouseButton - None
+x = 676,  y= 325, delta = 0
+MouseButton - None
+x = 681,  y= 324, delta = 0
+MouseButton - None
+x = 686,  y= 324, delta = 0
+MouseButton - None
+x = 700,  y= 327, delta = 0
+MouseButton - None
+x = 707,  y= 328, delta = 0
+MouseButton - None
+x = 717,  y= 332, delta = 0
+MouseButton - None
+x = 727,  y= 337, delta = 0
+MouseButton - None
+x = 737,  y= 343, delta = 0
+MouseButton - None
+x = 746,  y= 347, delta = 0
+MouseButton - None
+x = 753,  y= 351, delta = 0
+MouseButton - None
+x = 759,  y= 357, delta = 0
+MouseButton - None
+x = 767,  y= 362, delta = 0
+MouseButton - None
+x = 772,  y= 367, delta = 0
+MouseButton - None
+x = 775,  y= 370, delta = 0
+MouseButton - None
+x = 777,  y= 373, delta = 0
+MouseButton - None
+x = 777,  y= 373, delta = 0
+MouseButton - None
+x = 777,  y= 374, delta = 0
+MouseButton - None
+x = 777,  y= 375, delta = 0
+MouseButton - None
+x = 776,  y= 375, delta = 0
+MouseButton - None
+x = 769,  y= 376, delta = 0
+MouseButton - None
+x = 762,  y= 377, delta = 0
+MouseButton - None
+x = 756,  y= 377, delta = 0
+MouseButton - None
+x = 747,  y= 379, delta = 0
+MouseButton - None
+x = 734,  y= 382, delta = 0
+MouseButton - None
+x = 726,  y= 383, delta = 0
+MouseButton - None
+x = 713,  y= 384, delta = 0
+MouseButton - None
+x = 705,  y= 384, delta = 0
+MouseButton - None
+x = 695,  y= 383, delta = 0
+MouseButton - None
+x = 681,  y= 378, delta = 0
+MouseButton - None
+x = 670,  y= 371, delta = 0
+MouseButton - None
+x = 661,  y= 367, delta = 0
+MouseButton - None
+x = 661,  y= 365, delta = 0
+MouseButton - None
+x = 658,  y= 363, delta = 0
+MouseButton - None
+x = 658,  y= 362, delta = 0
+MouseButton - None
+x = 655,  y= 357, delta = 0
+MouseButton - None
+x = 655,  y= 348, delta = 0
+MouseButton - None
+x = 655,  y= 339, delta = 0
+MouseButton - None
+x = 656,  y= 335, delta = 0
+MouseButton - None
+x = 658,  y= 330, delta = 0
+MouseButton - None
+x = 663,  y= 324, delta = 0
+MouseButton - None
+x = 667,  y= 321, delta = 0
+MouseButton - None
+x = 672,  y= 317, delta = 0
+MouseButton - None
+x = 676,  y= 315, delta = 0
+MouseButton - None
+x = 678,  y= 314, delta = 0
+MouseButton - None
+x = 680,  y= 313, delta = 0
+MouseButton - None
+x = 681,  y= 312, delta = 0
+MouseButton - None
+x = 682,  y= 312, delta = 0
+MouseButton - None
+x = 687,  y= 310, delta = 0
+MouseButton - None
+x = 695,  y= 307, delta = 0
+MouseButton - None
+x = 698,  y= 306, delta = 0
+MouseButton - None
+x = 702,  y= 306, delta = 0
+MouseButton - None
+x = 702,  y= 306, delta = 0
+MouseButton - None
+x = 703,  y= 306, delta = 0
+MouseButton - None
+x = 704,  y= 306, delta = 0
+MouseButton - None
+x = 705,  y= 306, delta = 0
+MouseButton - None
+x = 707,  y= 306, delta = 0
+MouseButton - None
+x = 707,  y= 306, delta = 0
+MouseButton - None
+x = 709,  y= 307, delta = 0
+MouseButton - None
+x = 710,  y= 307, delta = 0
+MouseButton - None
+x = 711,  y= 307, delta = 0
+MouseButton - None
+x = 711,  y= 308, delta = 0
+MouseButton - None
+x = 712,  y= 309, delta = 0
+MouseButton - None
+x = 714,  y= 309, delta = 0
+MouseButton - None
+x = 715,  y= 309, delta = 0
+MouseButton - None
+x = 716,  y= 310, delta = 0
+MouseButton - None
+x = 717,  y= 312, delta = 0
+MouseButton - None
+x = 717,  y= 312, delta = 0
+MouseButton - None
+x = 718,  y= 313, delta = 0
+MouseButton - None
+x = 719,  y= 314, delta = 0
+MouseButton - None
+x = 719,  y= 316, delta = 0
+MouseButton - None
+x = 720,  y= 316, delta = 0
+MouseButton - None
+x = 720,  y= 317, delta = 0
+MouseButton - None
+x = 721,  y= 319, delta = 0
+MouseButton - None
+x = 722,  y= 321, delta = 0
+MouseButton - None
+x = 723,  y= 322, delta = 0
+MouseButton - None
+x = 723,  y= 323, delta = 0
+MouseButton - None
+x = 724,  y= 324, delta = 0
+MouseButton - None
+x = 724,  y= 325, delta = 0
+MouseButton - None
+x = 724,  y= 325, delta = 0
+MouseButton - None
+x = 724,  y= 326, delta = 0
+MouseButton - None
+x = 724,  y= 327, delta = 0
+MouseButton - None
+x = 724,  y= 328, delta = 0
+MouseButton - None
+x = 724,  y= 328, delta = 0
+MouseButton - None
+x = 724,  y= 329, delta = 0
+MouseButton - None
+x = 724,  y= 331, delta = 0
+MouseButton - None
+x = 723,  y= 334, delta = 0
+MouseButton - None
+x = 722,  y= 334, delta = 0
+MouseButton - None
+x = 721,  y= 337, delta = 0
+MouseButton - None
+x = 720,  y= 338, delta = 0
+MouseButton - None
+x = 716,  y= 343, delta = 0
+MouseButton - None
+x = 710,  y= 347, delta = 0
+MouseButton - None
+x = 699,  y= 357, delta = 0
+MouseButton - None
+x = 682,  y= 368, delta = 0
+MouseButton - None
+x = 659,  y= 379, delta = 0
+MouseButton - None
+x = 642,  y= 389, delta = 0
+MouseButton - None
+x = 622,  y= 399, delta = 0
+MouseButton - None
+x = 598,  y= 405, delta = 0
+MouseButton - None
+x = 583,  y= 406, delta = 0
+MouseButton - None
+x = 570,  y= 405, delta = 0
+MouseButton - None
+x = 556,  y= 396, delta = 0
+MouseButton - None
+x = 537,  y= 378, delta = 0
+MouseButton - None
+x = 524,  y= 346, delta = 0
+MouseButton - None
+x = 521,  y= 311, delta = 0
+MouseButton - None
+x = 520,  y= 278, delta = 0
+MouseButton - None
+x = 532,  y= 239, delta = 0
+MouseButton - None
+x = 553,  y= 204, delta = 0
+MouseButton - None
+x = 575,  y= 180, delta = 0
+MouseButton - None
+x = 609,  y= 154, delta = 0
+MouseButton - None
+x = 635,  y= 145, delta = 0
+MouseButton - None
+x = 653,  y= 143, delta = 0
+MouseButton - None
+x = 674,  y= 143, delta = 0
+MouseButton - None
+x = 696,  y= 147, delta = 0
+MouseButton - None
+x = 717,  y= 155, delta = 0
+MouseButton - None
+x = 735,  y= 168, delta = 0
+MouseButton - None
+x = 757,  y= 187, delta = 0
+MouseButton - None
+x = 763,  y= 195, delta = 0
+MouseButton - None
+x = 764,  y= 197, delta = 0
+MouseButton - None
+x = 764,  y= 198, delta = 0
+MouseButton - None
+x = 762,  y= 198, delta = 0
+MouseButton - None
+x = 740,  y= 172, delta = 0
+MouseButton - None
+x = 725,  y= 145, delta = 0
+MouseButton - None
+x = 715,  y= 127, delta = 0
+MouseButton - None
+x = 705,  y= 110, delta = 0
+MouseButton - None
+x = 693,  y= 98, delta = 0
+MouseButton - None
+x = 681,  y= 87, delta = 0
+MouseButton - None
+x = 674,  y= 83, delta = 0
+MouseButton - None
+x = 670,  y= 82, delta = 0
+MouseButton - None
+x = 669,  y= 80, delta = 0
+MouseButton - None
+x = 667,  y= 78, delta = 0
+MouseButton - None
+x = 666,  y= 76, delta = 0
+MouseButton - None
+x = 661,  y= 72, delta = 0
+MouseButton - None
+x = 655,  y= 66, delta = 0
+MouseButton - None
+x = 645,  y= 63, delta = 0
+MouseButton - None
+x = 639,  y= 59, delta = 0
+MouseButton - None
+x = 635,  y= 57, delta = 0
+MouseButton - None
+x = 634,  y= 57, delta = 0
+MouseButton - None
+x = 629,  y= 57, delta = 0
+MouseButton - None
+x = 628,  y= 57, delta = 0
+MouseButton - None
+x = 627,  y= 57, delta = 0
+MouseButton - None
+x = 628,  y= 59, delta = 0
+MouseButton - None
+x = 630,  y= 60, delta = 0
+MouseButton - None
+x = 630,  y= 61, delta = 0
+MouseButton - None
+x = 632,  y= 61, delta = 0
+MouseButton - None
+x = 632,  y= 61, delta = 0
+MouseButton - None
+x = 633,  y= 62, delta = 0
+MouseButton - None
+x = 633,  y= 62, delta = 0
+MouseButton - Left
+Active Window - file:///C:/Users/alefr/Documents/Alessandra/MSICU/3Semestre/Fundamentos de Seguridad/Lab5 - RemoteManager/Lab5 - RemoteManager/Pruebas/bin/Debug/Pruebas.EXE
+
+x = 529,  y= 127, delta = 0
+MouseButton - None
+x = 517,  y= 132, delta = 0
+MouseButton - None
+x = 495,  y= 133, delta = 0
+MouseButton - None
+x = 480,  y= 134, delta = 0
+MouseButton - None
+x = 455,  y= 134, delta = 0
+MouseButton - None
+x = 429,  y= 134, delta = 0
+MouseButton - None
+x = 406,  y= 135, delta = 0
+MouseButton - None
+x = 395,  y= 135, delta = 0
+MouseButton - None
+x = 373,  y= 135, delta = 0
+MouseButton - None
+x = 354,  y= 136, delta = 0
+MouseButton - None
+x = 343,  y= 136, delta = 0
+MouseButton - None
+x = 338,  y= 136, delta = 0
+MouseButton - None
+x = 336,  y= 136, delta = 0
+MouseButton - None
+x = 334,  y= 136, delta = 0
+MouseButton - None
+x = 314,  y= 131, delta = 0
+MouseButton - None
+x = 292,  y= 125, delta = 0
+MouseButton - None
+x = 275,  y= 123, delta = 0
+MouseButton - None
+x = 260,  y= 123, delta = 0
+MouseButton - None
+x = 253,  y= 123, delta = 0
+MouseButton - None
+x = 242,  y= 123, delta = 0
+MouseButton - None
+x = 234,  y= 123, delta = 0
+MouseButton - None
+x = 226,  y= 123, delta = 0
+MouseButton - None
+x = 224,  y= 123, delta = 0
+MouseButton - None
+x = 221,  y= 123, delta = 0
+MouseButton - None
+x = 219,  y= 123, delta = 0
+MouseButton - None
+x = 219,  y= 123, delta = 0
+MouseButton - None
+x = 219,  y= 124, delta = 0
+MouseButton - None
+x = 219,  y= 131, delta = 0
+MouseButton - None
+x = 220,  y= 138, delta = 0
+MouseButton - None
+x = 223,  y= 146, delta = 0
+MouseButton - None
+x = 224,  y= 148, delta = 0
+MouseButton - None
+x = 226,  y= 152, delta = 0
+MouseButton - None
+x = 229,  y= 155, delta = 0
+MouseButton - None
+x = 235,  y= 159, delta = 0
+MouseButton - None
+x = 236,  y= 160, delta = 0
+MouseButton - None
+x = 239,  y= 161, delta = 0
+MouseButton - None
+x = 241,  y= 162, delta = 0
+MouseButton - None
+x = 243,  y= 162, delta = 0
+MouseButton - None
+x = 244,  y= 162, delta = 0
+MouseButton - None
+x = 246,  y= 162, delta = 0
+MouseButton - None
+x = 247,  y= 163, delta = 0
+MouseButton - None
+x = 248,  y= 164, delta = 0
+MouseButton - None
+x = 250,  y= 164, delta = 0
+MouseButton - None
+x = 254,  y= 165, delta = 0
+MouseButton - None
+x = 255,  y= 165, delta = 0
+MouseButton - None
+x = 258,  y= 166, delta = 0
+MouseButton - None
+x = 259,  y= 166, delta = 0
+MouseButton - None
+x = 261,  y= 167, delta = 0
+MouseButton - None
+x = 263,  y= 168, delta = 0
+MouseButton - None
+x = 263,  y= 169, delta = 0
+MouseButton - None
+x = 265,  y= 169, delta = 0
+MouseButton - None
+x = 267,  y= 170, delta = 0
+MouseButton - None
+x = 268,  y= 171, delta = 0
+MouseButton - None
+x = 269,  y= 172, delta = 0
+MouseButton - None
+x = 271,  y= 172, delta = 0
+MouseButton - None
+x = 274,  y= 172, delta = 0
+MouseButton - None
+x = 275,  y= 172, delta = 0
+MouseButton - None
+x = 278,  y= 172, delta = 0
+MouseButton - None
+x = 280,  y= 172, delta = 0
+MouseButton - None
+x = 282,  y= 172, delta = 0
+MouseButton - None
+x = 283,  y= 172, delta = 0
+MouseButton - None
+x = 284,  y= 172, delta = 0
+MouseButton - None
+x = 285,  y= 172, delta = 0
+MouseButton - None
+x = 286,  y= 172, delta = 0
+MouseButton - None
+x = 287,  y= 172, delta = 0
+MouseButton - None
+x = 288,  y= 172, delta = 0
+MouseButton - None
+x = 290,  y= 172, delta = 0
+MouseButton - None
+x = 291,  y= 172, delta = 0
+MouseButton - None
+x = 293,  y= 172, delta = 0
+MouseButton - None
+x = 294,  y= 172, delta = 0
+MouseButton - None
+x = 296,  y= 171, delta = 0
+MouseButton - None
+x = 297,  y= 171, delta = 0
+MouseButton - None
+x = 299,  y= 171, delta = 0
+MouseButton - None
+x = 300,  y= 171, delta = 0
+MouseButton - None
+x = 303,  y= 170, delta = 0
+MouseButton - None
+x = 306,  y= 170, delta = 0
+MouseButton - None
+x = 308,  y= 170, delta = 0
+MouseButton - None
+x = 310,  y= 170, delta = 0
+MouseButton - None
+x = 313,  y= 170, delta = 0
+MouseButton - None
+x = 315,  y= 170, delta = 0
+MouseButton - None
+x = 316,  y= 170, delta = 0
+MouseButton - None
+x = 319,  y= 170, delta = 0
+MouseButton - None
+x = 321,  y= 170, delta = 0
+MouseButton - None
+x = 325,  y= 170, delta = 0
+MouseButton - None
+x = 328,  y= 169, delta = 0
+MouseButton - None
+x = 330,  y= 169, delta = 0
+MouseButton - None
+x = 333,  y= 169, delta = 0
+MouseButton - None
+x = 334,  y= 169, delta = 0
+MouseButton - None
+x = 335,  y= 169, delta = 0
+MouseButton - None
+x = 336,  y= 169, delta = 0
+MouseButton - None
+x = 337,  y= 169, delta = 0
+MouseButton - None
+x = 338,  y= 169, delta = 0
+MouseButton - None
+x = 339,  y= 169, delta = 0
+MouseButton - None
+x = 340,  y= 169, delta = 0
+MouseButton - None
+x = 340,  y= 169, delta = 0
+MouseButton - None
+x = 341,  y= 169, delta = 0
+MouseButton - None
+x = 341,  y= 169, delta = 0
+MouseButton - Left
+x = 341,  y= 169, delta = 0
+MouseButton - None
+x = 341,  y= 169, delta = 0
+MouseButton - None
+x = 341,  y= 170, delta = 0
+MouseButton - None
+x = 341,  y= 170, delta = 0
+MouseButton - None
+x = 341,  y= 170, delta = 0
+MouseButton - None
+x = 342,  y= 171, delta = 0
+MouseButton - None
+x = 344,  y= 172, delta = 0
+MouseButton - None
+x = 347,  y= 175, delta = 0
+MouseButton - None
+x = 365,  y= 182, delta = 0
+MouseButton - None
+x = 382,  y= 190, delta = 0
+MouseButton - None
+x = 400,  y= 198, delta = 0
+MouseButton - None
+x = 417,  y= 205, delta = 0
+MouseButton - None
+x = 435,  y= 210, delta = 0
+MouseButton - None
+x = 443,  y= 213, delta = 0
+MouseButton - None
+x = 461,  y= 222, delta = 0
+MouseButton - None
+x = 477,  y= 229, delta = 0
+MouseButton - None
+x = 482,  y= 233, delta = 0
+MouseButton - None
+x = 490,  y= 238, delta = 0
+MouseButton - None
+x = 496,  y= 242, delta = 0
+MouseButton - None
+x = 501,  y= 243, delta = 0
+MouseButton - None
+x = 506,  y= 246, delta = 0
+MouseButton - None
+x = 511,  y= 249, delta = 0
+MouseButton - None
+x = 511,  y= 249, delta = 0
+MouseButton - None
+x = 507,  y= 249, delta = 0
+MouseButton - None
+x = 503,  y= 249, delta = 0
+MouseButton - None
+x = 501,  y= 249, delta = 0
+MouseButton - None
+x = 497,  y= 251, delta = 0
+MouseButton - None
+x = 493,  y= 254, delta = 0
+MouseButton - None
+x = 491,  y= 254, delta = 0
+MouseButton - None
+x = 489,  y= 256, delta = 0
+MouseButton - None
+x = 486,  y= 257, delta = 0
+MouseButton - None
+x = 480,  y= 261, delta = 0
+MouseButton - None
+x = 477,  y= 262, delta = 0
+MouseButton - None
+x = 471,  y= 266, delta = 0
+MouseButton - None
+x = 468,  y= 270, delta = 0
+MouseButton - None
+x = 466,  y= 272, delta = 0
+MouseButton - None
+x = 465,  y= 273, delta = 0
+MouseButton - None
+x = 464,  y= 273, delta = 0
+MouseButton - None
+x = 464,  y= 274, delta = 0
+MouseButton - None
+x = 464,  y= 274, delta = 0
+MouseButton - None
+x = 464,  y= 276, delta = 0
+MouseButton - None
+x = 464,  y= 276, delta = 0
+MouseButton - None
+x = 464,  y= 277, delta = 0
+MouseButton - None
+x = 466,  y= 279, delta = 0
+MouseButton - None
+x = 473,  y= 281, delta = 0
+MouseButton - None
+x = 487,  y= 281, delta = 0
+MouseButton - None
+x = 498,  y= 280, delta = 0
+MouseButton - None
+x = 533,  y= 265, delta = 0
+MouseButton - None
+x = 568,  y= 242, delta = 0
+MouseButton - None
+x = 587,  y= 230, delta = 0
+MouseButton - None
+x = 593,  y= 222, delta = 0
+MouseButton - None
+x = 603,  y= 210, delta = 0
+MouseButton - None
+x = 610,  y= 200, delta = 0
+MouseButton - None
+x = 616,  y= 189, delta = 0
+MouseButton - None
+x = 616,  y= 188, delta = 0
+MouseButton - None
+x = 616,  y= 151, delta = 0
+MouseButton - None
+x = 616,  y= 127, delta = 0
+MouseButton - None
+x = 619,  y= 104, delta = 0
+MouseButton - None
+x = 622,  y= 95, delta = 0
+MouseButton - None
+x = 623,  y= 92, delta = 0
+MouseButton - None
+x = 624,  y= 90, delta = 0
+MouseButton - None
+x = 624,  y= 89, delta = 0
+MouseButton - None
+x = 625,  y= 89, delta = 0
+MouseButton - None
+x = 625,  y= 88, delta = 0
+MouseButton - None
+x = 625,  y= 88, delta = 0
+MouseButton - None
+x = 625,  y= 88, delta = 0
+MouseButton - None
+x = 626,  y= 87, delta = 0
+MouseButton - None
+x = 628,  y= 85, delta = 0
+MouseButton - None
+x = 629,  y= 82, delta = 0
+MouseButton - None
+x = 632,  y= 75, delta = 0
+MouseButton - None
+x = 635,  y= 71, delta = 0
+MouseButton - None
+x = 638,  y= 67, delta = 0
+MouseButton - None
+x = 640,  y= 65, delta = 0
+MouseButton - None
+x = 641,  y= 64, delta = 0
+MouseButton - None
+x = 643,  y= 63, delta = 0
+MouseButton - None
+x = 643,  y= 63, delta = 0
+MouseButton - Left
+Active Window - file:///C:/Users/alefr/Documents/Alessandra/MSICU/3Semestre/Fundamentos de Seguridad/Lab5 - RemoteManager/Lab5 - RemoteManager/Pruebas/bin/Debug/Pruebas.EXE
+
+x = 465,  y= 250, delta = 0
+MouseButton - None
+x = 446,  y= 270, delta = 0
+MouseButton - None
+x = 405,  y= 290, delta = 0
+MouseButton - None
+x = 353,  y= 302, delta = 0
+MouseButton - None
+x = 330,  y= 302, delta = 0
+MouseButton - None
+x = 314,  y= 299, delta = 0
+MouseButton - None
+x = 311,  y= 298, delta = 0
+MouseButton - None
+x = 311,  y= 297, delta = 0
+MouseButton - None
+x = 310,  y= 296, delta = 0
+MouseButton - None
+x = 309,  y= 293, delta = 0
+MouseButton - None
+x = 299,  y= 273, delta = 0
+MouseButton - None
+x = 291,  y= 249, delta = 0
+MouseButton - None
+x = 288,  y= 236, delta = 0
+MouseButton - None
+x = 285,  y= 221, delta = 0
+MouseButton - None
+x = 285,  y= 216, delta = 0
+MouseButton - None
+x = 285,  y= 213, delta = 0
+MouseButton - None
+x = 285,  y= 210, delta = 0
+MouseButton - None
+x = 285,  y= 209, delta = 0
+MouseButton - None
+x = 288,  y= 208, delta = 0
+MouseButton - None
+x = 290,  y= 207, delta = 0
+MouseButton - None
+x = 295,  y= 205, delta = 0
+MouseButton - None
+x = 302,  y= 204, delta = 0
+MouseButton - None
+x = 307,  y= 202, delta = 0
+MouseButton - None
+x = 313,  y= 201, delta = 0
+MouseButton - None
+x = 318,  y= 199, delta = 0
+MouseButton - None
+x = 330,  y= 196, delta = 0
+MouseButton - None
+x = 338,  y= 195, delta = 0
+MouseButton - None
+x = 342,  y= 194, delta = 0
+MouseButton - None
+x = 344,  y= 194, delta = 0
+MouseButton - None
+x = 346,  y= 194, delta = 0
+MouseButton - None
+x = 350,  y= 194, delta = 0
+MouseButton - None
+x = 353,  y= 197, delta = 0
+MouseButton - None
+x = 357,  y= 203, delta = 0
+MouseButton - None
+x = 361,  y= 214, delta = 0
+MouseButton - None
+x = 362,  y= 218, delta = 0
+MouseButton - None
+x = 363,  y= 219, delta = 0
+MouseButton - None
+x = 363,  y= 220, delta = 0
+MouseButton - None
+x = 363,  y= 222, delta = 0
+MouseButton - None
+x = 363,  y= 222, delta = 0
+MouseButton - None
+x = 363,  y= 223, delta = 0
+MouseButton - None
+x = 363,  y= 224, delta = 0
+MouseButton - None
+x = 360,  y= 226, delta = 0
+MouseButton - None
+x = 356,  y= 227, delta = 0
+MouseButton - None
+x = 353,  y= 228, delta = 0
+MouseButton - None
+x = 351,  y= 229, delta = 0
+MouseButton - None
+x = 348,  y= 229, delta = 0
+MouseButton - None
+x = 346,  y= 229, delta = 0
+MouseButton - None
+x = 345,  y= 229, delta = 0
+MouseButton - None
+x = 345,  y= 229, delta = 0
+MouseButton - None
+x = 344,  y= 229, delta = 0
+MouseButton - None
+x = 344,  y= 229, delta = 0
+MouseButton - Left
+x = 344,  y= 229, delta = 0
+MouseButton - None
+x = 344,  y= 229, delta = 0
+MouseButton - None
+x = 345,  y= 229, delta = 0
+MouseButton - None
+x = 349,  y= 230, delta = 0
+MouseButton - None
+x = 372,  y= 238, delta = 0
+MouseButton - None
+x = 399,  y= 249, delta = 0
+MouseButton - None
+x = 424,  y= 260, delta = 0
+MouseButton - None
+x = 451,  y= 274, delta = 0
+MouseButton - None
+x = 507,  y= 304, delta = 0
+MouseButton - None
+x = 541,  y= 329, delta = 0
+MouseButton - None
+x = 562,  y= 340, delta = 0
+MouseButton - None
+x = 581,  y= 352, delta = 0
+MouseButton - None
+x = 588,  y= 357, delta = 0
+MouseButton - None
+x = 581,  y= 403, delta = 0
+MouseButton - None
+x = 578,  y= 480, delta = 0
+MouseButton - None
+x = 580,  y= 510, delta = 0
+MouseButton - None
+x = 585,  y= 530, delta = 0
+MouseButton - None
+x = 585,  y= 530, delta = 0
+MouseButton - None
+x = 585,  y= 532, delta = 0
+MouseButton - None
+x = 585,  y= 532, delta = 0
+MouseButton - None
+x = 585,  y= 533, delta = 0
+MouseButton - None
+x = 586,  y= 515, delta = 0
+MouseButton - None
+x = 540,  y= 404, delta = 0
+MouseButton - None
+x = 521,  y= 270, delta = 0
+MouseButton - None
+x = 523,  y= 217, delta = 0
+MouseButton - None
+x = 524,  y= 206, delta = 0
+MouseButton - None
+x = 528,  y= 190, delta = 0
+MouseButton - None
+x = 532,  y= 178, delta = 0
+MouseButton - None
+x = 536,  y= 166, delta = 0
+MouseButton - None
+x = 537,  y= 165, delta = 0
+MouseButton - None
+x = 538,  y= 162, delta = 0
+MouseButton - None
+x = 537,  y= 158, delta = 0
+MouseButton - None
+x = 536,  y= 119, delta = 0
+MouseButton - None
+x = 534,  y= 67, delta = 0
+MouseButton - None
+x = 534,  y= 29, delta = 0
+MouseButton - None
+x = 534,  y= 16, delta = 0
+MouseButton - None
+x = 537,  y= 7, delta = 0
+MouseButton - None
+x = 541,  y= 2, delta = 0
+MouseButton - None
+x = 543,  y= -2, delta = 0
+MouseButton - None
+x = 546,  y= -3, delta = 0
+MouseButton - None
+x = 548,  y= -2, delta = 0
+MouseButton - None
+x = 554,  y= -4, delta = 0
+MouseButton - None
+x = 558,  y= -1, delta = 0
+MouseButton - None
+x = 560,  y= 0, delta = 0
+MouseButton - None
+x = 564,  y= -1, delta = 0
+MouseButton - None
+x = 568,  y= 0, delta = 0
+MouseButton - None
+x = 570,  y= 0, delta = 0
+MouseButton - None
+x = 574,  y= 0, delta = 0
+MouseButton - None
+x = 579,  y= 0, delta = 0
+MouseButton - None
+x = 582,  y= 0, delta = 0
+MouseButton - None
+x = 587,  y= 2, delta = 0
+MouseButton - None
+x = 592,  y= 4, delta = 0
+MouseButton - None
+x = 594,  y= 6, delta = 0
+MouseButton - None
+x = 599,  y= 8, delta = 0
+MouseButton - None
+x = 602,  y= 9, delta = 0
+MouseButton - None
+x = 604,  y= 11, delta = 0
+MouseButton - None
+x = 605,  y= 12, delta = 0
+MouseButton - None
+x = 606,  y= 14, delta = 0
+MouseButton - None
+x = 606,  y= 14, delta = 0
+MouseButton - None
+x = 606,  y= 15, delta = 0
+MouseButton - None
+x = 606,  y= 18, delta = 0
+MouseButton - None
+x = 606,  y= 21, delta = 0
+MouseButton - None
+x = 606,  y= 24, delta = 0
+MouseButton - None
+x = 606,  y= 28, delta = 0
+MouseButton - None
+x = 604,  y= 35, delta = 0
+MouseButton - None
+x = 604,  y= 42, delta = 0
+MouseButton - None
+x = 604,  y= 44, delta = 0
+MouseButton - None
+x = 605,  y= 50, delta = 0
+MouseButton - None
+x = 608,  y= 56, delta = 0
+MouseButton - None
+x = 613,  y= 60, delta = 0
+MouseButton - None
+x = 617,  y= 63, delta = 0
+MouseButton - None
+x = 619,  y= 64, delta = 0
+MouseButton - None
+x = 619,  y= 65, delta = 0
+MouseButton - None
+x = 619,  y= 65, delta = 0
+MouseButton - None
+x = 619,  y= 65, delta = 0
+MouseButton - None
+x = 620,  y= 65, delta = 0
+MouseButton - None
+x = 620,  y= 66, delta = 0
+MouseButton - None
+x = 620,  y= 66, delta = 0
+MouseButton - None
+x = 620,  y= 67, delta = 0
+MouseButton - None
+x = 621,  y= 68, delta = 0
+MouseButton - None
+x = 622,  y= 68, delta = 0
+MouseButton - None
+x = 624,  y= 70, delta = 0
+MouseButton - None
+x = 626,  y= 71, delta = 0
+MouseButton - None
+x = 630,  y= 72, delta = 0
+MouseButton - None
+x = 632,  y= 73, delta = 0
+MouseButton - None
+x = 633,  y= 73, delta = 0
+MouseButton - None
+x = 640,  y= 74, delta = 0
+MouseButton - None
+x = 640,  y= 74, delta = 0
+MouseButton - Left
+x = 640,  y= 74, delta = 0
+MouseButton - None
+Active Window - file:///C:/Users/alefr/Documents/Alessandra/MSICU/3Semestre/Fundamentos de Seguridad/Lab5 - RemoteManager/Lab5 - RemoteManager/Pruebas/bin/Debug/Pruebas.EXE
+
+x = 442,  y= 171, delta = 0
+MouseButton - None
+x = 442,  y= 175, delta = 0
+MouseButton - None
+x = 442,  y= 189, delta = 0
+MouseButton - None
+x = 442,  y= 195, delta = 0
+MouseButton - None
+x = 442,  y= 199, delta = 0
+MouseButton - None
+x = 442,  y= 204, delta = 0
+MouseButton - None
+x = 441,  y= 210, delta = 0
+MouseButton - None
+x = 441,  y= 216, delta = 0
+MouseButton - None
+x = 440,  y= 223, delta = 0
+MouseButton - None
+x = 437,  y= 234, delta = 0
+MouseButton - None
+x = 432,  y= 247, delta = 0
+MouseButton - None
+x = 427,  y= 262, delta = 0
+MouseButton - None
+x = 424,  y= 275, delta = 0
+MouseButton - None
+x = 421,  y= 286, delta = 0
+MouseButton - None
+x = 420,  y= 290, delta = 0
+MouseButton - None
+x = 420,  y= 291, delta = 0
+MouseButton - None
+x = 419,  y= 291, delta = 0
+MouseButton - None
+x = 419,  y= 291, delta = 0
+MouseButton - None
+x = 419,  y= 295, delta = 0
+MouseButton - None
+x = 420,  y= 299, delta = 0
+MouseButton - None
+x = 422,  y= 303, delta = 0
+MouseButton - None
+x = 422,  y= 304, delta = 0
+MouseButton - None
+x = 422,  y= 306, delta = 0
+MouseButton - None
+x = 422,  y= 306, delta = 0
+MouseButton - None
+x = 422,  y= 307, delta = 0
+MouseButton - None
+x = 422,  y= 307, delta = 0
+MouseButton - None
+x = 423,  y= 307, delta = 0
+MouseButton - None
+x = 423,  y= 307, delta = 0
+MouseButton - None
+x = 424,  y= 307, delta = 0
+MouseButton - None
+x = 425,  y= 307, delta = 0
+MouseButton - None
+x = 426,  y= 307, delta = 0
+MouseButton - None
+x = 427,  y= 307, delta = 0
+MouseButton - None
+x = 428,  y= 307, delta = 0
+MouseButton - None
+x = 430,  y= 307, delta = 0
+MouseButton - None
+x = 430,  y= 308, delta = 0
+MouseButton - None
+x = 431,  y= 308, delta = 0
+MouseButton - None
+x = 431,  y= 308, delta = 0
+MouseButton - None
+x = 431,  y= 308, delta = 0
+MouseButton - Left
+x = 431,  y= 308, delta = 0
+MouseButton - None
+x = 432,  y= 308, delta = 0
+MouseButton - None
+x = 432,  y= 308, delta = 0
+MouseButton - None
+x = 436,  y= 308, delta = 0
+MouseButton - None
+x = 443,  y= 308, delta = 0
+MouseButton - None
+x = 454,  y= 308, delta = 0
+MouseButton - None
+x = 468,  y= 308, delta = 0
+MouseButton - None
+x = 498,  y= 309, delta = 0
+MouseButton - None
+x = 540,  y= 323, delta = 0
+MouseButton - None
+x = 552,  y= 329, delta = 0
+MouseButton - None
+x = 569,  y= 336, delta = 0
+MouseButton - None
+x = 584,  y= 345, delta = 0
+MouseButton - None
+x = 587,  y= 348, delta = 0
+MouseButton - None
+x = 587,  y= 348, delta = 0
+MouseButton - None
+x = 593,  y= 343, delta = 0
+MouseButton - None
+x = 657,  y= 296, delta = 0
+MouseButton - None
+x = 711,  y= 268, delta = 0
+MouseButton - None
+x = 730,  y= 262, delta = 0
+MouseButton - None
+x = 745,  y= 261, delta = 0
+MouseButton - None
+x = 756,  y= 261, delta = 0
+MouseButton - None
+x = 762,  y= 261, delta = 0
+MouseButton - None
+x = 764,  y= 261, delta = 0
+MouseButton - None
+x = 765,  y= 261, delta = 0
+MouseButton - None
+x = 764,  y= 261, delta = 0
+MouseButton - None
+x = 757,  y= 261, delta = 0
+MouseButton - None
+x = 727,  y= 259, delta = 0
+MouseButton - None
+x = 549,  y= 202, delta = 0
+MouseButton - None
+x = 470,  y= 179, delta = 0
+MouseButton - None
+x = 453,  y= 173, delta = 0
+MouseButton - None
+x = 445,  y= 170, delta = 0
+MouseButton - None
+x = 444,  y= 170, delta = 0
+MouseButton - None
+x = 443,  y= 170, delta = 0
+MouseButton - None
+x = 442,  y= 170, delta = 0
+MouseButton - None
+x = 421,  y= 170, delta = 0
+MouseButton - None
+x = 410,  y= 170, delta = 0
+MouseButton - None
+x = 395,  y= 177, delta = 0
+MouseButton - None
+x = 390,  y= 181, delta = 0
+MouseButton - None
+x = 382,  y= 191, delta = 0
+MouseButton - None
+x = 372,  y= 205, delta = 0
+MouseButton - None
+x = 368,  y= 214, delta = 0
+MouseButton - None
+x = 366,  y= 222, delta = 0
+MouseButton - None
+x = 365,  y= 225, delta = 0
+MouseButton - None
+x = 365,  y= 227, delta = 0
+MouseButton - None
+x = 365,  y= 227, delta = 0
+MouseButton - None
+x = 382,  y= 222, delta = 0
+MouseButton - None
+x = 406,  y= 207, delta = 0
+MouseButton - None
+x = 425,  y= 193, delta = 0
+MouseButton - None
+x = 434,  y= 187, delta = 0
+MouseButton - None
+x = 438,  y= 183, delta = 0
+MouseButton - None
+x = 440,  y= 181, delta = 0
+MouseButton - None
+x = 440,  y= 181, delta = 0
+MouseButton - None
+x = 439,  y= 180, delta = 0
+MouseButton - None
+x = 435,  y= 179, delta = 0
+MouseButton - None
+x = 429,  y= 178, delta = 0
+MouseButton - None
+x = 426,  y= 177, delta = 0
+MouseButton - None
+x = 423,  y= 176, delta = 0
+MouseButton - None
+x = 420,  y= 176, delta = 0
+MouseButton - None
+x = 416,  y= 176, delta = 0
+MouseButton - None
+x = 414,  y= 176, delta = 0
+MouseButton - None
+x = 411,  y= 176, delta = 0
+MouseButton - None
+x = 410,  y= 176, delta = 0
+MouseButton - None
+x = 407,  y= 176, delta = 0
+MouseButton - None
+x = 405,  y= 176, delta = 0
+MouseButton - None
+x = 401,  y= 176, delta = 0
+MouseButton - None
+x = 397,  y= 176, delta = 0
+MouseButton - None
+x = 396,  y= 176, delta = 0
+MouseButton - None
+x = 394,  y= 176, delta = 0
+MouseButton - None
+x = 392,  y= 176, delta = 0
+MouseButton - None
+x = 392,  y= 176, delta = 0
+MouseButton - None
+x = 390,  y= 176, delta = 0
+MouseButton - None
+x = 388,  y= 176, delta = 0
+MouseButton - None
+x = 388,  y= 176, delta = 0
+MouseButton - None
+x = 387,  y= 175, delta = 0
+MouseButton - None
+x = 385,  y= 175, delta = 0
+MouseButton - None
+x = 384,  y= 175, delta = 0
+MouseButton - None
+x = 384,  y= 175, delta = 0
+MouseButton - None
+x = 384,  y= 175, delta = 0
+MouseButton - None
+x = 384,  y= 175, delta = 0
+MouseButton - None
+x = 384,  y= 175, delta = 0
+MouseButton - None
+x = 383,  y= 176, delta = 0
+MouseButton - None
+x = 382,  y= 176, delta = 0
+MouseButton - None
+x = 381,  y= 176, delta = 0
+MouseButton - None
+x = 380,  y= 176, delta = 0
+MouseButton - None
+x = 378,  y= 177, delta = 0
+MouseButton - None
+x = 372,  y= 178, delta = 0
+MouseButton - None
+x = 370,  y= 178, delta = 0
+MouseButton - None
+x = 366,  y= 178, delta = 0
+MouseButton - None
+x = 363,  y= 178, delta = 0
+MouseButton - None
+x = 360,  y= 178, delta = 0
+MouseButton - None
+x = 356,  y= 178, delta = 0
+MouseButton - None
+x = 350,  y= 178, delta = 0
+MouseButton - None
+x = 345,  y= 178, delta = 0
+MouseButton - None
+x = 342,  y= 178, delta = 0
+MouseButton - None
+x = 339,  y= 178, delta = 0
+MouseButton - None
+x = 334,  y= 178, delta = 0
+MouseButton - None
+x = 331,  y= 177, delta = 0
+MouseButton - None
+x = 329,  y= 177, delta = 0
+MouseButton - None
+x = 328,  y= 177, delta = 0
+MouseButton - None
+x = 327,  y= 176, delta = 0
+MouseButton - None
+x = 327,  y= 176, delta = 0
+MouseButton - None
+x = 327,  y= 176, delta = 0
+MouseButton - None
+x = 329,  y= 184, delta = 0
+MouseButton - None
+x = 333,  y= 193, delta = 0
+MouseButton - None
+x = 335,  y= 202, delta = 0
+MouseButton - None
+x = 336,  y= 211, delta = 0
+MouseButton - None
+x = 339,  y= 230, delta = 0
+MouseButton - None
+x = 340,  y= 247, delta = 0
+MouseButton - None
+x = 342,  y= 257, delta = 0
+MouseButton - None
+x = 342,  y= 261, delta = 0
+MouseButton - None
+x = 342,  y= 261, delta = 0
+MouseButton - None
+x = 342,  y= 261, delta = 0
+MouseButton - None
+x = 345,  y= 250, delta = 0
+MouseButton - None
+x = 349,  y= 237, delta = 0
+MouseButton - None
+x = 349,  y= 227, delta = 0
+MouseButton - None
+x = 349,  y= 222, delta = 0
+MouseButton - None
+x = 347,  y= 217, delta = 0
+MouseButton - None
+x = 342,  y= 212, delta = 0
+MouseButton - None
+x = 337,  y= 207, delta = 0
+MouseButton - None
+x = 336,  y= 206, delta = 0
+MouseButton - None
+x = 335,  y= 205, delta = 0
+MouseButton - None
+x = 334,  y= 205, delta = 0
+MouseButton - None
+x = 332,  y= 204, delta = 0
+MouseButton - None
+x = 332,  y= 203, delta = 0
+MouseButton - None
+x = 332,  y= 203, delta = 0
+MouseButton - None
+x = 332,  y= 202, delta = 0
+MouseButton - None
+x = 332,  y= 202, delta = 0
+MouseButton - None
+x = 332,  y= 202, delta = 0
+MouseButton - None
+x = 330,  y= 202, delta = 0
+MouseButton - None
+x = 330,  y= 201, delta = 0
+MouseButton - None
+x = 330,  y= 198, delta = 0
+MouseButton - None
+x = 330,  y= 197, delta = 0
+MouseButton - None
+x = 330,  y= 196, delta = 0
+MouseButton - None
+x = 330,  y= 193, delta = 0
+MouseButton - None
+x = 331,  y= 187, delta = 0
+MouseButton - None
+x = 331,  y= 184, delta = 0
+MouseButton - None
+x = 331,  y= 181, delta = 0
+MouseButton - None
+x = 331,  y= 179, delta = 0
+MouseButton - None
+x = 331,  y= 178, delta = 0
+MouseButton - None
+x = 331,  y= 176, delta = 0
+MouseButton - None
+x = 331,  y= 174, delta = 0
+MouseButton - None
+x = 331,  y= 172, delta = 0
+MouseButton - None
+x = 331,  y= 171, delta = 0
+MouseButton - None
+x = 331,  y= 169, delta = 0
+MouseButton - None
+x = 331,  y= 167, delta = 0
+MouseButton - None
+x = 331,  y= 167, delta = 0
+MouseButton - None
+x = 331,  y= 167, delta = 0
+MouseButton - Left
+x = 331,  y= 166, delta = 0
+MouseButton - None
+x = 322,  y= 159, delta = 0
+MouseButton - None
+x = 290,  y= 134, delta = 0
+MouseButton - None
+x = 272,  y= 120, delta = 0
+MouseButton - None
+x = 271,  y= 119, delta = 0
+MouseButton - None
+x = 270,  y= 118, delta = 0
+MouseButton - None
+x = 268,  y= 115, delta = 0
+MouseButton - None
+x = 268,  y= 114, delta = 0
+MouseButton - None
+x = 268,  y= 112, delta = 0
+MouseButton - None
+x = 268,  y= 110, delta = 0
+MouseButton - None
+x = 267,  y= 106, delta = 0
+MouseButton - None
+x = 265,  y= 100, delta = 0
+MouseButton - None
+x = 264,  y= 97, delta = 0
+MouseButton - None
+x = 264,  y= 97, delta = 0
+MouseButton - None
+x = 262,  y= 94, delta = 0
+MouseButton - None
+x = 260,  y= 91, delta = 0
+MouseButton - None
+x = 258,  y= 89, delta = 0
+MouseButton - None
+x = 256,  y= 89, delta = 0
+MouseButton - None
+x = 255,  y= 89, delta = 0
+MouseButton - None
+x = 245,  y= 87, delta = 0
+MouseButton - None
+x = 242,  y= 86, delta = 0
+MouseButton - None
+x = 229,  y= 83, delta = 0
+MouseButton - None
+x = 223,  y= 81, delta = 0
+MouseButton - None
+x = 220,  y= 80, delta = 0
+MouseButton - None
+x = 218,  y= 80, delta = 0
+MouseButton - None
+x = 215,  y= 80, delta = 0
+MouseButton - None
+x = 210,  y= 79, delta = 0
+MouseButton - None
+x = 207,  y= 78, delta = 0
+MouseButton - None
+x = 201,  y= 78, delta = 0
+MouseButton - None
+x = 197,  y= 77, delta = 0
+MouseButton - None
+x = 196,  y= 77, delta = 0
+MouseButton - None
+x = 195,  y= 77, delta = 0
+MouseButton - None
+x = 194,  y= 77, delta = 0
+MouseButton - None
+x = 194,  y= 77, delta = 0
+MouseButton - None
+x = 194,  y= 78, delta = 0
+MouseButton - None
+x = 195,  y= 83, delta = 0
+MouseButton - None
+x = 197,  y= 91, delta = 0
+MouseButton - None
+x = 199,  y= 98, delta = 0
+MouseButton - None
+x = 207,  y= 121, delta = 0
+MouseButton - None
+x = 221,  y= 151, delta = 0
+MouseButton - None
+x = 237,  y= 182, delta = 0
+MouseButton - None
+x = 251,  y= 208, delta = 0
+MouseButton - None
+x = 256,  y= 220, delta = 0
+MouseButton - None
+x = 259,  y= 225, delta = 0
+MouseButton - None
+x = 259,  y= 225, delta = 0
+MouseButton - None
+x = 260,  y= 227, delta = 0
+MouseButton - None
+x = 260,  y= 228, delta = 0
+MouseButton - None
+x = 260,  y= 229, delta = 0
+MouseButton - None
+x = 260,  y= 230, delta = 0
+MouseButton - None
+x = 260,  y= 231, delta = 0
+MouseButton - None
+x = 260,  y= 231, delta = 0
+MouseButton - None
+x = 260,  y= 231, delta = 0
+MouseButton - None
+x = 260,  y= 230, delta = 0
+MouseButton - None
+x = 260,  y= 228, delta = 0
+MouseButton - None
+x = 262,  y= 222, delta = 0
+MouseButton - None
+x = 263,  y= 221, delta = 0
+MouseButton - None
+x = 263,  y= 219, delta = 0
+MouseButton - None
+x = 264,  y= 217, delta = 0
+MouseButton - None
+x = 265,  y= 217, delta = 0
+MouseButton - None
+x = 266,  y= 217, delta = 0
+MouseButton - None
+x = 266,  y= 217, delta = 0
+MouseButton - None
+x = 267,  y= 217, delta = 0
+MouseButton - None
+x = 270,  y= 217, delta = 0
+MouseButton - None
+x = 272,  y= 218, delta = 0
+MouseButton - None
+x = 273,  y= 218, delta = 0
+MouseButton - None
+x = 274,  y= 221, delta = 0
+MouseButton - None
+x = 275,  y= 223, delta = 0
+MouseButton - None
+x = 275,  y= 224, delta = 0
+MouseButton - None
+x = 275,  y= 225, delta = 0
+MouseButton - None
+x = 275,  y= 228, delta = 0
+MouseButton - None
+x = 275,  y= 230, delta = 0
+MouseButton - None
+x = 275,  y= 233, delta = 0
+MouseButton - None
+x = 275,  y= 239, delta = 0
+MouseButton - None
+x = 275,  y= 242, delta = 0
+MouseButton - None
+x = 274,  y= 246, delta = 0
+MouseButton - None
+x = 271,  y= 253, delta = 0
+MouseButton - None
+x = 271,  y= 254, delta = 0
+MouseButton - None
+x = 271,  y= 255, delta = 0
+MouseButton - None
+x = 271,  y= 256, delta = 0
+MouseButton - None
+x = 269,  y= 258, delta = 0
+MouseButton - None
+x = 269,  y= 259, delta = 0
+MouseButton - None
+x = 269,  y= 262, delta = 0
+MouseButton - None
+x = 269,  y= 263, delta = 0
+MouseButton - None
+x = 269,  y= 265, delta = 0
+MouseButton - None
+x = 269,  y= 267, delta = 0
+MouseButton - None
+x = 269,  y= 268, delta = 0
+MouseButton - None
+x = 269,  y= 269, delta = 0
+MouseButton - None
+x = 269,  y= 271, delta = 0
+MouseButton - None
+x = 270,  y= 273, delta = 0
+MouseButton - None
+x = 270,  y= 274, delta = 0
+MouseButton - None
+x = 271,  y= 278, delta = 0
+MouseButton - None
+x = 273,  y= 280, delta = 0
+MouseButton - None
+x = 274,  y= 284, delta = 0
+MouseButton - None
+x = 276,  y= 285, delta = 0
+MouseButton - None
+x = 277,  y= 287, delta = 0
+MouseButton - None
+x = 278,  y= 290, delta = 0
+MouseButton - None
+x = 278,  y= 290, delta = 0
+MouseButton - None
+x = 279,  y= 291, delta = 0
+MouseButton - None
+x = 279,  y= 293, delta = 0
+MouseButton - None
+x = 281,  y= 294, delta = 0
+MouseButton - None
+x = 282,  y= 296, delta = 0
+MouseButton - None
+x = 285,  y= 298, delta = 0
+MouseButton - None
+x = 287,  y= 300, delta = 0
+MouseButton - None
+x = 292,  y= 304, delta = 0
+MouseButton - None
+x = 298,  y= 308, delta = 0
+MouseButton - None
+x = 315,  y= 320, delta = 0
+MouseButton - None
+x = 331,  y= 330, delta = 0
+MouseButton - None
+x = 353,  y= 340, delta = 0
+MouseButton - None
+x = 364,  y= 344, delta = 0
+MouseButton - None
+x = 375,  y= 346, delta = 0
+MouseButton - None
+x = 376,  y= 346, delta = 0
+MouseButton - None
+x = 377,  y= 345, delta = 0
+MouseButton - None
+x = 379,  y= 341, delta = 0
+MouseButton - None
+x = 379,  y= 340, delta = 0
+MouseButton - None
+x = 379,  y= 338, delta = 0
+MouseButton - None
+x = 379,  y= 337, delta = 0
+MouseButton - None
+x = 379,  y= 337, delta = 0
+MouseButton - None
+x = 379,  y= 335, delta = 0
+MouseButton - None
+x = 378,  y= 334, delta = 0
+MouseButton - None
+x = 372,  y= 332, delta = 0
+MouseButton - None
+x = 360,  y= 326, delta = 0
+MouseButton - None
+x = 343,  y= 318, delta = 0
+MouseButton - None
+x = 328,  y= 311, delta = 0
+MouseButton - None
+x = 309,  y= 307, delta = 0
+MouseButton - None
+x = 300,  y= 304, delta = 0
+MouseButton - None
+x = 300,  y= 304, delta = 0
+MouseButton - None
+x = 301,  y= 304, delta = 0
+MouseButton - None
+x = 302,  y= 304, delta = 0
+MouseButton - None
+x = 302,  y= 304, delta = 0
+MouseButton - None
+x = 303,  y= 304, delta = 0
+MouseButton - None
+x = 305,  y= 304, delta = 0
+MouseButton - None
+x = 306,  y= 303, delta = 0
+MouseButton - None
+x = 307,  y= 303, delta = 0
+MouseButton - None
+x = 308,  y= 305, delta = 0
+MouseButton - None
+x = 311,  y= 308, delta = 0
+MouseButton - None
+x = 317,  y= 312, delta = 0
+MouseButton - None
+x = 326,  y= 316, delta = 0
+MouseButton - None
+x = 334,  y= 322, delta = 0
+MouseButton - None
+x = 348,  y= 331, delta = 0
+MouseButton - None
+x = 361,  y= 340, delta = 0
+MouseButton - None
+x = 372,  y= 345, delta = 0
+MouseButton - None
+x = 379,  y= 348, delta = 0
+MouseButton - None
+x = 383,  y= 350, delta = 0
+MouseButton - None
+x = 388,  y= 350, delta = 0
+MouseButton - None
+x = 396,  y= 350, delta = 0
+MouseButton - None
+x = 405,  y= 350, delta = 0
+MouseButton - None
+x = 409,  y= 349, delta = 0
+MouseButton - None
+x = 413,  y= 347, delta = 0
+MouseButton - None
+x = 415,  y= 347, delta = 0
+MouseButton - None
+x = 415,  y= 347, delta = 0
+MouseButton - None
+x = 416,  y= 347, delta = 0
+MouseButton - None
+x = 416,  y= 347, delta = 0
+MouseButton - None
+x = 416,  y= 348, delta = 0
+MouseButton - None
+x = 416,  y= 349, delta = 0
+MouseButton - None
+x = 416,  y= 350, delta = 0
+MouseButton - None
+x = 416,  y= 351, delta = 0
+MouseButton - None
+x = 415,  y= 353, delta = 0
+MouseButton - None
+x = 409,  y= 355, delta = 0
+MouseButton - None
+x = 401,  y= 358, delta = 0
+MouseButton - None
+x = 395,  y= 361, delta = 0
+MouseButton - None
+x = 392,  y= 362, delta = 0
+MouseButton - None
+x = 389,  y= 363, delta = 0
+MouseButton - None
+x = 388,  y= 364, delta = 0
+MouseButton - None
+x = 387,  y= 364, delta = 0
+MouseButton - None
+x = 385,  y= 364, delta = 0
+MouseButton - None
+x = 385,  y= 364, delta = 0
+MouseButton - None
+x = 384,  y= 364, delta = 0
+MouseButton - None
+x = 384,  y= 364, delta = 0
+MouseButton - None
+x = 383,  y= 364, delta = 0
+MouseButton - None
+x = 381,  y= 364, delta = 0
+MouseButton - None
+x = 374,  y= 357, delta = 0
+MouseButton - None
+x = 369,  y= 350, delta = 0
+MouseButton - None
+x = 366,  y= 342, delta = 0
+MouseButton - None
+x = 362,  y= 329, delta = 0
+MouseButton - None
+x = 364,  y= 315, delta = 0
+MouseButton - None
+x = 371,  y= 303, delta = 0
+MouseButton - None
+x = 374,  y= 297, delta = 0
+MouseButton - None
+x = 377,  y= 291, delta = 0
+MouseButton - None
+x = 382,  y= 283, delta = 0
+MouseButton - None
+x = 384,  y= 279, delta = 0
+MouseButton - None
+x = 386,  y= 276, delta = 0
+MouseButton - None
+x = 390,  y= 272, delta = 0
+MouseButton - None
+x = 397,  y= 264, delta = 0
+MouseButton - None
+x = 397,  y= 264, delta = 0
+MouseButton - None
+x = 398,  y= 263, delta = 0
+MouseButton - None
+x = 399,  y= 261, delta = 0
+MouseButton - None
+x = 402,  y= 257, delta = 0
+MouseButton - None
+x = 405,  y= 251, delta = 0
+MouseButton - None
+x = 407,  y= 248, delta = 0
+MouseButton - None
+x = 410,  y= 246, delta = 0
+MouseButton - None
+x = 411,  y= 244, delta = 0
+MouseButton - None
+x = 412,  y= 242, delta = 0
+MouseButton - None
+x = 413,  y= 241, delta = 0
+MouseButton - None
+x = 414,  y= 239, delta = 0
+MouseButton - None
+x = 416,  y= 237, delta = 0
+MouseButton - None
+x = 422,  y= 227, delta = 0
+MouseButton - None
+x = 440,  y= 202, delta = 0
+MouseButton - None
+x = 514,  y= 120, delta = 0
+MouseButton - None
+x = 529,  y= 108, delta = 0
+MouseButton - None
+x = 550,  y= 92, delta = 0
+MouseButton - None
+x = 568,  y= 82, delta = 0
+MouseButton - None
+x = 568,  y= 82, delta = 0
+MouseButton - None
+x = 571,  y= 72, delta = 0
+MouseButton - None
+x = 609,  y= -3, delta = 0
+MouseButton - None
+x = 626,  y= -26, delta = 0
+MouseButton - None
+x = 659,  y= -59, delta = 0
+MouseButton - None
+x = 681,  y= -33, delta = 0
+MouseButton - None
+x = 691,  y= -14, delta = 0
+MouseButton - None
+x = 695,  y= -5, delta = 0
+MouseButton - None
+x = 696,  y= -1, delta = 0
+MouseButton - None
+x = 696,  y= 0, delta = 0
+MouseButton - Left
+x = 697,  y= -2, delta = 0
+MouseButton - None
+Active Window - file:///C:/Users/alefr/Documents/Alessandra/MSICU/3Semestre/Fundamentos de Seguridad/Lab5 - RemoteManager/Lab5 - RemoteManager/Pruebas/bin/Debug/Pruebas.EXE
+
+x = 552,  y= 214, delta = 0
+MouseButton - None
+x = 539,  y= 219, delta = 0
+MouseButton - None
+x = 517,  y= 225, delta = 0
+MouseButton - None
+x = 482,  y= 231, delta = 0
+MouseButton - None
+x = 459,  y= 235, delta = 0
+MouseButton - None
+x = 442,  y= 237, delta = 0
+MouseButton - None
+x = 437,  y= 238, delta = 0
+MouseButton - None
+x = 433,  y= 238, delta = 0
+MouseButton - None
+x = 424,  y= 238, delta = 0
+MouseButton - None
+x = 413,  y= 238, delta = 0
+MouseButton - None
+x = 401,  y= 238, delta = 0
+MouseButton - None
+x = 386,  y= 239, delta = 0
+MouseButton - None
+x = 370,  y= 240, delta = 0
+MouseButton - None
+x = 365,  y= 240, delta = 0
+MouseButton - None
+x = 362,  y= 240, delta = 0
+MouseButton - None
+x = 362,  y= 239, delta = 0
+MouseButton - None
+x = 362,  y= 236, delta = 0
+MouseButton - None
+x = 362,  y= 236, delta = 0
+MouseButton - None
+x = 362,  y= 235, delta = 0
+MouseButton - None
+x = 363,  y= 234, delta = 0
+MouseButton - None
+x = 363,  y= 233, delta = 0
+MouseButton - None
+x = 364,  y= 233, delta = 0
+MouseButton - None
+x = 364,  y= 232, delta = 0
+MouseButton - None
+x = 364,  y= 232, delta = 0
+MouseButton - Left
+x = 364,  y= 232, delta = 0
+MouseButton - None
+x = 364,  y= 232, delta = 0
+MouseButton - None
+x = 365,  y= 231, delta = 0
+MouseButton - None
+x = 365,  y= 230, delta = 0
+MouseButton - None
+x = 366,  y= 230, delta = 0
+MouseButton - None
+x = 368,  y= 230, delta = 0
+MouseButton - None
+x = 370,  y= 230, delta = 0
+MouseButton - None
+x = 373,  y= 229, delta = 0
+MouseButton - None
+Active Window - file:///C:/Users/alefr/Documents/Alessandra/MSICU/3Semestre/Fundamentos de Seguridad/Lab5 - RemoteManager/Lab5 - RemoteManager/Pruebas/bin/Debug/Pruebas.EXE
+
+x = 587,  y= 131, delta = 0
+MouseButton - None
+x = 557,  y= 122, delta = 0
+MouseButton - None
+x = 505,  y= 114, delta = 0
+MouseButton - None
+x = 456,  y= 114, delta = 0
+MouseButton - None
+x = 437,  y= 114, delta = 0
+MouseButton - None
+x = 394,  y= 116, delta = 0
+MouseButton - None
+x = 366,  y= 124, delta = 0
+MouseButton - None
+x = 348,  y= 129, delta = 0
+MouseButton - None
+x = 330,  y= 138, delta = 0
+MouseButton - None
+x = 323,  y= 144, delta = 0
+MouseButton - None
+x = 318,  y= 148, delta = 0
+MouseButton - None
+x = 316,  y= 150, delta = 0
+MouseButton - None
+x = 315,  y= 155, delta = 0
+MouseButton - None
+x = 314,  y= 162, delta = 0
+MouseButton - None
+x = 315,  y= 174, delta = 0
+MouseButton - None
+x = 317,  y= 182, delta = 0
+MouseButton - None
+x = 332,  y= 205, delta = 0
+MouseButton - None
+x = 363,  y= 240, delta = 0
+MouseButton - None
+x = 404,  y= 269, delta = 0
+MouseButton - None
+x = 417,  y= 277, delta = 0
+MouseButton - None
+x = 439,  y= 289, delta = 0
+MouseButton - None
+x = 461,  y= 298, delta = 0
+MouseButton - None
+x = 480,  y= 303, delta = 0
+MouseButton - None
+x = 487,  y= 303, delta = 0
+MouseButton - None
+x = 491,  y= 301, delta = 0
+MouseButton - None
+x = 492,  y= 295, delta = 0
+MouseButton - None
+x = 493,  y= 282, delta = 0
+MouseButton - None
+x = 492,  y= 255, delta = 0
+MouseButton - None
+x = 484,  y= 235, delta = 0
+MouseButton - None
+x = 480,  y= 225, delta = 0
+MouseButton - None
+x = 470,  y= 208, delta = 0
+MouseButton - None
+x = 459,  y= 193, delta = 0
+MouseButton - None
+x = 435,  y= 179, delta = 0
+MouseButton - None
+x = 396,  y= 160, delta = 0
+MouseButton - None
+x = 374,  y= 154, delta = 0
+MouseButton - None
+x = 361,  y= 151, delta = 0
+MouseButton - None
+x = 348,  y= 151, delta = 0
+MouseButton - None
+x = 342,  y= 151, delta = 0
+MouseButton - None
+x = 337,  y= 151, delta = 0
+MouseButton - None
+x = 334,  y= 151, delta = 0
+MouseButton - None
+x = 331,  y= 153, delta = 0
+MouseButton - None
+x = 329,  y= 154, delta = 0
+MouseButton - None
+x = 326,  y= 155, delta = 0
+MouseButton - None
+x = 322,  y= 158, delta = 0
+MouseButton - None
+x = 317,  y= 161, delta = 0
+MouseButton - None
+x = 309,  y= 165, delta = 0
+MouseButton - None
+x = 300,  y= 169, delta = 0
+MouseButton - None
+x = 292,  y= 172, delta = 0
+MouseButton - None
+x = 288,  y= 174, delta = 0
+MouseButton - None
+x = 287,  y= 174, delta = 0
+MouseButton - None
+x = 285,  y= 174, delta = 0
+MouseButton - None
+x = 284,  y= 174, delta = 0
+MouseButton - None
+x = 283,  y= 174, delta = 0
+MouseButton - None
+x = 282,  y= 174, delta = 0
+MouseButton - None
+x = 281,  y= 175, delta = 0
+MouseButton - None
+x = 280,  y= 175, delta = 0
+MouseButton - None
+x = 280,  y= 175, delta = 0
+MouseButton - None
+x = 280,  y= 175, delta = 0
+MouseButton - None
+x = 280,  y= 176, delta = 0
+MouseButton - None
+x = 280,  y= 177, delta = 0
+MouseButton - None
+x = 280,  y= 178, delta = 0
+MouseButton - None
+x = 283,  y= 181, delta = 0
+MouseButton - None
+x = 287,  y= 184, delta = 0
+MouseButton - None
+x = 319,  y= 193, delta = 0
+MouseButton - None
+x = 336,  y= 196, delta = 0
+MouseButton - None
+x = 379,  y= 201, delta = 0
+MouseButton - None
+x = 420,  y= 211, delta = 0
+MouseButton - None
+x = 448,  y= 216, delta = 0
+MouseButton - None
+x = 469,  y= 220, delta = 0
+MouseButton - None
+x = 488,  y= 220, delta = 0
+MouseButton - None
+x = 504,  y= 219, delta = 0
+MouseButton - None
+x = 526,  y= 215, delta = 0
+MouseButton - None
+x = 543,  y= 210, delta = 0
+MouseButton - None
+x = 551,  y= 206, delta = 0
+MouseButton - None
+x = 563,  y= 200, delta = 0
+MouseButton - None
+x = 569,  y= 194, delta = 0
+MouseButton - None
+x = 573,  y= 185, delta = 0
+MouseButton - None
+x = 574,  y= 180, delta = 0
+MouseButton - None
+x = 575,  y= 168, delta = 0
+MouseButton - None
+x = 573,  y= 155, delta = 0
+MouseButton - None
+x = 552,  y= 137, delta = 0
+MouseButton - None
+x = 482,  y= 106, delta = 0
+MouseButton - None
+x = 423,  y= 101, delta = 0
+MouseButton - None
+x = 390,  y= 105, delta = 0
+MouseButton - None
+x = 379,  y= 108, delta = 0
+MouseButton - None
+x = 362,  y= 117, delta = 0
+MouseButton - None
+x = 349,  y= 124, delta = 0
+MouseButton - None
+x = 344,  y= 126, delta = 0
+MouseButton - None
+x = 337,  y= 128, delta = 0
+MouseButton - None
+x = 332,  y= 129, delta = 0
+MouseButton - None
+x = 331,  y= 130, delta = 0
+MouseButton - None
+x = 330,  y= 130, delta = 0
+MouseButton - None
+x = 329,  y= 130, delta = 0
+MouseButton - None
+x = 328,  y= 131, delta = 0
+MouseButton - None
+x = 326,  y= 132, delta = 0
+MouseButton - None
+x = 325,  y= 135, delta = 0
+MouseButton - None
+x = 323,  y= 137, delta = 0
+MouseButton - None
+x = 321,  y= 139, delta = 0
+MouseButton - None
+x = 318,  y= 143, delta = 0
+MouseButton - None
+x = 315,  y= 149, delta = 0
+MouseButton - None
+x = 309,  y= 157, delta = 0
+MouseButton - None
+x = 308,  y= 163, delta = 0
+MouseButton - None
+x = 304,  y= 170, delta = 0
+MouseButton - None
+x = 302,  y= 174, delta = 0
+MouseButton - None
+x = 302,  y= 176, delta = 0
+MouseButton - None
+x = 301,  y= 179, delta = 0
+MouseButton - None
+x = 301,  y= 180, delta = 0
+MouseButton - None
+x = 301,  y= 180, delta = 0
+MouseButton - Left
+x = 301,  y= 180, delta = 0
+MouseButton - None
+x = 301,  y= 180, delta = 0
+MouseButton - None
+x = 301,  y= 180, delta = 0
+MouseButton - None
+x = 300,  y= 179, delta = 0
+MouseButton - None
+x = 300,  y= 179, delta = 0
+MouseButton - None
+x = 300,  y= 177, delta = 0
+MouseButton - None
+Active Window - file:///C:/Users/alefr/Documents/Alessandra/MSICU/3Semestre/Fundamentos de Seguridad/Lab5 - RemoteManager/Lab5 - RemoteManager/Pruebas/bin/Debug/Pruebas.EXE
+
+x = 505,  y= 176, delta = 0
+MouseButton - None
+x = 498,  y= 178, delta = 0
+MouseButton - None
+x = 495,  y= 179, delta = 0
+MouseButton - None
+x = 494,  y= 179, delta = 0
+MouseButton - None
+x = 493,  y= 179, delta = 0
+MouseButton - None
+x = 488,  y= 180, delta = 0
+MouseButton - None
+x = 473,  y= 182, delta = 0
+MouseButton - None
+x = 450,  y= 186, delta = 0
+MouseButton - None
+x = 409,  y= 187, delta = 0
+MouseButton - None
+x = 352,  y= 187, delta = 0
+MouseButton - None
+x = 297,  y= 187, delta = 0
+MouseButton - None
+x = 257,  y= 184, delta = 0
+MouseButton - None
+x = 228,  y= 184, delta = 0
+MouseButton - None
+x = 209,  y= 178, delta = 0
+MouseButton - None
+x = 201,  y= 173, delta = 0
+MouseButton - None
+x = 198,  y= 169, delta = 0
+MouseButton - None
+x = 197,  y= 166, delta = 0
+MouseButton - None
+x = 195,  y= 156, delta = 0
+MouseButton - None
+x = 194,  y= 146, delta = 0
+MouseButton - None
+x = 189,  y= 137, delta = 0
+MouseButton - None
+x = 185,  y= 130, delta = 0
+MouseButton - None
+x = 180,  y= 125, delta = 0
+MouseButton - None
+x = 172,  y= 122, delta = 0
+MouseButton - None
+x = 156,  y= 117, delta = 0
+MouseButton - None
+x = 150,  y= 115, delta = 0
+MouseButton - None
+x = 149,  y= 114, delta = 0
+MouseButton - None
+x = 149,  y= 113, delta = 0
+MouseButton - None
+x = 150,  y= 112, delta = 0
+MouseButton - None
+x = 156,  y= 110, delta = 0
+MouseButton - None
+x = 157,  y= 109, delta = 0
+MouseButton - None
+x = 159,  y= 108, delta = 0
+MouseButton - None
+x = 161,  y= 107, delta = 0
+MouseButton - None
+x = 163,  y= 106, delta = 0
+MouseButton - None
+x = 163,  y= 106, delta = 0
+MouseButton - Left
+x = 163,  y= 106, delta = 0
+MouseButton - None
+x = 163,  y= 106, delta = 0
+MouseButton - None
+x = 166,  y= 107, delta = 0
+MouseButton - None
+KeyDown - A
+x = 166,  y= 107, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}16610765
+KeyPress 	- a
+KeyUp - A
+KeyDown - L
+x = 166,  y= 107, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}16610776
+KeyPress 	- l
+KeyUp - L
+KeyDown - E
+x = 166,  y= 107, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}16610769
+KeyPress 	- e
+KeyUp - E
+KeyDown - F
+x={0}, y={1}, Key = {2}16610770
+KeyPress 	- f
+x = 166,  y= 107, delta = 0
+MouseButton - None
+KeyUp - F
+KeyDown - R
+x = 166,  y= 107, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}16610782
+KeyPress 	- r
+KeyUp - R
+KeyDown - A
+x={0}, y={1}, Key = {2}16610765
+KeyPress 	- a
+x = 166,  y= 107, delta = 0
+MouseButton - None
+KeyDown - I
+x = 166,  y= 107, delta = 0
+MouseButton - None
+x = 166,  y= 107, delta = 0
+MouseButton - Left
+Clic izquierdo
+x={0}, y={1}, Key = {2}16610773
+KeyPress 	- i
+KeyUp - A
+KeyUp - I
+KeyDown - RShiftKey
+x = 166,  y= 107, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}166107161
+KeyDown - OemMinus
+x = 166,  y= 107, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}166107189
+KeyPress 	- _
+KeyUp - OemMinus
+KeyUp - RShiftKey
+KeyDown - D1
+x = 166,  y= 107, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}16610749
+KeyPress 	- 1
+KeyUp - D1
+KeyDown - D5
+x = 166,  y= 107, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}16610753
+KeyPress 	- 5
+KeyDown - LControlKey
+x = 166,  y= 107, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}166107162
+KeyDown - RMenu
+x = 166,  y= 107, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}166107165
+KeyUp - D5
+KeyDown - Q
+x = 166,  y= 107, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}16610781
+KeyUp - Q
+KeyUp - LControlKey
+KeyUp - RMenu
+KeyDown - H
+x = 166,  y= 107, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}16610772
+KeyPress 	- h
+KeyDown - O
+x={0}, y={1}, Key = {2}16610779
+KeyPress 	- o
+x = 166,  y= 107, delta = 0
+MouseButton - None
+KeyUp - H
+KeyUp - O
+KeyDown - R
+x = 166,  y= 107, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}16610782
+KeyPress 	- r
+KeyDown - M
+x = 166,  y= 107, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}16610777
+KeyPress 	- m
+KeyUp - R
+Active Window - file:///C:/Users/alefr/Documents/Alessandra/MSICU/3Semestre/Fundamentos de Seguridad/Lab5 - RemoteManager/Lab5 - RemoteManager/Pruebas/bin/Debug/Pruebas.EXE
+
+x = 254,  y= 183, delta = 0
+MouseButton - None
+x = 253,  y= 182, delta = 0
+MouseButton - None
+x = 252,  y= 180, delta = 0
+MouseButton - None
+x = 249,  y= 176, delta = 0
+MouseButton - None
+x = 243,  y= 169, delta = 0
+MouseButton - None
+x = 231,  y= 158, delta = 0
+MouseButton - None
+x = 218,  y= 150, delta = 0
+MouseButton - None
+x = 209,  y= 146, delta = 0
+MouseButton - None
+x = 199,  y= 140, delta = 0
+MouseButton - None
+x = 195,  y= 135, delta = 0
+MouseButton - None
+x = 191,  y= 134, delta = 0
+MouseButton - None
+x = 189,  y= 131, delta = 0
+MouseButton - None
+x = 186,  y= 127, delta = 0
+MouseButton - None
+x = 184,  y= 122, delta = 0
+MouseButton - None
+x = 182,  y= 117, delta = 0
+MouseButton - None
+x = 182,  y= 115, delta = 0
+MouseButton - None
+x = 181,  y= 113, delta = 0
+MouseButton - None
+x = 181,  y= 113, delta = 0
+MouseButton - None
+x = 182,  y= 116, delta = 0
+MouseButton - None
+x = 184,  y= 123, delta = 0
+MouseButton - None
+x = 188,  y= 128, delta = 0
+MouseButton - None
+x = 189,  y= 131, delta = 0
+MouseButton - None
+x = 189,  y= 132, delta = 0
+MouseButton - None
+x = 191,  y= 133, delta = 0
+MouseButton - None
+x = 191,  y= 133, delta = 0
+MouseButton - None
+x = 191,  y= 133, delta = 0
+MouseButton - Left
+x = 191,  y= 133, delta = 0
+MouseButton - None
+x = 192,  y= 133, delta = 0
+MouseButton - None
+x = 192,  y= 133, delta = 0
+MouseButton - None
+KeyDown - A
+x = 192,  y= 133, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}19213365
+KeyPress 	- a
+KeyUp - A
+KeyDown - L
+x = 192,  y= 133, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}19213376
+KeyPress 	- l
+KeyDown - E
+x = 192,  y= 133, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}19213369
+KeyPress 	- e
+KeyUp - L
+KeyUp - E
+KeyDown - F
+x={0}, y={1}, Key = {2}19213370
+KeyPress 	- f
+x = 192,  y= 133, delta = 0
+MouseButton - None
+KeyUp - F
+KeyDown - R
+x={0}, y={1}, Key = {2}19213382
+KeyPress 	- r
+x = 192,  y= 133, delta = 0
+MouseButton - None
+KeyUp - R
+KeyDown - A
+x={0}, y={1}, Key = {2}19213365
+KeyPress 	- a
+x = 192,  y= 133, delta = 0
+MouseButton - None
+KeyDown - I
+x = 192,  y= 133, delta = 0
+MouseButton - None
+x = 192,  y= 133, delta = 0
+MouseButton - Left
+Clic izquierdo
+x={0}, y={1}, Key = {2}19213373
+KeyPress 	- i
+KeyUp - A
+KeyUp - I
+KeyDown - RShiftKey
+x={0}, y={1}, Key = {2}192133161
+x = 192,  y= 133, delta = 0
+MouseButton - None
+KeyDown - OemMinus
+x = 192,  y= 133, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}192133189
+KeyPress 	- _
+KeyUp - RShiftKey
+KeyUp - OemMinus
+KeyDown - D1
+x = 192,  y= 133, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}19213349
+KeyPress 	- 1
+KeyUp - D1
+KeyDown - D5
+x = 192,  y= 133, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}19213353
+KeyPress 	- 5
+KeyUp - D5
+KeyDown - LControlKey
+x = 192,  y= 133, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}192133162
+KeyDown - RMenu
+x = 192,  y= 133, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}192133165
+KeyDown - Q
+x={0}, y={1}, Key = {2}19213381
+x = 192,  y= 133, delta = 0
+MouseButton - None
+KeyUp - Q
+KeyUp - LControlKey
+KeyUp - RMenu
+KeyDown - H
+x = 192,  y= 133, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}19213372
+KeyPress 	- h
+KeyDown - O
+x={0}, y={1}, Key = {2}19213379
+KeyPress 	- o
+x = 192,  y= 133, delta = 0
+MouseButton - None
+KeyUp - H
+KeyUp - O
+KeyDown - T
+x = 192,  y= 133, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}19213384
+KeyPress 	- t
+KeyUp - T
+KeyDown - M
+x = 192,  y= 133, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}19213377
+KeyPress 	- m
+x = 817,  y= 531, delta = 0
+MouseButton - None
+x = 845,  y= 522, delta = 0
+MouseButton - None
+x = 859,  y= 522, delta = 0
+MouseButton - None
+x = 871,  y= 524, delta = 0
+MouseButton - None
+Active Window - Archivo: Bloc de notas
+
+x = 907,  y= 535, delta = 0
+MouseButton - None
+x = 938,  y= 543, delta = 0
+MouseButton - None
+x = 940,  y= 543, delta = 0
+MouseButton - None
+x = 941,  y= 544, delta = 0
+MouseButton - None
+x = 944,  y= 548, delta = 0
+MouseButton - None
+x = 945,  y= 552, delta = 0
+MouseButton - None
+x = 947,  y= 559, delta = 0
+MouseButton - None
+x = 948,  y= 568, delta = 0
+MouseButton - None
+x = 949,  y= 577, delta = 0
+MouseButton - None
+x = 949,  y= 585, delta = 0
+MouseButton - None
+x = 949,  y= 585, delta = 0
+MouseButton - None
+x = 947,  y= 586, delta = 0
+MouseButton - None
+x = 939,  y= 594, delta = 0
+MouseButton - None
+x = 932,  y= 599, delta = 0
+MouseButton - None
+x = 929,  y= 601, delta = 0
+MouseButton - None
+x = 928,  y= 601, delta = 0
+MouseButton - None
+x = 927,  y= 602, delta = 0
+MouseButton - None
+x = 926,  y= 603, delta = 0
+MouseButton - None
+x = 924,  y= 604, delta = 0
+MouseButton - None
+x = 922,  y= 604, delta = 0
+MouseButton - None
+x = 920,  y= 605, delta = 0
+MouseButton - None
+x = 919,  y= 606, delta = 0
+MouseButton - None
+x = 919,  y= 606, delta = 0
+MouseButton - None
+x = 917,  y= 608, delta = 0
+MouseButton - None
+x = 916,  y= 608, delta = 0
+MouseButton - None
+x = 916,  y= 608, delta = 0
+MouseButton - Left
+x = 916,  y= 608, delta = 0
+MouseButton - None
+x = 916,  y= 609, delta = 0
+MouseButton - None
+x = 916,  y= 609, delta = 0
+MouseButton - None
+x = 916,  y= 609, delta = 0
+MouseButton - None
+x = 916,  y= 608, delta = 0
+MouseButton - None
+x = 917,  y= 608, delta = 0
+MouseButton - None
+x = 919,  y= 608, delta = 0
+MouseButton - None
+x = 920,  y= 608, delta = 0
+MouseButton - None
+x = 922,  y= 607, delta = 0
+MouseButton - None
+KeyDown - Return
+x = 922,  y= 607, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}92260713
+KeyPress 	- 
+KeyUp - Return
+KeyDown - A
+x = 922,  y= 607, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}92260765
+KeyPress 	- a
+KeyDown - L
+x={0}, y={1}, Key = {2}92260776
+KeyPress 	- l
+x = 922,  y= 607, delta = 0
+MouseButton - None
+KeyUp - A
+KeyUp - L
+KeyDown - E
+x={0}, y={1}, Key = {2}92260769
+KeyPress 	- e
+x = 922,  y= 607, delta = 0
+MouseButton - None
+KeyUp - E
+KeyDown - F
+x = 922,  y= 607, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}92260770
+KeyPress 	- f
+KeyUp - F
+KeyDown - R
+x={0}, y={1}, Key = {2}92260782
+KeyPress 	- r
+x = 922,  y= 607, delta = 0
+MouseButton - None
+KeyUp - R
+KeyDown - A
+x={0}, y={1}, Key = {2}92260765
+KeyPress 	- a
+x = 922,  y= 607, delta = 0
+MouseButton - None
+KeyDown - I
+x = 922,  y= 607, delta = 0
+MouseButton - None
+x = 922,  y= 607, delta = 0
+MouseButton - Left
+Clic izquierdo
+x={0}, y={1}, Key = {2}92260773
+KeyPress 	- i
+KeyUp - A
+KeyUp - I
+KeyDown - RShiftKey
+x={0}, y={1}, Key = {2}922607161
+x = 922,  y= 607, delta = 0
+MouseButton - None
+KeyDown - OemPeriod
+x={0}, y={1}, Key = {2}922607190
+KeyPress 	- :
+x = 922,  y= 607, delta = 0
+MouseButton - None
+KeyUp - OemPeriod
+KeyUp - RShiftKey
+KeyDown - Back
+x = 922,  y= 607, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}9226078
+KeyPress 	- 
+KeyUp - Back
+x = 922,  y= 607, delta = 0
+MouseButton - None
+x = 919,  y= 607, delta = 0
+MouseButton - None
+x = 916,  y= 607, delta = 0
+MouseButton - None
+x = 911,  y= 607, delta = 0
+MouseButton - None
+x = 908,  y= 607, delta = 0
+MouseButton - None
+x = 906,  y= 607, delta = 0
+MouseButton - None
+x = 904,  y= 607, delta = 0
+MouseButton - None
+x = 902,  y= 607, delta = 0
+MouseButton - None
+x = 901,  y= 607, delta = 0
+MouseButton - None
+x = 899,  y= 607, delta = 0
+MouseButton - None
+x = 897,  y= 607, delta = 0
+MouseButton - None
+x = 895,  y= 607, delta = 0
+MouseButton - None
+x = 894,  y= 607, delta = 0
+MouseButton - None
+x = 890,  y= 607, delta = 0
+MouseButton - None
+x = 887,  y= 607, delta = 0
+MouseButton - None
+x = 881,  y= 609, delta = 0
+MouseButton - None
+x = 879,  y= 610, delta = 0
+MouseButton - None
+x = 876,  y= 612, delta = 0
+MouseButton - None
+x = 873,  y= 613, delta = 0
+MouseButton - None
+x = 872,  y= 614, delta = 0
+MouseButton - None
+x = 869,  y= 616, delta = 0
+MouseButton - None
+x = 867,  y= 617, delta = 0
+MouseButton - None
+x = 865,  y= 619, delta = 0
+MouseButton - None
+x = 864,  y= 620, delta = 0
+MouseButton - None
+x = 863,  y= 621, delta = 0
+MouseButton - None
+x = 862,  y= 622, delta = 0
+MouseButton - None
+x = 860,  y= 623, delta = 0
+MouseButton - None
+x = 859,  y= 626, delta = 0
+MouseButton - None
+x = 858,  y= 628, delta = 0
+MouseButton - None
+x = 857,  y= 630, delta = 0
+MouseButton - None
+x = 856,  y= 631, delta = 0
+MouseButton - None
+x = 856,  y= 633, delta = 0
+MouseButton - None
+x = 856,  y= 634, delta = 0
+MouseButton - None
+x = 855,  y= 635, delta = 0
+MouseButton - None
+x = 855,  y= 635, delta = 0
+MouseButton - Left
+x = 855,  y= 636, delta = 0
+MouseButton - None
+x = 855,  y= 636, delta = 0
+MouseButton - None
+x = 855,  y= 636, delta = 0
+MouseButton - None
+x = 855,  y= 636, delta = 0
+MouseButton - None
+KeyDown - I
+x = 855,  y= 636, delta = 0
+MouseButton - None
+KeyUp - I
+x = 855,  y= 636, delta = 0
+MouseButton - Left
+KeyDown - RShiftKey
+x = 376,  y= 151, delta = 0
+MouseButton - None
+Active Window - file:///C:/Users/alefr/Documents/Alessandra/MSICU/3Semestre/Fundamentos de Seguridad/Lab5 - RemoteManager/Lab5 - RemoteManager/Pruebas/bin/Debug/Pruebas.EXE
+
+x = 375,  y= 152, delta = 0
+MouseButton - None
+x = 370,  y= 155, delta = 0
+MouseButton - None
+x = 364,  y= 167, delta = 0
+MouseButton - None
+x = 356,  y= 222, delta = 0
+MouseButton - None
+x = 356,  y= 235, delta = 0
+MouseButton - None
+x = 360,  y= 252, delta = 0
+MouseButton - None
+x = 366,  y= 260, delta = 0
+MouseButton - None
+x = 378,  y= 270, delta = 0
+MouseButton - None
+x = 393,  y= 279, delta = 0
+MouseButton - None
+x = 397,  y= 280, delta = 0
+MouseButton - None
+x = 397,  y= 279, delta = 0
+MouseButton - None
+x = 392,  y= 272, delta = 0
+MouseButton - None
+x = 377,  y= 257, delta = 0
+MouseButton - None
+x = 373,  y= 255, delta = 0
+MouseButton - None
+x = 370,  y= 252, delta = 0
+MouseButton - None
+x = 367,  y= 251, delta = 0
+MouseButton - None
+x = 365,  y= 250, delta = 0
+MouseButton - None
+x = 362,  y= 249, delta = 0
+MouseButton - None
+x = 360,  y= 247, delta = 0
+MouseButton - None
+x = 359,  y= 247, delta = 0
+MouseButton - None
+x = 358,  y= 246, delta = 0
+MouseButton - None
+x = 357,  y= 246, delta = 0
+MouseButton - None
+x = 356,  y= 245, delta = 0
+MouseButton - None
+x = 355,  y= 244, delta = 0
+MouseButton - None
+x = 354,  y= 243, delta = 0
+MouseButton - None
+x = 354,  y= 242, delta = 0
+MouseButton - None
+x = 352,  y= 242, delta = 0
+MouseButton - None
+x = 352,  y= 241, delta = 0
+MouseButton - None
+x = 352,  y= 241, delta = 0
+MouseButton - Left
+x = 352,  y= 241, delta = 0
+MouseButton - None
+KeyDown - LControlKey
+x = 734,  y= 238, delta = 0
+MouseButton - None
+x = 562,  y= 227, delta = 0
+MouseButton - None
+x = 502,  y= 203, delta = 0
+MouseButton - None
+Active Window - file:///C:/Users/alefr/Documents/Alessandra/MSICU/3Semestre/Fundamentos de Seguridad/Lab5 - RemoteManager/Lab5 - RemoteManager/Pruebas/bin/Debug/Pruebas.EXE
+
+x = 499,  y= 203, delta = 0
+MouseButton - None
+x = 453,  y= 203, delta = 0
+MouseButton - None
+x = 384,  y= 191, delta = 0
+MouseButton - None
+x = 313,  y= 176, delta = 0
+MouseButton - None
+x = 259,  y= 157, delta = 0
+MouseButton - None
+x = 234,  y= 149, delta = 0
+MouseButton - None
+x = 213,  y= 139, delta = 0
+MouseButton - None
+x = 204,  y= 135, delta = 0
+MouseButton - None
+x = 202,  y= 135, delta = 0
+MouseButton - None
+x = 202,  y= 136, delta = 0
+MouseButton - None
+x = 202,  y= 138, delta = 0
+MouseButton - None
+x = 204,  y= 143, delta = 0
+MouseButton - None
+x = 207,  y= 150, delta = 0
+MouseButton - None
+x = 210,  y= 155, delta = 0
+MouseButton - None
+x = 213,  y= 159, delta = 0
+MouseButton - None
+x = 216,  y= 162, delta = 0
+MouseButton - None
+x = 221,  y= 168, delta = 0
+MouseButton - None
+x = 223,  y= 170, delta = 0
+MouseButton - None
+x = 226,  y= 175, delta = 0
+MouseButton - None
+x = 227,  y= 175, delta = 0
+MouseButton - None
+x = 228,  y= 176, delta = 0
+MouseButton - None
+x = 229,  y= 177, delta = 0
+MouseButton - None
+x = 230,  y= 179, delta = 0
+MouseButton - None
+x = 231,  y= 179, delta = 0
+MouseButton - None
+x = 231,  y= 180, delta = 0
+MouseButton - None
+x = 231,  y= 180, delta = 0
+MouseButton - None
+x = 234,  y= 182, delta = 0
+MouseButton - None
+x = 235,  y= 183, delta = 0
+MouseButton - None
+x = 236,  y= 183, delta = 0
+MouseButton - None
+x = 237,  y= 184, delta = 0
+MouseButton - None
+x = 239,  y= 185, delta = 0
+MouseButton - None
+x = 241,  y= 186, delta = 0
+MouseButton - None
+x = 241,  y= 186, delta = 0
+MouseButton - Left
+x = 241,  y= 186, delta = 0
+MouseButton - None
+KeyDown - LControlKey
+x = 241,  y= 186, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}241186162
+KeyDown - V
+x = 241,  y= 186, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}24118686
+KeyPress 	- 
+KeyUp - V
+KeyUp - LControlKey
+x = 241,  y= 186, delta = 0
+MouseButton - None
+x = 242,  y= 186, delta = 0
+MouseButton - None
+x = 242,  y= 187, delta = 0
+MouseButton - None
+x = 242,  y= 187, delta = 0
+MouseButton - None
+x = 243,  y= 187, delta = 0
+MouseButton - None
+x = 243,  y= 187, delta = 0
+MouseButton - None
+x = 243,  y= 187, delta = 0
+MouseButton - None
+x = 243,  y= 187, delta = 0
+MouseButton - Left
+x = 244,  y= 187, delta = 0
+MouseButton - None
+x = 244,  y= 187, delta = 0
+MouseButton - None
+KeyDown - A
+x={0}, y={1}, Key = {2}24418765
+KeyPress 	- a
+x = 244,  y= 187, delta = 0
+MouseButton - None
+KeyUp - A
+KeyDown - L
+x={0}, y={1}, Key = {2}24418776
+KeyPress 	- l
+x = 244,  y= 187, delta = 0
+MouseButton - None
+KeyUp - L
+KeyDown - E
+x = 244,  y= 187, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}24418769
+KeyPress 	- e
+KeyUp - E
+KeyDown - F
+x={0}, y={1}, Key = {2}24418770
+KeyPress 	- f
+x = 244,  y= 187, delta = 0
+MouseButton - None
+KeyUp - F
+KeyDown - R
+x = 244,  y= 187, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}24418782
+KeyPress 	- r
+KeyUp - R
+KeyDown - A
+x = 244,  y= 187, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}24418765
+KeyPress 	- a
+KeyUp - A
+KeyDown - I
+x = 244,  y= 187, delta = 0
+MouseButton - None
+x = 244,  y= 187, delta = 0
+MouseButton - Left
+Clic izquierdo
+x={0}, y={1}, Key = {2}24418773
+KeyPress 	- i
+KeyUp - I
+x = 244,  y= 187, delta = 0
+MouseButton - None
+x = 244,  y= 187, delta = 0
+MouseButton - None
+x = 243,  y= 187, delta = 0
+MouseButton - None
+x = 242,  y= 188, delta = 0
+MouseButton - None
+x = 235,  y= 190, delta = 0
+MouseButton - None
+x = 228,  y= 194, delta = 0
+MouseButton - None
+x = 225,  y= 195, delta = 0
+MouseButton - None
+x = 220,  y= 197, delta = 0
+MouseButton - None
+x = 218,  y= 197, delta = 0
+MouseButton - None
+x = 219,  y= 194, delta = 0
+MouseButton - None
+x = 221,  y= 192, delta = 0
+MouseButton - None
+x = 222,  y= 191, delta = 0
+MouseButton - None
+x = 223,  y= 190, delta = 0
+MouseButton - None
+x = 223,  y= 190, delta = 0
+MouseButton - None
+x = 225,  y= 189, delta = 0
+MouseButton - None
+KeyDown - I
+x = 225,  y= 189, delta = 0
+MouseButton - None
+KeyUp - I
+x = 225,  y= 189, delta = 0
+MouseButton - Left
+Clic izquierdo
+x={0}, y={1}, Key = {2}22518973
+KeyPress 	- i
+KeyDown - I
+x = 225,  y= 189, delta = 0
+MouseButton - None
+x = 225,  y= 189, delta = 0
+MouseButton - Left
+Clic izquierdo
+x={0}, y={1}, Key = {2}22518973
+KeyPress 	- i
+KeyUp - I
+x = 225,  y= 189, delta = 0
+MouseButton - None
+x = 224,  y= 189, delta = 0
+MouseButton - None
+x = 222,  y= 189, delta = 0
+MouseButton - None
+x = 219,  y= 189, delta = 0
+MouseButton - None
+x = 215,  y= 189, delta = 0
+MouseButton - None
+x = 213,  y= 189, delta = 0
+MouseButton - None
+x = 209,  y= 190, delta = 0
+MouseButton - None
+x = 204,  y= 190, delta = 0
+MouseButton - None
+x = 201,  y= 190, delta = 0
+MouseButton - None
+x = 198,  y= 191, delta = 0
+MouseButton - None
+x = 196,  y= 191, delta = 0
+MouseButton - None
+x = 195,  y= 191, delta = 0
+MouseButton - None
+x = 195,  y= 191, delta = 0
+MouseButton - None
+x = 194,  y= 191, delta = 0
+MouseButton - None
+x = 193,  y= 191, delta = 0
+MouseButton - None
+x = 193,  y= 191, delta = 0
+MouseButton - Left
+x = 193,  y= 191, delta = 0
+MouseButton - None
+x = 154,  y= 191, delta = 0
+MouseButton - None
+x = 138,  y= 190, delta = 0
+MouseButton - None
+x = 135,  y= 190, delta = 0
+MouseButton - None
+x = 130,  y= 190, delta = 0
+MouseButton - None
+x = 128,  y= 190, delta = 0
+MouseButton - None
+x = 126,  y= 190, delta = 0
+MouseButton - None
+x = 125,  y= 190, delta = 0
+MouseButton - None
+x = 123,  y= 190, delta = 0
+MouseButton - None
+x = 123,  y= 190, delta = 0
+MouseButton - None
+x = 122,  y= 189, delta = 0
+MouseButton - None
+x = 122,  y= 189, delta = 0
+MouseButton - None
+KeyDown - Back
+x = 122,  y= 189, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}1221898
+KeyPress 	- 
+KeyUp - Back
+x = 122,  y= 189, delta = 0
+MouseButton - None
+x = 122,  y= 190, delta = 0
+MouseButton - None
+x = 124,  y= 190, delta = 0
+MouseButton - None
+x = 125,  y= 190, delta = 0
+MouseButton - None
+x = 126,  y= 191, delta = 0
+MouseButton - None
+x = 128,  y= 191, delta = 0
+MouseButton - None
+x = 130,  y= 192, delta = 0
+MouseButton - None
+x = 132,  y= 192, delta = 0
+MouseButton - None
+x = 134,  y= 192, delta = 0
+MouseButton - None
+x = 134,  y= 192, delta = 0
+MouseButton - None
+x = 137,  y= 192, delta = 0
+MouseButton - None
+x = 138,  y= 192, delta = 0
+MouseButton - None
+x = 140,  y= 192, delta = 0
+MouseButton - None
+x = 142,  y= 192, delta = 0
+MouseButton - None
+x = 144,  y= 192, delta = 0
+MouseButton - None
+x = 146,  y= 192, delta = 0
+MouseButton - None
+x = 149,  y= 192, delta = 0
+MouseButton - None
+x = 150,  y= 192, delta = 0
+MouseButton - None
+x = 152,  y= 192, delta = 0
+MouseButton - None
+x = 153,  y= 192, delta = 0
+MouseButton - None
+x = 155,  y= 192, delta = 0
+MouseButton - None
+x = 156,  y= 193, delta = 0
+MouseButton - None
+x = 157,  y= 193, delta = 0
+MouseButton - None
+x = 158,  y= 193, delta = 0
+MouseButton - None
+x = 160,  y= 193, delta = 0
+MouseButton - None
+x = 161,  y= 193, delta = 0
+MouseButton - None
+x = 164,  y= 193, delta = 0
+MouseButton - None
+x = 166,  y= 193, delta = 0
+MouseButton - None
+x = 167,  y= 193, delta = 0
+MouseButton - None
+x = 169,  y= 193, delta = 0
+MouseButton - None
+x = 170,  y= 193, delta = 0
+MouseButton - None
+x = 171,  y= 193, delta = 0
+MouseButton - None
+x = 173,  y= 193, delta = 0
+MouseButton - None
+x = 173,  y= 193, delta = 0
+MouseButton - None
+x = 174,  y= 193, delta = 0
+MouseButton - None
+x = 175,  y= 193, delta = 0
+MouseButton - None
+x = 175,  y= 193, delta = 0
+MouseButton - None
+x = 177,  y= 193, delta = 0
+MouseButton - None
+x = 177,  y= 193, delta = 0
+MouseButton - None
+x = 178,  y= 193, delta = 0
+MouseButton - None
+x = 178,  y= 193, delta = 0
+MouseButton - Left
+x = 178,  y= 193, delta = 0
+MouseButton - None
+KeyDown - A
+KeyDown - L
+Active Window - file:///C:/Users/alefr/Documents/Alessandra/MSICU/3Semestre/Fundamentos de Seguridad/Lab5 - RemoteManager/Lab5 - RemoteManager/Pruebas/bin/Debug/Pruebas.EXE
+
+x = 417,  y= 301, delta = 0
+MouseButton - None
+x = 416,  y= 301, delta = 0
+MouseButton - None
+x = 407,  y= 288, delta = 0
+MouseButton - None
+x = 395,  y= 273, delta = 0
+MouseButton - None
+x = 381,  y= 258, delta = 0
+MouseButton - None
+x = 366,  y= 239, delta = 0
+MouseButton - None
+x = 341,  y= 218, delta = 0
+MouseButton - None
+x = 324,  y= 206, delta = 0
+MouseButton - None
+x = 309,  y= 198, delta = 0
+MouseButton - None
+x = 293,  y= 191, delta = 0
+MouseButton - None
+x = 282,  y= 188, delta = 0
+MouseButton - None
+x = 278,  y= 187, delta = 0
+MouseButton - None
+x = 273,  y= 185, delta = 0
+MouseButton - None
+x = 266,  y= 176, delta = 0
+MouseButton - None
+x = 249,  y= 153, delta = 0
+MouseButton - None
+x = 237,  y= 136, delta = 0
+MouseButton - None
+x = 234,  y= 132, delta = 0
+MouseButton - None
+x = 234,  y= 131, delta = 0
+MouseButton - None
+x = 232,  y= 129, delta = 0
+MouseButton - None
+x = 232,  y= 128, delta = 0
+MouseButton - None
+x = 231,  y= 127, delta = 0
+MouseButton - None
+x = 228,  y= 124, delta = 0
+MouseButton - None
+x = 226,  y= 121, delta = 0
+MouseButton - None
+x = 224,  y= 118, delta = 0
+MouseButton - None
+x = 224,  y= 117, delta = 0
+MouseButton - None
+x = 224,  y= 116, delta = 0
+MouseButton - None
+x = 224,  y= 116, delta = 0
+MouseButton - Left
+x = 224,  y= 116, delta = 0
+MouseButton - None
+x = 222,  y= 115, delta = 0
+MouseButton - None
+KeyDown - LControlKey
+Active Window - file:///C:/Users/alefr/Documents/Alessandra/MSICU/3Semestre/Fundamentos de Seguridad/Lab5 - RemoteManager/Lab5 - RemoteManager/Pruebas/bin/Debug/Pruebas.EXE
+
+x = 677,  y= 199, delta = 0
+MouseButton - None
+x = 676,  y= 199, delta = 0
+MouseButton - None
+x = 675,  y= 199, delta = 0
+MouseButton - None
+x = 667,  y= 194, delta = 0
+MouseButton - None
+x = 660,  y= 188, delta = 0
+MouseButton - None
+x = 647,  y= 179, delta = 0
+MouseButton - None
+x = 626,  y= 165, delta = 0
+MouseButton - None
+x = 595,  y= 148, delta = 0
+MouseButton - None
+x = 554,  y= 128, delta = 0
+MouseButton - None
+x = 523,  y= 113, delta = 0
+MouseButton - None
+x = 493,  y= 103, delta = 0
+MouseButton - None
+x = 475,  y= 98, delta = 0
+MouseButton - None
+x = 452,  y= 92, delta = 0
+MouseButton - None
+x = 441,  y= 91, delta = 0
+MouseButton - None
+x = 433,  y= 91, delta = 0
+MouseButton - None
+x = 422,  y= 94, delta = 0
+MouseButton - None
+x = 413,  y= 103, delta = 0
+MouseButton - None
+x = 399,  y= 116, delta = 0
+MouseButton - None
+x = 390,  y= 123, delta = 0
+MouseButton - None
+x = 384,  y= 128, delta = 0
+MouseButton - None
+x = 384,  y= 129, delta = 0
+MouseButton - None
+x = 381,  y= 133, delta = 0
+MouseButton - None
+x = 380,  y= 135, delta = 0
+MouseButton - None
+x = 376,  y= 141, delta = 0
+MouseButton - None
+x = 372,  y= 147, delta = 0
+MouseButton - None
+x = 370,  y= 152, delta = 0
+MouseButton - None
+x = 367,  y= 157, delta = 0
+MouseButton - None
+x = 366,  y= 160, delta = 0
+MouseButton - None
+x = 362,  y= 169, delta = 0
+MouseButton - None
+x = 358,  y= 175, delta = 0
+MouseButton - None
+x = 357,  y= 177, delta = 0
+MouseButton - None
+x = 353,  y= 183, delta = 0
+MouseButton - None
+x = 345,  y= 192, delta = 0
+MouseButton - None
+x = 339,  y= 200, delta = 0
+MouseButton - None
+x = 333,  y= 207, delta = 0
+MouseButton - None
+x = 330,  y= 213, delta = 0
+MouseButton - None
+x = 329,  y= 218, delta = 0
+MouseButton - None
+x = 329,  y= 220, delta = 0
+MouseButton - None
+x = 329,  y= 227, delta = 0
+MouseButton - None
+x = 329,  y= 230, delta = 0
+MouseButton - None
+x = 331,  y= 241, delta = 0
+MouseButton - None
+x = 334,  y= 249, delta = 0
+MouseButton - None
+x = 340,  y= 255, delta = 0
+MouseButton - None
+x = 345,  y= 260, delta = 0
+MouseButton - None
+x = 349,  y= 262, delta = 0
+MouseButton - None
+x = 350,  y= 262, delta = 0
+MouseButton - None
+x = 352,  y= 262, delta = 0
+MouseButton - None
+x = 354,  y= 263, delta = 0
+MouseButton - None
+x = 365,  y= 265, delta = 0
+MouseButton - None
+x = 375,  y= 266, delta = 0
+MouseButton - None
+x = 378,  y= 267, delta = 0
+MouseButton - None
+x = 379,  y= 267, delta = 0
+MouseButton - None
+x = 380,  y= 267, delta = 0
+MouseButton - None
+x = 381,  y= 267, delta = 0
+MouseButton - None
+x = 384,  y= 267, delta = 0
+MouseButton - None
+x = 389,  y= 267, delta = 0
+MouseButton - None
+x = 397,  y= 268, delta = 0
+MouseButton - None
+x = 402,  y= 269, delta = 0
+MouseButton - None
+x = 404,  y= 269, delta = 0
+MouseButton - None
+x = 404,  y= 269, delta = 0
+MouseButton - None
+x = 405,  y= 269, delta = 0
+MouseButton - None
+x = 405,  y= 269, delta = 0
+MouseButton - Left
+x = 405,  y= 269, delta = 0
+MouseButton - None
