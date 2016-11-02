@@ -161,7 +161,7 @@ namespace Pruebas
             smtp.Port = 587;
             smtp.UseDefaultCredentials = false;
 
-            smtp.Credentials = new NetworkCredential("alefrai_15@hotmail.com", "tweety0815");
+            smtp.Credentials = new NetworkCredential("alefrai_15@hotmail.com", "contasenia");
             smtp.EnableSsl = true;
             //smtp.Timeout = 7000;
 
